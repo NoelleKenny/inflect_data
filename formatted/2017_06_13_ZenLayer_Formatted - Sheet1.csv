@@ -1,0 +1,95 @@
+peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,name,DC Code,address1,address2,campus,notes,city,zipcode,state,country,npanxx,peeringDB owner_id,clli,Future Planned DC,rencode,Retired DC,Not Found,Data Source URL,Neighboorhood,DC Parent,DC Parent Code,Carrier,Carrier,Carrier,Carrier,Carrier,Carrier,Carrier,Location ,Service Level Agreement,Power/Cooling,Power/Cooling,Power/Cooling,Power/Cooling,Certifications,Certifications,Certifications,Certifications,Certifications,Certifications
+,,,,ZenLayer,,,TOR1,905 King Street West,,,,Toronto,M6K 3G9,ON,Canada,,,,,,,,,,Cologix,TOR2,GTT,,,,,,, 24 km/15 mi to Toronto Pearson Intl Airport (YYZ),100% availability for all power and environmental systems,Electrical Capacity – excess of 8 KW per cabinet,UPS Configuration – customizable up to 2N redundancy,Cooling – N+1 high performance chillers / N+1 cooling tower,,SSAE 16 SOC-1 Type II,Support to gain PCI compliance on an individual basis,,,,
+,,,,ZenLayer,,,ATL1,300 Satellite Blvd NW,,,,Atlanta,30024,GA,United States,,,,,,,,,,QTS,,Cogent,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,BOS1,74 West Street,1st Floor,,,Boston,2541,MA,United States,,,,,,,,,,Equinix IBX, BO1,Cogent,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,CHI1,350 East Cermak Rd,6th Floor Ste 650,,,Chicago,60616,IL,United States,,,,,,,,,,Equinix, CH3,GTT,,,,,,,"10 mi/17 km from Midway Intl Airport (MDW)
+21 mi/34 km from O’Hare Intl Airport (ORD)","99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability",Electrical Capacity – 2.4 kVA per cabinet,UPS configuration – N+1 Block Redundant System," Cooling Capacity – 2.5 kW per cabinet (8,533 BTUH)",, SSAE16 SOC-1 Type II Certified,,,,,
+,,,,ZenLayer,,,DFW1,1950 N. Stemmons Fwy,Suite 1034,,,Dallas,75207,TX,United States,,,,,,,,,,Equinix IBX, DA1,GTT,LEVEL3,HE,,,,,"5 mi/8 km to Dallas Love Field Airport (DAL)
+18 mi/29 km to Dallas-Fort Worth Airport (DFW)","99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability",Electrical Capacity – 2.4 kVA per cabinet,UPS Configuration – N+1 Distributed Redundant System,"Cooling Capacity – 1.75 kW per cabinet (5,973 BTUH)",,SSAE16 SOC-1 Type II Certified,,,,,
+,,,,ZenLayer,,,DEN1,639 East 18th Avenue,,,,Denver,80203,CO,United States,,,,,,,,,,Coresite, DE2,GTT,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,LAX1,624 S. Grand Ave,Suite #2435,,,Los Angeles,90017,CA,United States,,,,,,,,,,Hines One Wilshire,,Tata,CU,CT,Any2,GTT,Level3,HE,,,,,,,,,,,,
+,,,,ZenLayer,,,LAX2,900 N. Alameda St.,Suite 200,,,Los Angeles,90012,CA,United States,,,,,,,,,,Coresite, LA2,Tata,CU,CT,Any2,GTT,Level3,HE,19 mi/31 km to Los Angeles Intl Airport (LAX),"100% uptime SLA
+Six 9s (99.9999%) historical portfolio uptime","Electrical – N, N+1, 2N UPSs, PDUs, and RPPs; N+1",redundancy on generators,"Cooling – N+1, chillers, CRAHs and chilled water pumps",,SSAE 16 SOC 1 Type II Certified,PCI DSS,Infrastructure/physical security standards support HIPAA compliance,,,
+,,,,ZenLayer,,,MIA1,50 NE 9th Street,,,,Miami,33132,FL,United States,,,,,,,,,,Verizon NAP Miami,,Level 3,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,SJC1,9 Great Oaks Blvd.,,,,San Jose,95119,CA,United States,,,,,,,,,,Equinix IBX, SV5,GTT,Level 3,PCCW,,,,,"14 mi/23 km to San Jose Intl Airport (SJC)
+46 mi/75 km to San Francisco Intl Airport (SFO)
+46 mi/76 km to Oakland Intl Airport (OAK)","99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability
+",Electrical Capacity – 4.0–5.0 kVA per cabinet,UPS Configuration – 5+1 block redundant topology,Cooling Capacity – 4.0 kVA per cabinet (13652 BTUH),,,SSAE16 SOC-1 Type II Certified,Energy Star Certified,,,
+,,,,ZenLayer,,,SEA1,3433 South 120th Place,Integrate East Building 4,,,Seattle,98168,WA,United States,,,,,,,,,,Digital Realty Telx,SEA1,Cogent,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,IAD1,21721 Filigree Court,,,,Washington D.C.,20147,,United States,,,,,,,,,,Equinix IBX, DC6,GTT,Level 3,,,,,,"7 mi/11 km to Dulles Intl Airport (IAD)
+33 mi/52 km to Reagan Washington National Airport (DCA)
+61 mi/98km to Baltimore- Washington Intl Airport (BWI)","99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability",Electrical Capacity – 5.0 kVA per cabinet,UPS Configuration – N+1 block redundant System,"Cooling Capacity – 5.0 kW per cabinet (17,065 BTUH)",,SSAE16 SOC-1 Type II Certified,Silver LEED Certification,ptime Institute M&O Site Award,,,
+,,,,ZenLayer,,,IAD2,21691 Filigree Court,,,,Washington D.C.,20147,,United States,,,,,,,,,,Equinix IBX, DC4,GTT,Level 3,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,IAD3,12098 Sunrise Valley Dr.,,,,Washington D.C.,20191,,United States,,,,,,,,,,Coresite, VA2,GTT,Level 3,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,IAD4,12100 Sunrise Valley Dr.,,,,Washington D.C.,20191,,United States,,,,,,,,,,Coresite, VA1,GTT,Level 3,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,SAO1,Alameda Araguaia 3641,,,,Sao Paulo,06455-000,,Brazil,,,,,,,,,Tamboré Barueri/SP,Equinix IBX, SP2,Level 3,,,,,,,"48 km/30 mi to Sao Paulo International Airport - Guarulhos (GRU)
+26 km/16 mi to Congonhas (CGH) Airport","99.999+% Power availability
+99.99+% Temperature availability
+99.99+% Cross Connect availability"," Electrical Capacity – up to 12,0 kVA per rack","UPS Configuration – 4 systems x 1.6 kVA (1,44 kW), and 2 systems x 2,000 kVA (1,840 kW), 2N","  Cooling capacity – up to 12.0 kVA per rack (36,709 BTUH)",, ISAE3402 e SSAE16 SOC1 Tipo II,SAP Infrastructure Operations Services, ISO 27001:2013,ISO 9001:2008, PCI DSS 3.0, TIER III
+,,,,ZenLayer,,,PAR1,Paris Nord 2,167 Rue de la Belle Etoile,,,Paris,95948,,France,,,,,,,,,"Roissy, CDG Cedex",Equinix IBX, PA1,GTT,,,,,,," 21 km/13 mi to Paris Gare du Nord Train Station
+9 km (5.5 mi) to Paris- Charles de Gaulle Airport (CDG)","99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability",Electrical Capacity – 1 kVA/m2, UPS Configuration – Three (3x500 kVA),UPS Topology – N+N distribution redundancy principal,Cooling Capacity – .65 kW/m² (2218 BTUH), ISO 9001:2008,ISO 27001, ISAE 3402,,,
+,,,,ZenLayer,,,FRA1,Hanauer Landstraße 298,,,,Frankfurt,60314,,Germany,,,,,,,,,,Interxion,,GTT,Tata,,,,,,17 km/11 mi to Frankfurt Airport (FRA),99.999% availability,"Power –  two power feeds for all equipment, each independently equipped with UPS (2N)", High density power configurations,Cooling – N+1 redundancy,,ISO/IEC 27001, ISO 22301, ISO 9001,PCI DSS,,
+,,,,ZenLayer,,,MIL1,Via Caldera 21,Building C,,"21 Piastra Della, Palazzina",Milan,C 20153,,Italy,,,,,,,,,,Interoute,,GTT,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,ROM1,Via Cornelia 498,,,,Rome,166,,Italy,,,,,,,,,,Interoute,,GTT,,,,,,,,,,,,, ISO 27001,ISO 20000, PCI DSS (9&12), ISAE 3402,SSAE 16 Type II,
+,,,,ZenLayer,,,MOW1,41 Korovinskoye Shosse,,,,Moscow,125412,,Russia,,,,,,,,,,Dataline,,Dataline,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,MAD1,71 Calle Albasanz,,,,Madrid,28037,,Spain,,,,,,,,,,Interxion,,GTT,,,,,,, 6 km/4 mi to Madrid Airport (MAD), 99.999% availability,"Power – 2x15 MVA redundant grid connection, 2N UPS redundancy, N+1 backup generators",High density power configurations, Powered by 100% renewable energy,Cooling – N+1 redundancy, ISO 20000, ISO 27001,BS 25999,,,
+,,,,ZenLayer,,,DXB1,IMPZ,,,,Dubai,,,United Arab Emirates,,,,,,,,,,Equinix IBX, DX1,Du,,,,,,,38 km/24 mi to Dubai International Airport,"99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability","Electrical Capacity – up to 6 kVA per cabinet, higher capacity at request", UPS Topology – Distributed Redundant,Cooling Capacity – 1.35 kW/m²,Cooling Plant – Chillers & CRACs N+1 configuration,ISO 27001:2005,ISO 9001: 2008,,,,
+,,,,ZenLayer,,,MEL1,600 Lorimer Street,Port Melbourne,,,Melbourne,3207,,Australia,,,,,,,,,Port Melbourne Victor,Equinix IBX, ME1,Equinix,,,,,,,   27 km/17 mi to Melbourne International Airport (MEL),"99.999+% Power availability
+99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability",Electrical Capacity – 3.5 kVA per cabinet,UPS configuration – 5 x 1600 kVA (N+1 block redundant),Cooling Capacity – 3.5kVA/Cab,,ISO/IEC 27001: 2013,,,,,
+,,,,ZenLayer,,,AKL1,162 Grafton Road,Grafton,,,Auckland,,,New Zealand,,,,,,,,,,Compass,,Compass,,,,,,,19 km/12 mi to Auckland International Airport (AKL),,,,,,,,,,,
+,,,,ZenLayer,,,BOM1,"Tower A, 7th Floor",Kashinath Dhuru Marg,,,Mumbai,,,India,,,,,,,,,,Tata,,Tata,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,JKT1,JL. DI Panjaitan Kav. 42,,,,Jakarta,,,Indonesia,,,,,,,,,,Telkom Indonesia,,Telkom Indonesia,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,OSA1,,,,,Osaka,,,Japan,,,,,,,,,,NTT Osaka 5,,NTT,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,TYO1,,,,,Tokyo,,,Japan,,,,,,,,,,NTT Tokyo 4,,NTT,,,,,,,"3 km/2 mi to Tokyo station
+ 80 min drive to Narita International Airport (NRT)",,Electrical Capacity – up to 6 kVA per rack,UPS configuration – N+1 redundant topology," Cooling – Water-cooling system, N+1 redundant configuration",,  ISO 9001,ISO 14000, ISO 20000,ISO 22301, ISO 27001,COPC-2000
+,,,,ZenLayer,,,KUL1,No.1 Jalan Tun Mohd Fuad,Level 5,,,Kuala Lumpur,60000,,Malaysia,,,,,,,,,Taman Tun Dr Ismail,Telekom Malaysia,,Telekom Malaysia,,,,,,, 60 km/ 37 mi to Kuala Lumpur International Airport (KUL),," Dual incoming power supply (N+1 system), with back-up power from 2 generators",Generator – Configured for N+1 availability, Multiple UPS systems configured as 2N,  Cooling System – N+1 air-cooled system and distribution path, ISO 27001:2005,TIA 942 Data Center Infrastructure, OSHE,ITIL, Uptime Institute Standard,
+,,,,ZenLayer,,,SIN2,15 Pioneer Walk,,,,,627753,,Singapore,,,,,,,,,,Equinix IBX, SG2,PCCW,Singtel,Tata,Starhub,EIE,,,40 km/25 mi to Singapore Changi International Airport (SIN),"99.999+% Power availability
+ 99.99+% Temperature & Humidity availability
+99.99+% Cross Connect availability", Electrical Capacity – 3.6 kVA," UPS Configuration – N+N / N+1 / 2N redundancy topology, depending on equipmen",Cooling Capacity – 3.6 kVA,"Cooling Configuration – N+1 or N+20%, depending on equipment",ISO/IEC 27001: 2013, SSAE16 SOC-1 Type II,SS 564 Part-1 : 2013,BCA-IDA Green Mark GoldPLUS,,
+,,,,ZenLayer,,,SEL1,Gwanghwamun Global DIC,178 Sejongdaero,,,Seoul,,,South Korea,,,,,,,,,Jongro-gu,Korea Telecom,,Korea Telecom,,,,,,,"16 km/10 mi to Gimbo International Airport (NRT)
+49 km/30 mi to Incheon International Airport (ICN)",,,,,,"TIA-942 Tier 3,4",,,,,
+,,,,ZenLayer,,,KHH1,"2F, No.18 Zhongshan 1st Rd.",,,,Kaohsiung,,,Taiwan,,,,,,,,,Xinxing District,CHT,,CHT,,,,,,,9 km/5 mi to Kaohsiung International Airport (KHH),,Cooling – N+1 redundancy,"UPS power supply circuit, dual source substation, diesel generator",,, ISO 9001,OHSAS 18001, ISO 14001,ISO 27001/27011,ISO 50001,
+,,,,ZenLayer,,,TPE1,No.8 Guoqing Rd.,,,,Taipei,,,Taiwan,,,,,,,,,Banqiao District,CHT,,CHT,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,BKK1,1854 Bangna Trad Road,3rd Floor,,,Bangkok,,,Thailand,,,,,,,,,Bang Na,TCCT,,UIH,,,,,,, 10 km/6 mi to Suwannabhumi International Airport (BKK),,,,,, ISO 9001,ISO 27001,,,,
+,,,,ZenLayer,,,SGN1,FPT IDC HCM,Lô 37-39A,,,HCMC,đường 19,,Vietnam,,,,,,,,,,FPT,,FPT,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,PEK2,15 Tongji Rd.,,,,Beijing,,,China,,,,,,,,,Beijing Economic-Technological Development Area,,,China Unicom,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,CTU1,1666 YiZhouDaDao Rd.,,,,Chengdu,610095,,China,,,,,,,,,,"Litong Network Technology Co., Ltd.",,China Telecom,,,,,,,14 km/9 mi to Chengdu Shuangliu International Airport (CTU),,,,,,Five Star Diamond,Anti-seismic grade 8,,,,
+,,,,ZenLayer,,,CKG1,32 Huixingbaotong St.,7th floor,,,Chongqing,401120,,China,,,,,,,,,Yubei District,China Telecom/GS,,China Telecom,,,,,,,8 km/5 mi to Chongqing Jiangbei International Airport (CKG),,,,,,,,,,,
+,,,,ZenLayer,,,FUO1,7 Guichengjiedaonanliu St.,,,,Foshan,528253,,China,,,,,,,,,,China Telecom/GS,,China Telecom,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,CAN1,1 Tianyun Rd.,,,,Guangzhou,510663,,China,,,,,,,,,Tianhe District,,,China Telecom,,,,,,,43 km/27 mi to Guangzhou Baiyun International Airport (CAN),,,,,,,,,,,
+,,,,ZenLayer,,,HKG1,17/F Global Gateway,168 Yeung Uk Rd,,,Hong Kong,,,China,,,,,,,,,Tsuen Wan N.T.,Equinix,HK1,PCCW,Tata,EIE,,,,,25 km/15 mi to Hong Kong International Airport (HKG),"99.999+% Power availability
+99.99+% Temperature & Humidity availability
+ 99.99+% Cross Connect availability",Electrical Capacity – 1.75 -3.52 kVA per cabinet,UPS Configuration – N+1 redundant topology,Cooling –N+1 redundancy,  Cooling Capacity – 1.75 -3.52 kVA per cabinet,   ISO/IEC 27001: 2013,SSAE16 SOC-1 Type II,,,,
+,,,,ZenLayer,,,HKG3,6/F 1 Wang Wo Tsai St.,,,,Hong Kong,,,China,,,,,,,,,Tsuen Wan N.T.,Equinix,HK3,PCCW,Tata,EIE,,,,,25 km/15 mi to Hong Kong International Airport (HKG),"99.999+% Power availability
+99.99+% Temperature & Humidity availability
+ 99.99+% Cross Connect availability",Electrical Capacity – 2-3 kVA per cabinet,"UPS Configuration – N+1 / N+N / 2N, depending on cabinet location",Cooling Capacity – 2-3 kVA per cabinet,,   ISO/IEC 27001: 2013,SSAE16 SOC-1 Type II, LEED Gold Certificate (Phase II),,,
+,,,,ZenLayer,,,TNA1,Danshantun IDC Building,,,,Jinan,,,China,,,,,,,,,,China Unicom ,,China Unicom,,,,,,, 16 km/10 mi to Jinan Yaoqiang International Airport (TNA),,,,,,,,,,,
+,,,,ZenLayer,,,NKG1,77 N. Daqiao Rd,,,,Nanjing,211399,,China,,,,,,,,,,China Telecom,,China Telecom,,,,,,,55 km/34 mi to Nanjing Lukou International Airport (NKG),,,,,,,,,,,
+,,,,ZenLayer,,,NKG2,Lishui Mobile Building,Suiyuan Rd.,,,Nanjing,211299,,China,,,,,,,,,,China Mobile,,China Mobile,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,SHA2,588 Jiyun Rd.,Building 1,,,Shanghai,200443,,Shanghai,,,,,,,,,,21Vianet,,China Telecom,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,SHA3,523 Hulan Rd.,#1-1,,,Shanghai,200431,,Shanghai,,,,,,,,,,51IDC,,51IDC,,,,,,," 50 km/31 mi to Shanghai Pudong International Airport (PVG)
+28 km/17 mi to Shanghai Hongqiao Airport (SHA)",,,,,,,,,,,
+,,,,ZenLayer,,,SHA5,Building No. 9,619 Longchang Rd.,,,Shanghai,200090,,Shanghai,,,,,,,,,Yangpu District,Equinix,,CT/CU,,,,,,,"40 km/25 mi to Shanghai Pudong International Airport (PVG)
+30 km/19 mi to Shanghai Hongqiao Airport (SHA)",,,,,,,,,,,
+,,,,ZenLayer,,,SHE1,No.167-2 Kunshanxi Rd.,,,,Shenyang,110088,,China,,,,,,,,,,China Unicom,,China Unicom,,,,,,,  38 km/24 mi to Shenyang Taoxian International Airport (SHE),,,,,,,,,,,
+,,,,ZenLayer,,,SHE2,84 Huanghebeida St,,,,Shenyang,110087,,China,,,,,,,,,Huanggu District,China Unicom,,China Unicom,,,,,,,46 km/29 mi to Shenyang Taoxian International Airport (SHE),,,,,,,,,,,
+,,,,ZenLayer,,,SJW1,89 Kunlun St,,,,Shijiazhuang,50000,,China,,,,,,,,,Gaoxin District,China Unicom,,China Unicom,,,,,,,35 km/22 mi to Shijiazhuang Zhengding International Airport (SJW),,,,,,,,,,,
+,,,,ZenLayer,,,TSN1,6 Ziyuan Rd.,,,,Tianjin,300384,,China,,,,,,,,,Nankai District,China Telecom,,China Telecom,,,,,,,35 kim/22 mi to Tianjin Binhai International Airport (TSN),,,,,,,,,,,
+,,,,ZenLayer,,,WNZ1,336 Qingyuan Rd.,,,,Wenzhou,325699,,China,,,,,,,,,Leqing District,China Telecom/GS,,China Telecom,,,,,,,  45 km/28 mi to Wenzhou Longwan International Airport (WNZ),,,,,,,,,,,
+,,,,ZenLayer,,,WUH1,217 Jiefangdadao Rd.,,,,Wuhan,430034,,China,,,,,,,,,,China Telecom,,China Telecom,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,WUX1,61 Dingshan Rd.,,,,Wuxi,214434,,China,,,,,,,,,Jiangyin District,China Telecom/GS,,China Telecom,,,,,,,57 km/ 35 mi to Sunan Shuofang International Airport (WUX),,,,,,,,,,,
+,,,,ZenLayer,,,XIY2,55 Shijida Rd.,"Suite A10, Block C",,,Xi'an,712046,,China,,,,,,,,,Qindu District,China Telecom/GS,,China Telecom,,,,,,,,,,,,,,,,,,
+,,,,ZenLayer,,,ZUH1,2005 Jiuzhoudadaozhong,4th Floor,,,Zhuhai,519015,,China,,,,,,,,,,China Unicom/ GS,,China Unicom,,,,,,,,,,,,,,,,,,
