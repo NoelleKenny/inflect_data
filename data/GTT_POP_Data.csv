@@ -1,0 +1,312 @@
+Internal PoP List,,,,,,,
+Region,Country,Metro,Address,Colo,Optical Transport,IP and EtherCloud,Video
+APAC,Australia,Sydney,"639 Gardeners Road, Sydney,  2020, Australia",Equinix SY1,,x,
+APAC,China,Hong Kong,"399 Chai Wan Rd, Chai Wan, Hong Kong",iAdvantage (Mega-I) 8th Floor,,x,x
+APAC,China,Hong Kong,"168 Yeung Uk Rd, Hong Kong",Equinix HK1,,x,
+APAC,China,Hong Kong,"Kerry Warehouse, 3 Shing Yiu St, Tsuen Wan, Kowloon, Hong Kong ",Equinix HK2,,x,
+APAC,Japan,Tokyo,"3-8-21 Higashi-Shinagawa, Shinagawa-ku, Tokyo, 140-0002, Japan",Equinix TY2,,x,x
+APAC,Japan,Tokyo,"1 Chome-9-20 Edagawa, KÅçtÅç-ku, TÅçkyÅç-to 135-0051, Japan",Equinix TY3,,ICB*,
+APAC,Singapore,Singapore,"2 Tai Seng Ave, Singapore 534408, Singapore",Global Switch ,,ICB*,
+APAC,Singapore,Singapore,"20 Ayer Rajah Crescent  #05-05/08, Singapore, 139964, Singapore",Equinix SG1,,x,
+EMEA,Austria,Vienna,"Louis-HÃ_fliger-Gasse 10, Vienna 1210, Austria",InterXion,,x,x
+EMEA,Belgium,Antwerp,"North Trade Building, Noorderlaan 137, Antwerpen, B-2030, Belgium",LCL Belgium NV,,x,
+EMEA,Belgium,Brussels,"Tollaan 99, 1200 Sint-Lambrechts-Woluwe, Belgium",euNetworks,x, ,x
+EMEA,Belgium,Brussels,"Wezembeekstraat 2, Brussels, 1930, Belgium",InterXion BRU1,x,x,
+EMEA,Belgium,Brussels,"Kouterveldstraat 13-15, Brussels, Belgium",LCL Belgium NV,,x,
+EMEA,Bulgaria,Sofia,"26a Andrey Saharov Blvd, Sofia, 1784, Bulgaria",Neterra Communications,,x,
+EMEA,Bulgaria,Sofia,"Ovche pole St. 122, Sofia, 1303, Bulgaria",Telepoint OOD,,x,
+EMEA,Czech Republic,Prague,"Nad Elektrarnou 411, 10600 Prague, Czech Republic","CE Colo, SITEL (ICB)",,x,
+EMEA,Denmark,Copenhagen,"Industriparken 20, 2750 Ballerup, Denmark",InterXion CPH1,,ICB*,x
+EMEA,Denmark,Copenhagen,"Metrovej, 2300 KÃ¸benhavn S, Denmark",TSIC POP1,,ICB*,x
+EMEA,Denmark,Copenhagen,"HÃ¸rskÃ_tten 3-5, Hall 2, 2630 Taastrup, Copenhagen, Denmark",GlobalConnect,,x,x
+EMEA,Denmark,Copenhagen,"Dtu Building 304, Lyngby, 2800, Denmark",Technical University of Denmark,,x,
+EMEA,Denmark,Glostrup,"Ejby Industrivej 135, 2600 Glostrup, Denmark",TeliaSonera Data Center #3,,,x
+EMEA,Estonia,Tallinn,"Fr. R. Kreutzwaldi, Tallinn, Estonia",Elion (subsidiary of Telia),,,x
+EMEA,Finland,Helsinki,"Iso Roobertinkatu 21, 00120 Helsinki, Finland",TSIC POP 1,,,x
+EMEA,Finland,Helsinki,"Kansakoulukuja 3, 00101 Helsinki, Finland",TSIC POP 2,,,x
+EMEA,Finland,Helsinki,"Uutiskatu 5, 00240 Helsinki, Finland",Digita Networks Oy,,,x
+EMEA,France,Marseille,"40 Avenue Roger Salengro, Marseille 13003, France",InterXion MRS 1,,x,
+EMEA,France,Paris,"137 Boulevard Voltaire, Paris, 75011, France",Telehouse 2 (Paris Voltaire),x,x,x
+EMEA,France,Paris,"124 Boulevard De Verdun, Courbevoie, 92400, France",SFR Group,,x,x
+EMEA,France,Paris,"22 Avenue des Nations, 93420 Villepinte, France",TeliaSonera Paris DataCenter #2,,,x
+EMEA,France,Paris,"114 Rue Ambroise Croizat, Paris, 93200, France",Equinix PA3,,x,
+EMEA,France,Paris,"20, Rue Des Gardinoux, Aubervilliers, 93534, France",InterXion PAR2,,x,
+EMEA,France,Paris,"38 Rue des Jeuneurs, Paris, 75002, France",Telehouse 1 (Paris Jeuneurs),,x,
+EMEA,France,Paris,"45 Avenue Victor Hugo, 93300 Aubervilliers, France",InterXion PAR1 ,,x,
+EMEA,France,Paris,"61 Rue Julian Grimau, Vitry-sur-Seine, Paris, 75008, France",Iliad Datacentre,,x,
+EMEA,France,Paris,"9 Energy Park 130-136 Blvd de Verdun, Courbevoi cedex, Paris, 92413, France",TelecityGroup Paris (Courbevoie Cedex),,x,
+EMEA,France,Paris,"E.M.G.P., Bat. 2545 Avenue Victor Hugo, Aubervilliers,  93534, France",TelecityGroup Paris (Aubervilliers),,x,
+EMEA,France,Strasbourg,"5 Rue du Havre, 67100 Strasbourg, France",euNetworks,x,,
+EMEA,Germany,Berlin,"Alboinstrasse 36, 12103 Berlin, Germany",Speedbone,,ICB*,
+EMEA,Germany,Dusseldorf ,"In der Steele 29, 40599 DÃ_sseldorf, Germany",InterXion DUS1,x,,
+EMEA,Germany,Dusseldorf ,"In der Steele 35, 40599 DÃ_sseldorf, Germany",euNetworks,x,,
+EMEA,Germany,Frankfurt,"Kleyerstrasse 90, 60326 Frankfurt, Germany",Equinix FR5,x,ICB*,x
+EMEA,Germany,Frankfurt,"Kleyerstrasse 26, 60326 Frankfurt, Germany",,,,x
+EMEA,Germany,Frankfurt,"RebstÃ¶cker Str. 55, 60326 Frankfurt, Germany",TSIC PoP 1,,,x
+EMEA,Germany,Frankfurt,"Hanauer Landstrasse 302, 60314 Frankfurt, Germany",InterXion FRA1,x,x,
+EMEA,Germany,Frankfurt,"25-31,Rebstockerstrasse, Frankfurt, 60314, Germany",Itenos,,x,
+EMEA,Germany,Frankfurt,"Gutleutstrasse 310, 60327 Frankfurt, Germany",TelecityGroup Frankfurt (Gutleutstrasse),,x,
+EMEA,Germany,Frankfurt,"Kleyerstrasse 88, Frankfurt, 60326, Germany",Ancotel,,x,
+EMEA,Germany,Frankfurt,"Friesstrasse 26, 60388 Frankfurt, Germany",Equinix FR2,x, ,
+EMEA,Germany,Frankfurt ,"Lyonerstrasse 28, Frankfurt,  D 60528, Germany",Telecity,,x,
+EMEA,Germany,Frankfurt ,"Taubenstrasse 7-9, Frankfurt , 60313, Germany",Equinix FR1,,x,
+EMEA,Germany,Frankfurt ,"LÃ_rchenstrasse 110, 65933 Frankfurt, Germany",Equinix FR4,x, ,
+EMEA,Germany,Hamburg,"Wendenstrasse 408, 20537 Hamburg, Germany",IPHH,,ICB*,
+EMEA,Germany,Hamburg,"Langenhorner Chaussee 44, Hamburg,  22335, Germany",E-Shelter Colocation,,x,
+EMEA,Germany,Mannheim,"Hans-Thoma-Strasse 17, 68163 Mannheim, Germany",Itenos,x,,
+EMEA,Germany,Munich,"MÃ_nchener Str. 101B, 85737 Ismaning, Germany",Home Shopping Europe,,,x
+EMEA,Germany,Munich,"Seidlstrasse 3, Munich,  80335, Germany",Equinix MU1,,x,
+EMEA,Hungary,Budapest,"Budapest, Victor Hugo u. 18, 1132 Hungary",Interware,,ICB*,
+EMEA,Ireland,Cork,"Garrettstown, Co. Cork, Ireland",GTT (Hibernia),x,,
+EMEA,Ireland,Cork,"Hollyhill Industrial Estate, Cork, Ireland",Cork Internet eXchange,x,,
+EMEA,Ireland,Drogheda,"Drogheda, Co. Louth, Ireland",E-Net,x, ,
+EMEA,Ireland,Dublin,"Hibernia CLS, Clonshaugh Ind Est., Dublin, Ireland",GTT (Hibernia),x,ICB*,x
+EMEA,Ireland,Dublin,"55 N11, Dublin, Ireland",,,,x
+EMEA,Ireland,Dublin,"Northwest Business Park (Telecity), Dublin, Ireland",Equinix (Fka Telecity),x,ICB*,
+EMEA,Ireland,Dublin,"6/7 Kilcarbery Park Nangor Rd, Dublin,  22, Ireland",Equinix (Fka Telecity),x,x,
+EMEA,Ireland,Dublin,"Unit 24, Hume Avenue, Park West Business Park, Dublin, 12, Ireland",InterXion DUB2,,x,
+EMEA,Ireland,Dublin,"Unit 35 Lavery Avenue, Dublin, 12, Ireland",InterXion Dublin Ltd,,x,
+EMEA,Ireland,Dublin,"Unit 4027 Kingswood Road, Dublin, D24, Ireland",Equinix (Fka Telecity),,x,
+EMEA,Ireland,Dublin,"15 Ballycoolin Rd, Ballycoolin, Dublin, Ireland",Dataplex B10,x, ,
+EMEA,Ireland,Dublin,"4027 Kingswood Rd, Cheeverstown, Dublin, Ireland",Equinix (Fka Telecity),x, ,
+EMEA,Ireland,Dublin,"New Nangor Road, Co. Dublin, Ireland",,x, ,
+EMEA,Ireland,Dundalk,"Rampart Ln, Dundalk, Co. Louth, Ireland",,x, ,
+EMEA,Ireland,Letterkenny,"Justice Walsh Rd, Letterkenny, Co. Donegal, Ireland",,x, ,
+EMEA,Ireland,Monaghan,"Conabury House, York St, Conabury, Castleblayney, Co. Monaghan, Ireland",E-Net,x, ,
+EMEA,Ireland,Monaghan,"North Rd, Monaghan, Ireland",,x, ,
+EMEA,Italy,Milan,"Via Caldera 21, Milan 20153, Italy",Tiscali Italia & KPNQwest Italia,,x,
+EMEA,Italy,Milan,"Via Caldera 25, Milan, 20153, Italy",Infracom Network Application SpA,,x,
+EMEA,Italy,Rome,"Via Cornelia 498, Rome, 166, Italy",Interoute SpA ,,x,
+EMEA,Italy,Rome,"Via dei Tizii, 6, Rome,  00185, Italy",NaMex Internet eXchange,,x,
+EMEA,Italy,Turin,"Corso Svizzera 185A, Turin, 10149, Italy",IT Gate S.p.A. & Tiscaly Italy,,x,
+EMEA,Latvia,Riga,"ZaÄ·usalas krastmala 1, Zemgales priekÅ¡pilsÄ“ta, RÄ«ga, LV-1050, Latvia",GTT (Hibernia),,,x
+EMEA,Netherlands,Amsterdam,"Kuiperbergweg 13, Amsterdam, 1101 AE, Netherlands",Equinix AM7,x,x,x
+EMEA,Netherlands,Amsterdam,"Joop Geesinkweg 401, 1096 AX Amsterdam, Netherlands",TeliaSonera,,,x
+EMEA,Netherlands,Amsterdam,"J.W. Lucasweg 35, Haarlem, Netherlands",EvoSwitch,x,ICB*,
+EMEA,Netherlands,Amsterdam,"Luttenbergweg 4, 1101 EC Amsterdam-Zuidoost, Netherlands",Equinix AM2,x,ICB*,
+EMEA,Netherlands,Amsterdam,"Kruislaan 409, 1098 SH Amsterdam, Netherlands",NIKHEF,,ICB*,
+EMEA,Netherlands,Amsterdam,"Tupolevlaan 101, 1119 PA Schiphol-Rijk, Netherlands",Interxion AMS5,,ICB*,
+EMEA,Netherlands,Amsterdam,"Johan Huizingalaan 759, Amsterdam, 1066 VH, Netherlands",Global Switch Amsterdam,x,x,
+EMEA,Netherlands,Amsterdam,"Science Park 121, Amsterdam, 1098 XG, Netherlands",Vancis (SARA),x,x,
+EMEA,Netherlands,Amsterdam,"Science Park 610, Amsterdam, 1098 XH, Netherlands",Equinix AM3,x,x,
+EMEA,Netherlands,Amsterdam,"4 Luttenbergweg, Amsterdam, 1101 EC, Netherlands",Equinix AM2,,x,
+EMEA,Netherlands,Amsterdam,"Cateringweg 5, 1118 AM Schiphol, Amsterdam, Netherlands",Terremark / Verizon,,x,
+EMEA,Netherlands,Amsterdam,"Cessnalaan 1, Schiphol Rijk, Amsterdam, 1119 NJ, Netherlands",InterXion AMS3,,x,
+EMEA,Netherlands,Amsterdam,"Gyroscoopweg 2E - 2F, Amsterdam, 1042 AB, Netherlands",Equinix AM8,,x,
+EMEA,Netherlands,Amsterdam,"Science Park 105, Amsterdam, 1098 XG, Netherlands",NIKHEF,,x,
+EMEA,Netherlands,Amsterdam,"Science Park 120, Amsterdam, 1098 XG, Netherlands",Digital Realty (fka Telecity) AMS01,,x,
+EMEA,Netherlands,Amsterdam,"Wenckebachweg 127, Amsterdam, 1096 AM, Netherlands",Digital Realty (fka Telecity),,x,
+EMEA,Netherlands,Amsterdam ,"Paul van Vlissingenstraat 16, 1096 BK Amsterdam, Netherlands",euNetworks,,ICB*,
+EMEA,Netherlands,Amsterdam ,"Schepenbergweg 42, Amsterdam, 01105, Netherlands",Equinix AM5,,x,
+EMEA,Netherlands,Dronten,"De Linge 26, 8253 PJ Dronten, Netherlands",Serverius,,ICB*,
+EMEA,Netherlands,Hilversum,"Sumatralaan 45, 1217 Hilversum, Netherlands",InterXion (TeliaSonera),, ,x
+EMEA,Netherlands,Rotterdam,Schuttevaerweg 48 (R-IX),Rotterdam Internet Exchange,,ICB*,
+EMEA,Northern Ireland,Armagh,"Portadown Rd, Armagh BT61, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Ballymena,"Pennybridge Industrial Estate, Ballymena BT42 3ER, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Belfast,"Belfast BT3 9DT, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Belfast,"Carrickblacker Ave, Portadown, Craigavon BT63 5BB, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Belfast,"Lisburn Rd, Belfast, county antrim BT9 7GU, UK",Eircom,x,,
+EMEA,Northern Ireland,Coleraine,"Dundooan Rd, Coleraine BT52 1SF, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Derry,"Strand Rd, Londonderry BT48, UK",Telehouse (ILEX),x, ,
+EMEA,Northern Ireland,Omagh,"Gortrush Industrial Estate, Omagh BT78 5EJ, UK",GTT (Hibernia),x, ,
+EMEA,Northern Ireland,Strabane,"47 Derry Rd, Strabane BT82 8DY, UK",GTT (Hibernia),x, ,
+EMEA,Norway,Olso,"Ã˜kern Torgvei 13, 0580 Oslo, Norway",Oslo Broadcast Center,,,x
+EMEA,Norway,Olso,"Sigurds gate 14, 0650 Oslo, Norway",TeliaSonera,,,x
+EMEA,Norway,Oslo,"Ã˜stre Aker Vei 18a, Oslo, 581, Norway",TeliaSonera,,x,x
+EMEA,Poland,Warsaw,"Aleje Jerozolimskie 65, 00-697 Warszawa, Poland",PLIX DC,,x,
+EMEA,Romania,Bucharest,"8 Dimitrie Pompeiu Blvd, Bucharest, 20337, Romania",NXDATA-1,,x,
+EMEA,Slovakia,Bratislava,"Kopcianska 18, Bratislava, 851 01, Slovakia",SITEL s.r.o.,,x,
+EMEA,Spain,Barcelona,"Acero 30-32, Barcelona,  8038, Spain",Itconic ,,x,
+EMEA,Spain,Madrid,"Calle de Albasanz, 71, 28037 Madrid, Spain",Interxion Spain,,x,x
+EMEA,Spain,Madrid,"Calle de Mesena 80, Madrid, 28033, Spain",ESPANIX,,x,
+EMEA,Spain,Madrid,"Sala 105 - Edificio Empresarial Valsoto - c/ Valgrande n 6 - Alcobendas, Madrid, 28100, Spain",Itconic ,,x,
+EMEA,Spain,Madrid,"Yecora 4  Poligono Las Mercedes, Madrid, 28022, Spain",NAP of the Americas Madrid (Terremark),,x,
+EMEA,Sweden,Ã–rebro,"702 27 Ã–rebro, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Ã–rebro,"Ã–stra BorsvÃ_gen 30, 711 72 VedevÃ¥g, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Bjuv,"267 40 Bjuv, Sweden",TeliaSonera,,,x
+EMEA,Sweden,BorlÃ_nge,"Arkitektgatan 10, 781 70 BorlÃ_nge, Sweden",TeliaSonera,,,x
+EMEA,Sweden,GÃ_vle,"Drottninggatan 29, 803 11 GÃ_vle, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Gothenburg,"Rimmaregatan 10, 422 55 Hisings Backa, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Halmstad,"KÃ¶pmansgatan 41, 302 42 Halmstad, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Karlstad,"TelevÃ_gen 3, 656 31 Karlstad, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Limhamn,"LimhamnsgÃ¥rdens allÃ© 18, 216 16 Limhamn, Sweden",TeliaSonera,,,x
+EMEA,Sweden,LinkÃ¶ping,"Kungsgatan 20, 582 18 LinkÃ¶ping, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Lulea,"Magasinsgatan 10, 972 41 LuleÃ¥, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Lund,"Lund 240, 742 94 Ã–sthammar, Sweden",TeliaSonera,,,x
+EMEA,Sweden,MÃ¶lnlycke,"435 33 MÃ¶lnlycke, Sweden",TeliaSonera,,,x
+EMEA,Sweden,NorrkÃ¶ping,"602 26 NorrkÃ¶ping, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Ostersund,"832 45 FrÃ¶sÃ¶n, Sweden",TeliaSonera,,,x
+EMEA,Sweden,SkellefteÃ¥,"Storgatan, SkellefteÃ¥, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"Hammarbybacken, 121 45 Johanneshov, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"MÃ¶rka Kroken 1, 115 27 Stockholm, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"RÃ¥lambsvÃ_gen 28, 112 59 Stockholm, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"Esbogatan 11, 164 74 Kista, Sweden",InterXion STO1,,x,
+EMEA,Sweden,Stockholm,"MariehÃ_llsvÃ_gen 36, 168 65 Bromma, Sweden",Equinix (Fka Telecity),,x,
+EMEA,Sweden,Stockholm,"Solnavaegen 94 -169 51, Solna, Sweden",TeliaSonera,,x,
+EMEA,Sweden,Sundsvall,"GranloholmsvÃ_gen 2, 857 30 Sundsvall, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Umea,"901 79, 815 38 Tierp, Sweden",TeliaSonera,,,x
+EMEA,Switzerland,Zurich,"Hardstrasse 235, Zurich, 8005, Switzerland",Equinix ZH2,,x,
+EMEA,Switzerland,Zurich,"Margarethenstrasse 40, Basel, 4008, Switzerland",Telehouse,,x,
+EMEA,Switzerland,Zurich,"SÃ_gereistrasse 35, 8152 Opfikon, Switzerland",InterXion ZUR1,,x,
+EMEA,UAE,Doha,"Qatar Landing Station, Doha, Qatar",GBI,,x,
+EMEA,UAE,Dubai,"Au Tower, Dubai, United Arab Emirates",GBI,,ICB*,
+EMEA,UAE,Dubai,"Du Cable Landing Station, Corniche Road (includes backhaul to Datamena in Dubai), Fujairah,  United Arab Emirates",GBI,,x,
+EMEA,United Kingdom,Egham,"Wick Rd, Englefield Green, Egham TW20 0HR, UK",euNetworks,x,,
+EMEA,United Kingdom,London,"11 Hanbury Street, London,  E1 6QR, UK",InterXion LON1,x,x,x
+EMEA,United Kingdom,London,"14 Coriander Ave, Poplar, London E14 2AA, UK",Telehouse North / TeliaSonera,x,x,x
+EMEA,United Kingdom,London,"1 Harbour Exchange Square, Isle of Dogs, London E14, UK",TeliaSonera,,,x
+EMEA,United Kingdom,London,"64 Newman St, Fitzrovia, London W1T 3EF, UK",Travel Channel International,,,x
+EMEA,United Kingdom,London,"Harlequin Ave, Brentford TW8 9EW, UK",Sky Studio,,,x
+EMEA,United Kingdom,London,"Isleworth TW7 5QD, UK",Sky Broadcasting,,,x
+EMEA,United Kingdom,London,"Longwalk Rd, Hayes, Uxbridge UB11 1FE, UK",IMG Studio,,,x
+EMEA,United Kingdom,London,"2 Buckingham Ave, London, SL1 4NB, UK",Equinix LD4,x,x,
+EMEA,United Kingdom,London,"227 Marsh Wall, London, E14 9SD, UK",TelecityGroup LON3,x,x,
+EMEA,United Kingdom,London,"8/9 Harbour Exchange Square, London, E14 9GE, UK",Equinix LD8,x,x,
+EMEA,United Kingdom,London,"215 Marsh Wall, London, E14 9FJ, UK",TelecityGroup (TIN),,x,
+EMEA,United Kingdom,London,"240 East India Dock Road, London, E14 9YY, UK",Kcom Group,,x,
+EMEA,United Kingdom,London,"6/7 Harbour Exchange Square, London, E14 9GE, UK",Equinix LD8,,x,
+EMEA,United Kingdom,London,"8 Buckingham Av, Slough, London, SL1 4AX, UK",Equinix LD5,,x,
+EMEA,United Kingdom,London,"80 Clifton Street, London,  EC2A 4HB, UK",City LifeLine ,,x,
+EMEA,United Kingdom,London,"Unit 1 Airport Gate Bath Road Harmondsworth, London, UB7 0NA, UK",Equinix LD2,,x,
+EMEA,United Kingdom,London,"Unit 11 Matrix, 900 Coronation Road, London,  NW10 7PH, UK",Equinix LD3,,x,
+EMEA,United Kingdom,London,"1 Earl St, London EC2A 2AL, UK",London Stock Exchange (LSE),x, ,
+EMEA,United Kingdom,London,"6 Greenwich View, Isle of Dogs, London E14 9NN, UK",London Hosting Centre,x, ,
+EMEA,United Kingdom,Manchester,"Williams House Manchester Science Park Lloyd St N, Manchester,  M15 6SE, UK",Equinix MA1,x,x,
+EMEA,United Kingdom,Manchester,"Kilburn House, Manchester, M15 6SE, UK",Equinix MA1,,x,
+EMEA,United Kingdom,Reading,"Nimrod Way, Reading RG2, UK",Easynet,x,,
+EMEA,United Kingdom,Southport,"Southport Business Park, Wight Moss Way, Southport PR8 4HQ, UK",GTT (Hibernia),x, ,
+North America,Canada,Halifax,"132 Ketch Harbour Rd, Herring Cove, NS B3V 1J4, Canada",GTT (Hibernia),x,ICB*,
+North America,Canada,Halifax,"5562 Sackville St, Halifax, NS B3J 1L1, Canada",Interworking Atlantic,x, ,
+North America,Canada,Halifax,"7071 Bayers Rd, Halifax, NS B3L 2C2, Canada",GTT (Hibernia),x, ,
+North America,Canada,Moncton,"770 St George Blvd, Moncton, NB E1E 2C2, Canada",Fibre Centre,x, ,
+North America,Canada,Moncton,"115 Albert St, Moncton, NB E1C 1B3, Canada",Bell Canada,x,,
+North America,Canada,Montreal,"1250 Rene Levesque West, MontrÃ©al, QC H3B 4W8, Canada",Cologix MTL3,x,x,x
+North America,Canada,Montreal,"20, place du Commerce, Ile-des-Soeurs, MontrÃ©al, QC H3E 1T9, Canada",iWeb,,x,
+North America,Canada,Montreal,"3000 Rene Levesque Blvd. West, MontrÃ©al, QC, H3E 1T9, Canada",Cologix MTL2,,x,
+North America,Canada,Montreal,"625 Rene Levesque Blvd. West, MontrÃ©al, QC, H3B 1R2, Canada",Cologix MTL1,,x,
+North America,Canada,Montreal,"875 Rue Saint Antoine O, MontrÃ©al, QC H3C 1A6, Canada",Metro Optic,x, ,
+North America,Canada,Ottawa,"485 Terminal Ave, Ottawa, ON K1G, Canada",Bell Canada,x,,
+North America,Canada,St John,"75 Prince William St, Saint John, NB E2L 2B2, Canada",Cirrus 9,x, ,
+North America,Canada,Toronto,"151 Front Street W, Toronto, ON, M5J 2N1, Canada",Cologix,x,x,x
+North America,Canada,Toronto,"130 King St W, Toronto, ON M5X 1K6, Canada",Exchange Tower,,x,
+North America,Canada,Toronto,"100 Wellington St W, Toronto, ON, Canada",Q9 Networks,x, ,
+North America,Canada,Toronto,"3500 Steeles Ave E, Markham, ON L3R, Canada",TD Waterhouse,x, ,
+North America,Canada,Vancouver,"555 West Hastings Street, Vancouver, BC V6B 4N5, Canada",Cologix VAN1,,x,
+North America,Mexico,Mexico City,"Boulevard Benito JuÃ¡rez 20, Colonia San Mateo Cuautepec, TultitlÃ¡n, Estado de MÃ©xico",KIO Data Center,,x,
+North America,United States,Albany,"194 Washington Ave, Albany, NY 12210, USA",Level3,x,ICB*,
+North America,United States,Albany,"Home Savings Bank Building, 11 N Pearl St, Albany, NY 12207, USA",Windstream,x,ICB*,
+North America,United States,Ashburn,"21715 Filigree Ct, Ashburn, VA 20147, USA",Equinix DC2,x,x,x
+North America,United States,Ashburn,"45580 Terminal Dr, Sterling, VA 20166, USA",Discovery Communications,,,x
+North America,United States,Ashburn,"12100 Sunrise Valley Drive, Reston, VA 20191",CoreSite VA1,,x,
+North America,United States,Ashburn,"44480 Hastings Dr, Ashburn, VA 20147, USA",Dupont Fabros ACC4,,x,
+North America,United States,Atlanta,"56 Marietta St, Atlanta, GA 30303, USA","TelX AT1, AT2, AT3",,x,x
+North America,United States,Atlanta,"3845 Pleasantdale Rd, Atlanta, GA 30340, USA",Encompass Digital Media,,,x
+North America,United States,Atlanta,"4545 Stonegate Industrial Blvd, Stone Mountain, GA 30083, USA",AT&T,,,x
+North America,United States,Atlanta,"The Mansion, 1050 Techwood Dr NW, Atlanta, GA 30318, USA",Turner Broadcasting,,,x
+North America,United States,Atlanta,"34 Peachtree Street Building, 34 Peachtree St NW, Atlanta, GA 30303, USA",Total Server Solutions,,x,
+North America,United States,Austin,"1825 Kramer Lane, Austin, TX, 78758",Level3,,x,
+North America,United States,Baltimore,"111 Market Pl, Baltimore, MD 21202, USA",Zayo (zColo),,,x
+North America,United States,Baltimore,"300 West Lexington Street, Baltimore, MD, 21201, USA",Level3,,x,
+North America,United States,Bloomington,"2325 W Market St, Bloomington, IL 61705, USA",,,,x
+North America,United States,Boston,"1 Summer St, Boston, MA 02110, USA",Markley,x,x,x
+North America,United States,Boston,"91 Commercial St, Lynn, MA 01905, USA",GTT (Hibernia),x, ,x
+North America,United States,Boston,"70 Inner Belt Rd, Somerville, MA 02143, USA",CoreSite,x, ,
+North America,United States,Bristol,"ESPN Dr, Bristol, CT 06010, USA",ESPN,,,x
+North America,United States,Buffalo,"350 Main St, Buffalo, NY 14202, USA",365 Main Data Center,x,ICB*,
+North America,United States,Charlotte,"113 N Myers St, Charlotte, NC 28202, USA",TelX CHR1,,x,
+North America,United States,Cheyenne,"530 Echostar Dr, Cheyenne, WY 82007, USA",Echostar,,,x
+North America,United States,Chicago,"350 E Cermak Rd, Chicago, IL 60616, USA",Equinix CH1 / CH2,x,x,x
+North America,United States,Chicago,"111 N Canal St, Chicago, IL 60606, USA",Level3,,x,
+North America,United States,Chicago,"1905 Lunt Ave, Chicago, IL, 60007, USA",Equinix CH3,,x,
+North America,United States,Chicago,"2200 Busse Rd, Chicago, IL, 60007, USA",Server Central DF-CH1,,x,
+North America,United States,Chicago,"427 S La Salle St, Chicago, IL 60605, USA",365 Main Data Center,,x,
+North America,United States,Chicago,"601 W Polk St, Chicago, IL, 60607, USA",Tierpoint,,x,
+North America,United States,Chicago,"717 S Wells St, Chicago, IL 60607, USA",Inteliquent,,x,
+North America,United States,Cleveland,"Keith Bldg, 1621 Euclid Ave, Cleveland, OH 44115, USA",Level3 7th Flr / GTT(Hibernia) 5th Flr,, ,x
+North America,United States,Dallas,"2323 Bryan St, Dallas, TX 75201, USA",Equinix DA4,, ,x
+North America,United States,Dallas,"1221 Coit Rd, Dallas, TX, 75075, USA",Internap,,x,
+North America,United States,Dallas,"1950 N Stemmons Fwy, Dallas, TX, 75207, USA",Equinix DA1 DA2 DA3/ Cologix ,,x,
+North America,United States,Dallas,"400 S. Akard St, Dallas, TX 75202, USA",Databank,,x,
+North America,United States,Dallas,"8345 N Stemmons Fwy, Dallas, TX 75247, USA",TelX DAL2,,x,
+North America,United States,Damariscotta,"527 Main St, Damariscotta, ME 04543, USA",MFC,x,,
+North America,United States,Denver,"910 15th St, Denver, CO 80202, USA",CoreSite,,x,x
+North America,United States,Denver,"4100 E Dry Creek Rd, Centennial, CO 80122, USA",NBC Universal / Comcast Media,,,x
+North America,United States,Denver,"1500 Champa St, Denver, CO 80202, USA",Morgan Reed,,x,
+North America,United States,Denver,"1850 Pearl Street, Denver, CO 80203, USA",Level3 ,,x,
+North America,United States,Detroit,"21005 Lahser Rd, Detroit, MI 48033, USA",EdgeConnex,,x,
+North America,United States,Houston,"4201 Southwest Fwy, Houston, TX 77027, USA",CyrusOne,, ,x
+North America,United States,Houston,"1001 Texas St, Houston, TX 77002, USA",Quasar,,x,
+North America,United States,Houston,"1301 Fannin St, Houston, TX 77002, USA",Internap,,x,
+North America,United States,Jacksonville,"800 Water St #202, Jacksonville, FL 32204, USA",GoRack,,ICB*,
+North America,United States,Kansas City,"1102 Grand Blvd #604, Kansas City, MO 64106, USA",1102 Grand LLC,,x,x
+North America,United States,Las Vegas,"7185 Pollock Dr, Las Vegas, NV 89119, USA",Zayo (zColo),,,x
+North America,United States,Las Vegas,"7135 S Decatur Blvd, Las Vegas, NV 89118, USA",SuperNap (fka Switch Com),,x,
+North America,United States,Los Angeles,"624 S Grand Ave, Los Angeles, CA 90017, USA",CoreSite,x,x,x
+North America,United States,Los Angeles,"600 W 7th St, Los Angeles, CA 90017, USA",TelX MMR,, ,x
+North America,United States,Los Angeles,"12800 Culver Blvd, Los Angeles, CA 90066, USA",DirecTV Broadcast Center,,,x
+North America,United States,Los Angeles,"3800 Via Oro Ave, Long Beach, CA 90810, USA",DirecTV California Broadcast Center,,,x
+North America,United States,Los Angeles,"4000 Warner Blvd, Burbank, CA 91522, USA",Warner Brothers Studio,,,x
+North America,United States,Los Angeles,"555 Anton Blvd., Los Angeles, CA 96161, USA",,,,x
+North America,United States,Los Angeles,"100 Universal Plaza, Los Angeles, CA 91608, USA",NBC Universal,,x,
+North America,United States,Los Angeles,"1920 E Maple Street, Los Angeles, CA 90245, USA",Equinix LA3,,x,
+North America,United States,Los Angeles,"800 S Hope St, Los Angeles, CA 90017, USA",US Colo,,x,
+North America,United States,Los Angeles,"900 N Alameda St, Los Angeles, CA 90012, USA",CoreSite LA2,,x,
+North America,United States,McAllen,"200 South 10th St., McAllen, TX 78501, USA",McAllen Data Center,,x,
+North America,United States,Miami,"50 NE 9th St, Miami, FL 33132, USA",Terremark / Verizon,,x,x
+North America,United States,Miami,"2115 NW 22nd St, Miami, FL 33142, USA",CoreSite MI1,,x,
+North America,United States,Miami,"36 NE 2nd Street, Miami, FL 33132, USA",TelX/ColoHouse/Interconnect Miami,,x,
+North America,United States,Minneapolis,"511 11th Ave S, Minneapolis, MN 55415, USA",511 Building,,x,
+North America,United States,New York,"111 8th Ave, New York, NY 10011, USA",TelX/Equinix/Level3/XO/Zayo/Telia,x,x,x
+North America,United States,New York,"32 Ave of the Americas, New York, NY 10013, USA",TelX NY3,x,x,x
+North America,United States,New York,"60 Hudson St, New York, NY 10013, USA",TelX/Zayo/Telia/Sirius,x,x,x
+North America,United States,New York,"1351 Washington Blvd, Stamford, CT 06902, USA",Lightower (Fka Fibertech),x, ,x
+North America,United States,New York,"250 Harbor Dr, Stamford, CT 06902, USA",A&E Television Network,,,x
+North America,United States,New York,"545 5th Ave #1200, New York, NY 10017, USA",,,,x
+North America,United States,New York,"620 Hicksville Rd, Bethpage, NY 11714, USA",AMC Networks Broadcasting,,,x
+North America,United States,New York,"165 Halsey St, Newark, NJ 07102, USA",Equinix NY1 / Zayo ,x,x,
+North America,United States,New York,"100 William St, New York, NY 10038, USA",New York Internet,,x,
+North America,United States,New York,"111 Town Square Place, Jersey City, NJ 07310, USA",Hidalgo Communications,,x,
+North America,United States,New York,"2 Emerson Lane, Secaucus, NJ 07094, USA",CoreSite NY2,,x,
+North America,United States,New York,"275 Hartz Way, Secaucus, NJ 07094, USA",Equinix NY2,,x,
+North America,United States,New York,"601 West 26th St, New York, NY, USA 10001",Broadview Networks,,x,
+North America,United States,New York,"85 10th Ave, New York, NY 10011, USA",Telehouse,,x,
+North America,United States,New York,"1400 Federal Blvd, Carteret, NJ 07008, USA",NASDAQ / Verizon Business,x, ,
+North America,United States,New York,"300 J F Kennedy Blvd E, Weehawken, NJ 07086, USA",CenturyLink / Digital Realty,x, ,
+North America,United States,New York,"360 Hamilton Ave, White Plains, NY 10601, USA",Lightower (fka Neon),x, ,
+North America,United States,New York,"5851 West Side Ave, North Bergen, NJ 07047, USA",Equinix NY7,x, ,
+North America,United States,New York,"755 Secaucus Rd, Secaucus, NJ 07094, USA",Equinix NY4 (Express),x, ,
+North America,United States,New York,"1350 Washington Blvd, Stamford, CT 06902, USA",Lightower (Fka Fibertech),x,,
+North America,United States,Orlando,"380 S Lake Destiny Rd, Orlando, FL 32801, USA",Level3,,x,
+North America,United States,Philadelphia,"401 N Broad St, Philadelphia, PA 19108, USA",Lightower,x,x,x
+North America,United States,Philadelphia,"2401 Locust St, Philadelphia, PA 19103, USA",Zayo (zColo),x,,
+North America,United States,Phoenix,"120 Van Buren St, Phoenix, AZ 85004, USA",TelX,,x,x
+North America,United States,Phoenix,"801 N Dish Dr, Gilbert, AZ 85233, USA",Echo Star Communications,,,x
+North America,United States,Phoenix,"211 W Monroe St, Phoenix, AZ 85003, USA",CenturyLink,,x,
+North America,United States,Phoenix,"2335 S. Ellis Street, Phoenix, AZ 85286, USA",CyrusOne,,x,
+North America,United States,Phoenix,"3402 E University Dr, Phoenix, AZ 85034, USA",Phoenix NAP,,x,
+North America,United States,Phoenix,"615 North 48th St, Phoenix, AZ 85008, USA",IO Data Center,,x,
+North America,United States,Phoenix,"8521 E Princess Dr, Phoenix, AZ 85255, USA",IO Data Center,,x,
+North America,United States,Pittsburgh,"201 Browntown Rd, New Kensington, PA 15068, USA",Pittsburgh Teleport,,,x
+North America,United States,Salt Lake City,"179 Social Hall Ave, Salt Lake City, UT 84111, USA",C7 Data Centers,,x,
+North America,United States,San Diego,"4216 University Ave, San Diego, CA 92105, USA",,,,x
+North America,United States,San Diego,"5761 Copley Dr, San Diego, CA 92111, USA",EdgeConnex,,x,
+North America,United States,San Francisco,"200 Paul Ave, San Francisco, CA 94124, USA",TelX,,x,x
+North America,United States,San Francisco,"365 Main St, San Francisco, CA 94105, USA",Digital Realty,,x,
+North America,United States,San Jose,"11 Great Oaks Blvd, San Jose, CA 95119, USA",Equinix SV1,x,x,
+North America,United States,San Jose,"1380 Kifer Road, San Jose, CA 94086, USA",Level3,,x,
+North America,United States,San Jose,"1735 Lundy Ave, San Jose, CA 95131, USA",Equinix SV3,,x,
+North America,United States,San Jose,"2972 Stender Way, San Jose, CA 95054, USA",CoreSite,,x,
+North America,United States,San Jose,"529 Bryant St, San Jose, CA 94301, USA",Equinix SV8,,x,
+North America,United States,San Jose,"55 S Market St, San Jose, CA 95113, USA",CoreSite SV1,,x,
+North America,United States,Seattle,"2001 6th Ave, Seattle, WA 98121, USA",Equinix SE2,x,x,x
+North America,United States,Seattle,"4949 Randolph Road NE, Seattle, WA 98837, USA",Digital Fortress,,x,
+North America,United States,Southfield,"1000 Town Center, Southfield, MI 48075, USA",EdgeConnex,,,x
+North America,United States,Tampa,"5908 Hampton Oaks Pkwy, Tampa, FL 33610, USA",CenturyLink,,,x
+North America,United States,Tampa,"655 N Franklin, Tampa, FL 33602, USA",365 Main Data Center,,x,
+North America,United States,"Washington, D.C.","1275 K Street NW, Washington, DC,  20005, USA",CoreSite DC1,x,x,x
+North America,United States,"Washington, D.C.","2000 M St NW, Washington, DC 20036, USA",DCI Teleport,,,x
+North America,United States,"Washington, D.C.","1010 Wayne Ave., Silver Spring, MD 20910, USA",Atlantech Online,,x,
+North America,United States,"Washington, D.C.","1755 Old Meadow Dr, McLean, VA  22102, USA",Global Capacity,,x,
+,,,,,,,
+"Note: All PoPs labeled with ICB* are legacy Hibernia IP and Ethernet. As these sites are not yet interconnected to the GTT network, special review is required. Please contact Product Management",,,,,,,
+with questions.,,,,,,,
