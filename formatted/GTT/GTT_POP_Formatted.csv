@@ -3,11 +3,11 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,168 Yeung Uk Rd,,,,Hong Kong,,,CN,,,,,,,,,Equinix,HK1,,x,
 ,,,,GTT,,,,399 Chai Wan Rd,Chai Wan,,,Hong Kong,,,CN,,,,,,,,,iAdvantage (Mega-I) 8th Floor,,,x,x
 ,,,,GTT,,,,3 Shing Yiu St,Tsuen Wan Kowloon,,Kerry Warehouse,Hong Kong,,,CN,,,,,,,,,Equinix,HK2,,x,
-,,,,GTT,,,,1 Chome-9-20 Edagawa,KÅçtÅç-ku,,,TÅçkyÅç-to,135-0051,,JP,,,,,,,,,Equinix,TY3,,ICB*,
+,,,,GTT,,,,1 Chome-9-20 Edagawa,K¬Å¬çt¬Å¬ç-ku,,,T¬Å¬çky¬Å¬ç-to,135-0051,,JP,,,,,,,,,Equinix,TY3,,ICB*,
 ,,,,GTT,,,,3-8-21 Higashi-Shinagawa,Shinagawa-ku,,,Tokyo,140-0002,,JP,,,,,,,,,Equinix,TY2,,x,x
 ,,,,GTT,,,,2 Tai Seng Ave,,,,Singapore,534408,,SG,,,,,,,,,Global Switch ,,,ICB*,
 ,,,,GTT,,,,20 Ayer Rajah Crescent #05-05/08,,,,Singapore,139964,,SG,,,,,,,,,Equinix,SG1,,x,
-,,,,GTT,,,,Louis-HÌ_fliger-Gasse 10,,,,Vienna,1210,,AT,,,,,,,,,InterXion,,,x,x
+,,,,GTT,,,,Louis-H√≠_fliger-Gasse 10,,,,Vienna,1210,,AT,,,,,,,,,InterXion,,,x,x
 ,,,,GTT,,,,North Trade Building,Noorderlaan 137,,,Antwerpen,B-2030,,BE,,,,,,,,,LCL Belgium NV,,,x,
 ,,,,GTT,,,,Kouterveldstraat 13-15,,,,Brussels,,,BE,,,,,,,,,LCL Belgium NV,,,x,
 ,,,,GTT,,,,Tollaan 99,1200 Sint-Lambrechts-Woluwe,,,,,,BE,,,,,,,,,euNetworks,,x, ,x
@@ -16,9 +16,9 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,Ovche pole St. 122,,,,Sofia,1303,,Bulgaria,,,,,,,,,Telepoint OOD,,,x,
 ,,,,GTT,,,,Nad Elektrarnou 411,,,,Prague,10600,,Czech Republic,,,,,,,,,"CE Colo, SITEL (ICB)",,,x,
 ,,,,GTT,,,,Dtu Building 304,,,,Lyngby,2800,,Denmark,,,,,,,,,Technical University of Denmark,,,x,
-,,,,GTT,,,,HÌürskÌ_tten 3-5,"Hall 2, Taastrup",,,Copenhagen,2630,,Denmark,,,,,,,,,GlobalConnect,,,x,x
+,,,,GTT,,,,H√≠≈∏rsk√≠_tten 3-5,"Hall 2, Taastrup",,,Copenhagen,2630,,Denmark,,,,,,,,,GlobalConnect,,,x,x
 ,,,,GTT,,,,Industriparken 20,,,,Ballerup,2750,,Denmark,,,,,,,,,InterXion CPH1,,,ICB*,x
-,,,,GTT,,,,Metrovej,2300 KÌübenhavn S,,,Copenhagen,,,Denmark,,,,,,,,,TSIC POP1,,,ICB*,x
+,,,,GTT,,,,Metrovej,2300 K√≠≈∏benhavn S,,,Copenhagen,,,Denmark,,,,,,,,,TSIC POP1,,,ICB*,x
 ,,,,GTT,,,,Ejby Industrivej 135,,,,Glostrup,2600,,Denmark,,,,,,,,,TeliaSonera Data Center #3,,,,x
 ,,,,GTT,,,,Fr. R. Kreutzwaldi,,,,Tallinn,,,Estonia,,,,,,,,,Elion ,,,,x
 ,,,,GTT,,,,Iso Roobertinkatu 21,,,,Helsinki,120,,Finland,,,,,,,,,TSIC POP 1,,,,x
@@ -37,8 +37,8 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,E.M.G.P. Bat. 2545 Avenue Victor Hugo,,,,Aubervilliers,93534,,France,,,,,,,,,TelecityGroup Paris (Aubervilliers),,,x,
 ,,,,GTT,,,,5 Rue du Havre,,,,Strasbourg,67100,,France,,,,,,,,,euNetworks,,x,,
 ,,,,GTT,,,,Alboinstrasse 36,,,,Berlin,12103,,Germany,,,,,,,,,Speedbone,,,ICB*,
-,,,,GTT,,,,In der Steele 29,,,,DÌ_sseldorf,40599,,Germany,,,,,,,,,InterXion,DUS1,x,,
-,,,,GTT,,,,In der Steele 35,,,,DÌ_sseldorf,40599,,Germany,,,,,,,,,euNetworks,,x,,
+,,,,GTT,,,,In der Steele 29,,,,D√≠_sseldorf,40599,,Germany,,,,,,,,,InterXion,DUS1,x,,
+,,,,GTT,,,,In der Steele 35,,,,D√≠_sseldorf,40599,,Germany,,,,,,,,,euNetworks,,x,,
 ,,,,GTT,,,,25-31 Rebstockerstrasse,,,,Frankfurt,60314,,Germany,,,,,,,,,Itenos,,,x,
 ,,,,GTT,,,,Friesstrasse 26,,,,Frankfurt,60388,,Germany,,,,,,,,,Equinix,FR2,x, ,
 ,,,,GTT,,,,Gutleutstrasse 310,,,,Frankfurt,60327,,Germany,,,,,,,,,TelecityGroup Frankfurt (Gutleutstrasse),,,x,
@@ -46,14 +46,14 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,Kleyerstrasse 26,,,,Frankfurt,60326,,Germany,,,,,,,,,,,,,x
 ,,,,GTT,,,,Kleyerstrasse 88,,,,Frankfurt,60326,,Germany,,,,,,,,,Ancotel,,,x,
 ,,,,GTT,,,,Kleyerstrasse 90,,,,Frankfurt,60326,,Germany,,,,,,,,,Equinix,FR5,x,ICB*,x
-,,,,GTT,,,,RebstÌ_cker Str. 55,,,,Frankfurt,60326,,Germany,,,,,,,,,TSIC PoP 1,,,,x
-,,,,GTT,,,,LÌ_rchenstrasse 110,,,,Frankfurt,65933,,Germany,,,,,,,,,Equinix,FR4,x, ,
+,,,,GTT,,,,Rebst√≠_cker Str. 55,,,,Frankfurt,60326,,Germany,,,,,,,,,TSIC PoP 1,,,,x
+,,,,GTT,,,,L√≠_rchenstrasse 110,,,,Frankfurt,65933,,Germany,,,,,,,,,Equinix,FR4,x, ,
 ,,,,GTT,,,,Lyonerstrasse 28,,,,Frankfurt,D 60528,,Germany,,,,,,,,,Telecity,,,x,
 ,,,,GTT,,,,Taubenstrasse 7-9,,,,Frankfurt,60313,,Germany,,,,,,,,,Equinix,FR1,,x,
 ,,,,GTT,,,,Langenhorner Chaussee 44,,,,Hamburg,22335,,Germany,,,,,,,,,E-Shelter Colocation,,,x,
 ,,,,GTT,,,,Wendenstrasse 408,,,,Hamburg,20537,,Germany,,,,,,,,,IPHH,,,ICB*,
 ,,,,GTT,,,,Hans-Thoma-Strasse 17,,,,Mannheim,68163,,Germany,,,,,,,,,Itenos,,x,,
-,,,,GTT,,,,MÌ_nchener Str. 101B,,,,Ismaning,85737,,Germany,,,,,,,,,Home Shopping Europe,,,,x
+,,,,GTT,,,,M√≠_nchener Str. 101B,,,,Ismaning,85737,,Germany,,,,,,,,,Home Shopping Europe,,,,x
 ,,,,GTT,,,,Seidlstrasse 3,,,,Munich,80335,,Germany,,,,,,,,,Equinix,MU1,,x,
 ,,,,GTT,,,,Victor Hugo u. 18,,,,Budapest,1132,,Hungary,,,,,,,,,Interware,,,ICB*,
 ,,,,GTT,,,,Garrettstown,,,,Co. Cork,,,Ireland,,,,,,,,,GTT (Hibernia),,x,,
@@ -78,7 +78,7 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,Via Cornelia 498,,,,Rome,166,,Italy,,,,,,,,,Interoute SpA ,,,x,
 ,,,,GTT,,,,Via dei Tizii 6,,,,Rome,185,,Italy,,,,,,,,,NaMex Internet eXchange,,,x,
 ,,,,GTT,,,,Corso Svizzera 185A,,,,Turin,10149,,Italy,,,,,,,,,IT Gate S.p.A. & Tiscaly Italy,,,x,
-,,,,GTT,,,,Za€áusalas krastmala 1,Zemgales priekÅÁpils€Òta,,,R€Çga,LV-1050,,Latvia,,,,,,,,,GTT (Hibernia),,,,x
+,,,,GTT,,,,Za√õ‚Ä°usalas krastmala 1,Zemgales priek¬Å√ßpils√õ√±ta,,,R√õ‚Äöga,LV-1050,,Latvia,,,,,,,,,GTT (Hibernia),,,,x
 ,,,,GTT,,,,4 Luttenbergweg,,,,Amsterdam,1101 EC,,Netherlands,,,,,,,,,Equinix,AM2,,x,
 ,,,,GTT,,,,Cateringweg 5,1118 AM Schiphol,,,Amsterdam,,,Netherlands,,,,,,,,,Terremark / Verizon,,,x,
 ,,,,GTT,,,,Cessnalaan 1,Schiphol Rijk,,,Amsterdam,1119 NJ,,Netherlands,,,,,,,,,InterXion,AMS3,,x,
@@ -109,9 +109,9 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,Strand Rd,,,,Londonderry,BT48,,UK,,,,,,,,,Telehouse (ILEX),,x, ,
 ,,,,GTT,,,,Gortrush Industrial Estate,,,,Omagh,BT78 5EJ,,UK,,,,,,,,,GTT (Hibernia),,x, ,
 ,,,,GTT,,,,47 Derry Rd,,,,Strabane,BT82 8DY,,UK,,,,,,,,,GTT (Hibernia),,x, ,
-,,,,GTT,,,,Ì÷kern Torgvei 13,,,,Oslo,580,,Norway,,,,,,,,,Oslo Broadcast Center,,,,x
+,,,,GTT,,,,√≠√ñkern Torgvei 13,,,,Oslo,580,,Norway,,,,,,,,,Oslo Broadcast Center,,,,x
 ,,,,GTT,,,,Sigurds gate 14,,,,Oslo,650,,Norway,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Ì÷stre Aker Vei 18a,,,,Oslo,581,,Norway,,,,,,,,,TeliaSonera,,,x,x
+,,,,GTT,,,,√≠√ñstre Aker Vei 18a,,,,Oslo,581,,Norway,,,,,,,,,TeliaSonera,,,x,x
 ,,,,GTT,,,,Aleje Jerozolimskie 65,,,,Warszawa,00-697,,Poland,,,,,,,,,PLIX DC,,,x,
 ,,,,GTT,,,,8 Dimitrie Pompeiu Blvd,,,,Bucharest,20337,,Romania,,,,,,,,,NXDATA-1,,,x,
 ,,,,GTT,,,,Kopcianska 18,,,,Bratislava,851 01,,Slovakia,,,,,,,,,SITEL s.r.o.,,,x,
@@ -121,32 +121,32 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,Sala 105 - Edificio Empresarial Valsoto - c/ Valgrande n 6 - Alcobendas,,,,Madrid,28100,,Spain,,,,,,,,,Itconic ,,,x,
 ,,,,GTT,,,,Yecora 4 Poligono Las Mercedes,,,,Madrid,28022,,Spain,,,,,,,,,NAP of the Americas Madrid (Terremark),,,x,
 ,,,,GTT,,,,267 40 Bjuv,,,,,,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Arkitektgatan 10,,,,BorlÌ_nge,781 70,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Drottninggatan 29,,,,GÌ_vle,803 11,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Arkitektgatan 10,,,,Borl√≠_nge,781 70,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Drottninggatan 29,,,,G√≠_vle,803 11,,Sweden,,,,,,,,,TeliaSonera,,,,x
 ,,,,GTT,,,,Rimmaregatan 10,,,,Hisings Backa,422 55,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,KÌ_pmansgatan 41,,,,Halmstad,302 42,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,TelevÌ_gen 3,,,,Karlstad,656 31,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,LimhamnsgÌ´rdens allÌ© 18,,,,Limhamn,216 16,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Kungsgatan 20,,,,LinkÌ_ping,582 18,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Magasinsgatan 10,,,,LuleÌ´,972 41,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Lund 240,,,,Ì_sthammar,742 94,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,435 33 MÌ_lnlycke,,,,MÌ_lnlycke,,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,602 26 NorrkÌ_ping,,,,NorrkÌ_ping,,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,702 27 Ì_rebro,,,,Ì_rebro,,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Ì_stra BorsvÌ_gen 30,,,,VedevÌ´g,711 72,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,832 45 FrÌ_sÌ_n,,,,,,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,Storgatan,,,,SkellefteÌ´,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,K√≠_pmansgatan 41,,,,Halmstad,302 42,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Telev√≠_gen 3,,,,Karlstad,656 31,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Limhamnsg√≠¬´rdens all√≠¬© 18,,,,Limhamn,216 16,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Kungsgatan 20,,,,Link√≠_ping,582 18,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Magasinsgatan 10,,,,Lule√≠¬´,972 41,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Lund 240,,,,√≠_sthammar,742 94,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,435 33 M√≠_lnlycke,,,,M√≠_lnlycke,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,602 26 Norrk√≠_ping,,,,Norrk√≠_ping,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,702 27 √≠_rebro,,,,√≠_rebro,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,√≠_stra Borsv√≠_gen 30,,,,Vedev√≠¬´g,711 72,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,832 45 Fr√≠_s√≠_n,,,,,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Storgatan,,,,Skellefte√≠¬´,,,Sweden,,,,,,,,,TeliaSonera,,,,x
 ,,,,GTT,,,,Esbogatan 11,,,,Kista,164 74,,Sweden,,,,,,,,,InterXion,STO1,,x,
 ,,,,GTT,,,,Hammarbybacken,,,,Johanneshov,121 45,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,MariehÌ_llsvÌ_gen 36,,,,Bromma,168 65,,Sweden,,,,,,,,,Equinix (Fka Telecity),,,x,
-,,,,GTT,,,,MÌ_rka Kroken 1,,,,Stockholm,115 27,,Sweden,,,,,,,,,TeliaSonera,,,,x
-,,,,GTT,,,,RÌ´lambsvÌ_gen 28,,,,Stockholm,112 59,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Marieh√≠_llsv√≠_gen 36,,,,Bromma,168 65,,Sweden,,,,,,,,,Equinix (Fka Telecity),,,x,
+,,,,GTT,,,,M√≠_rka Kroken 1,,,,Stockholm,115 27,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,R√≠¬´lambsv√≠_gen 28,,,,Stockholm,112 59,,Sweden,,,,,,,,,TeliaSonera,,,,x
 ,,,,GTT,,,,Solnavaegen 94 -169 51,,,,Solna,,,Sweden,,,,,,,,,TeliaSonera,,,x,
-,,,,GTT,,,,GranloholmsvÌ_gen 2,,,,Sundsvall,857 30,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Granloholmsv√≠_gen 2,,,,Sundsvall,857 30,,Sweden,,,,,,,,,TeliaSonera,,,,x
 ,,,,GTT,,,,901 79,,,Review Address,Umea,815 38,,Sweden,,,,,,,,,TeliaSonera,,,,x
 ,,,,GTT,,,,Hardstrasse 235,,,,Zurich,8005,,Switzerland,,,,,,,,,Equinix ZH2,,,x,
 ,,,,GTT,,,,Margarethenstrasse 40,,,,Basel,4008,,Switzerland,,,,,,,,,Telehouse,,,x,
-,,,,GTT,,,,SÌ_gereistrasse 35,,,,Opfikon,8152,,Switzerland,,,,,,,,,InterXion,ZUR1,,x,
+,,,,GTT,,,,S√≠_gereistrasse 35,,,,Opfikon,8152,,Switzerland,,,,,,,,,InterXion,ZUR1,,x,
 ,,,,GTT,,,,Qatar Landing Station,,,,Doha,,,Qatar,,,,,,,,,GBI,,,x,
 ,,,,GTT,,,,Au Tower,,,,Dubai,,,United Arab Emirates,,,,,,,,,GBI,,,ICB*,
 ,,,,GTT,,,,Du Cable Landing Station,Corniche Road,,,Fujairah,,,United Arab Emirates,,,,,,,,,GBI,,,x,
@@ -179,11 +179,11 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,7071 Bayers Rd,,,,Halifax,B3L 2C2,NS,Canada,,,,,,,,,GTT (Hibernia),,x, ,
 ,,,,GTT,,,,115 Albert St,,,,Moncton,E1C 1B3,NB,Canada,,,,,,,,,Bell Canada,,x,,
 ,,,,GTT,,,,770 St George Blvd,,,,Moncton,E1E 2C2,NB,Canada,,,,,,,,,Fibre Centre,,x, ,
-,,,,GTT,,,,1250 Rene Levesque West,,,,MontrÌ©al,H3B 4W8,QC,Canada,,,,,,,,,Cologix,MTL3,x,x,x
-,,,,GTT,,,,20 place du Commerce,Ile-des-Soeurs,,,MontrÌ©al,H3E 1T9,QC,Canada,,,,,,,,,iWeb,,,x,
-,,,,GTT,,,,3000 Rene Levesque Blvd. West,,,,MontrÌ©al,H3E 1T9,QC,Canada,,,,,,,,,Cologix,MTL2,,x,
-,,,,GTT,,,,625 Rene Levesque Blvd. West,,,,MontrÌ©al,H3B 1R2,QC,Canada,,,,,,,,,Cologix,MTL1,,x,
-,,,,GTT,,,,875 Rue Saint Antoine O,,,,MontrÌ©al,H3C 1A6,QC,Canada,,,,,,,,,Metro Optic,,x, ,
+,,,,GTT,,,,1250 Rene Levesque West,,,,Montr√≠¬©al,H3B 4W8,QC,Canada,,,,,,,,,Cologix,MTL3,x,x,x
+,,,,GTT,,,,20 place du Commerce,Ile-des-Soeurs,,,Montr√≠¬©al,H3E 1T9,QC,Canada,,,,,,,,,iWeb,,,x,
+,,,,GTT,,,,3000 Rene Levesque Blvd. West,,,,Montr√≠¬©al,H3E 1T9,QC,Canada,,,,,,,,,Cologix,MTL2,,x,
+,,,,GTT,,,,625 Rene Levesque Blvd. West,,,,Montr√≠¬©al,H3B 1R2,QC,Canada,,,,,,,,,Cologix,MTL1,,x,
+,,,,GTT,,,,875 Rue Saint Antoine O,,,,Montr√≠¬©al,H3C 1A6,QC,Canada,,,,,,,,,Metro Optic,,x, ,
 ,,,,GTT,,,,485 Terminal Ave,,,,Ottawa,K1G,ON,Canada,,,,,,,,,Bell Canada,,x,,
 ,,,,GTT,,,,75 Prince William St,,,,Saint John,E2L 2B2,NB,Canada,,,,,,,,,Cirrus 9,,x, ,
 ,,,,GTT,,,,100 Wellington St W,,,,Toronto,,ON,Canada,,,,,,,,,Q9 Networks,,x, ,
@@ -305,4 +305,4 @@ peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,nam
 ,,,,GTT,,,,1275 K Street NW,,,,Washington,20005,DC,USA,,,,,,,,,CoreSite,DC1,x,x,x
 ,,,,GTT,,,,1755 Old Meadow Dr,,,,McLean,22102,VA,USA,,,,,,,,,Global Capacity,,,x,
 ,,,,GTT,,,,2000 M St NW,,,,Washington,20036,DC,USA,,,,,,,,,DCI Teleport,,,,x
-,,,,GTT,,,,Boulevard Benito JuÌÁrez 20,Colonia San Mateo Cuautepec,,,TultitlÌÁn,,,Mexico ,,,,,,,,,KIO Data Center,,,x,
+,,,,GTT,,,,Boulevard Benito Ju√≠√ßrez 20,Colonia San Mateo Cuautepec,,,Tultitl√≠√ßn,,,Mexico ,,,,,,,,,KIO Data Center,,,x,
