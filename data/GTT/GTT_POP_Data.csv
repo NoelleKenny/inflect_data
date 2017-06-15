@@ -5,10 +5,10 @@ APAC,China,Hong Kong,"399 Chai Wan Rd, Chai Wan, Hong Kong",iAdvantage (Mega-I) 
 APAC,China,Hong Kong,"168 Yeung Uk Rd, Hong Kong",Equinix HK1,,x,
 APAC,China,Hong Kong,"Kerry Warehouse, 3 Shing Yiu St, Tsuen Wan, Kowloon, Hong Kong ",Equinix HK2,,x,
 APAC,Japan,Tokyo,"3-8-21 Higashi-Shinagawa, Shinagawa-ku, Tokyo, 140-0002, Japan",Equinix TY2,,x,x
-APAC,Japan,Tokyo,"1 Chome-9-20 Edagawa, K��t��-ku, T��ky��-to 135-0051, Japan",Equinix TY3,,ICB*,
+APAC,Japan,Tokyo,"1 Chome-9-20 Edagawa, Kt-ku, Tky-to 135-0051, Japan",Equinix TY3,,ICB*,
 APAC,Singapore,Singapore,"2 Tai Seng Ave, Singapore 534408, Singapore",Global Switch ,,ICB*,
 APAC,Singapore,Singapore,"20 Ayer Rajah Crescent  #05-05/08, Singapore, 139964, Singapore",Equinix SG1,,x,
-EMEA,Austria,Vienna,"Louis-H�_fliger-Gasse 10, Vienna 1210, Austria",InterXion,,x,x
+EMEA,Austria,Vienna,"Louis-HÌ_fliger-Gasse 10, Vienna 1210, Austria",InterXion,,x,x
 EMEA,Belgium,Antwerp,"North Trade Building, Noorderlaan 137, Antwerpen, B-2030, Belgium",LCL Belgium NV,,x,
 EMEA,Belgium,Brussels,"Tollaan 99, 1200 Sint-Lambrechts-Woluwe, Belgium",euNetworks,x, ,x
 EMEA,Belgium,Brussels,"Wezembeekstraat 2, Brussels, 1930, Belgium",InterXion BRU1,x,x,
@@ -17,8 +17,8 @@ EMEA,Bulgaria,Sofia,"26a Andrey Saharov Blvd, Sofia, 1784, Bulgaria",Neterra Com
 EMEA,Bulgaria,Sofia,"Ovche pole St. 122, Sofia, 1303, Bulgaria",Telepoint OOD,,x,
 EMEA,Czech Republic,Prague,"Nad Elektrarnou 411, 10600 Prague, Czech Republic","CE Colo, SITEL (ICB)",,x,
 EMEA,Denmark,Copenhagen,"Industriparken 20, 2750 Ballerup, Denmark",InterXion CPH1,,ICB*,x
-EMEA,Denmark,Copenhagen,"Metrovej, 2300 K��benhavn S, Denmark",TSIC POP1,,ICB*,x
-EMEA,Denmark,Copenhagen,"H��rsk�_tten 3-5, Hall 2, 2630 Taastrup, Copenhagen, Denmark",GlobalConnect,,x,x
+EMEA,Denmark,Copenhagen,"Metrovej, 2300 KÌübenhavn S, Denmark",TSIC POP1,,ICB*,x
+EMEA,Denmark,Copenhagen,"HÌürskÌ_tten 3-5, Hall 2, 2630 Taastrup, Copenhagen, Denmark",GlobalConnect,,x,x
 EMEA,Denmark,Copenhagen,"Dtu Building 304, Lyngby, 2800, Denmark",Technical University of Denmark,,x,
 EMEA,Denmark,Glostrup,"Ejby Industrivej 135, 2600 Glostrup, Denmark",TeliaSonera Data Center #3,,,x
 EMEA,Estonia,Tallinn,"Fr. R. Kreutzwaldi, Tallinn, Estonia",Elion (subsidiary of Telia),,,x
@@ -38,11 +38,11 @@ EMEA,France,Paris,"9 Energy Park 130-136 Blvd de Verdun, Courbevoi cedex, Paris,
 EMEA,France,Paris,"E.M.G.P., Bat. 2545 Avenue Victor Hugo, Aubervilliers,  93534, France",TelecityGroup Paris (Aubervilliers),,x,
 EMEA,France,Strasbourg,"5 Rue du Havre, 67100 Strasbourg, France",euNetworks,x,,
 EMEA,Germany,Berlin,"Alboinstrasse 36, 12103 Berlin, Germany",Speedbone,,ICB*,
-EMEA,Germany,Dusseldorf ,"In der Steele 29, 40599 D�_sseldorf, Germany",InterXion DUS1,x,,
-EMEA,Germany,Dusseldorf ,"In der Steele 35, 40599 D�_sseldorf, Germany",euNetworks,x,,
+EMEA,Germany,Dusseldorf ,"In der Steele 29, 40599 DÌ_sseldorf, Germany",InterXion DUS1,x,,
+EMEA,Germany,Dusseldorf ,"In der Steele 35, 40599 DÌ_sseldorf, Germany",euNetworks,x,,
 EMEA,Germany,Frankfurt,"Kleyerstrasse 90, 60326 Frankfurt, Germany",Equinix FR5,x,ICB*,x
 EMEA,Germany,Frankfurt,"Kleyerstrasse 26, 60326 Frankfurt, Germany",,,,x
-EMEA,Germany,Frankfurt,"Rebsțcker Str. 55, 60326 Frankfurt, Germany",TSIC PoP 1,,,x
+EMEA,Germany,Frankfurt,"RebstÌ¦cker Str. 55, 60326 Frankfurt, Germany",TSIC PoP 1,,,x
 EMEA,Germany,Frankfurt,"Hanauer Landstrasse 302, 60314 Frankfurt, Germany",InterXion FRA1,x,x,
 EMEA,Germany,Frankfurt,"25-31,Rebstockerstrasse, Frankfurt, 60314, Germany",Itenos,,x,
 EMEA,Germany,Frankfurt,"Gutleutstrasse 310, 60327 Frankfurt, Germany",TelecityGroup Frankfurt (Gutleutstrasse),,x,
@@ -50,11 +50,11 @@ EMEA,Germany,Frankfurt,"Kleyerstrasse 88, Frankfurt, 60326, Germany",Ancotel,,x,
 EMEA,Germany,Frankfurt,"Friesstrasse 26, 60388 Frankfurt, Germany",Equinix FR2,x, ,
 EMEA,Germany,Frankfurt ,"Lyonerstrasse 28, Frankfurt,  D 60528, Germany",Telecity,,x,
 EMEA,Germany,Frankfurt ,"Taubenstrasse 7-9, Frankfurt , 60313, Germany",Equinix FR1,,x,
-EMEA,Germany,Frankfurt ,"L�_rchenstrasse 110, 65933 Frankfurt, Germany",Equinix FR4,x, ,
+EMEA,Germany,Frankfurt ,"LÌ_rchenstrasse 110, 65933 Frankfurt, Germany",Equinix FR4,x, ,
 EMEA,Germany,Hamburg,"Wendenstrasse 408, 20537 Hamburg, Germany",IPHH,,ICB*,
 EMEA,Germany,Hamburg,"Langenhorner Chaussee 44, Hamburg,  22335, Germany",E-Shelter Colocation,,x,
 EMEA,Germany,Mannheim,"Hans-Thoma-Strasse 17, 68163 Mannheim, Germany",Itenos,x,,
-EMEA,Germany,Munich,"M�_nchener Str. 101B, 85737 Ismaning, Germany",Home Shopping Europe,,,x
+EMEA,Germany,Munich,"MÌ_nchener Str. 101B, 85737 Ismaning, Germany",Home Shopping Europe,,,x
 EMEA,Germany,Munich,"Seidlstrasse 3, Munich,  80335, Germany",Equinix MU1,,x,
 EMEA,Hungary,Budapest,"Budapest, Victor Hugo u. 18, 1132 Hungary",Interware,,ICB*,
 EMEA,Ireland,Cork,"Garrettstown, Co. Cork, Ireland",GTT (Hibernia),x,,
@@ -79,7 +79,7 @@ EMEA,Italy,Milan,"Via Caldera 25, Milan, 20153, Italy",Infracom Network Applicat
 EMEA,Italy,Rome,"Via Cornelia 498, Rome, 166, Italy",Interoute SpA ,,x,
 EMEA,Italy,Rome,"Via dei Tizii, 6, Rome,  00185, Italy",NaMex Internet eXchange,,x,
 EMEA,Italy,Turin,"Corso Svizzera 185A, Turin, 10149, Italy",IT Gate S.p.A. & Tiscaly Italy,,x,
-EMEA,Latvia,Riga,"Za��usalas krastmala 1, Zemgales priek��pils��ta, R��ga, LV-1050, Latvia",GTT (Hibernia),,,x
+EMEA,Latvia,Riga,"Za€áusalas krastmala 1, Zemgales priekÁpils€Òta, R€Çga, LV-1050, Latvia",GTT (Hibernia),,,x
 EMEA,Netherlands,Amsterdam,"Kuiperbergweg 13, Amsterdam, 1101 AE, Netherlands",Equinix AM7,x,x,x
 EMEA,Netherlands,Amsterdam,"Joop Geesinkweg 401, 1096 AX Amsterdam, Netherlands",TeliaSonera,,,x
 EMEA,Netherlands,Amsterdam,"J.W. Lucasweg 35, Haarlem, Netherlands",EvoSwitch,x,ICB*,
@@ -110,9 +110,9 @@ EMEA,Northern Ireland,Coleraine,"Dundooan Rd, Coleraine BT52 1SF, UK",GTT (Hiber
 EMEA,Northern Ireland,Derry,"Strand Rd, Londonderry BT48, UK",Telehouse (ILEX),x, ,
 EMEA,Northern Ireland,Omagh,"Gortrush Industrial Estate, Omagh BT78 5EJ, UK",GTT (Hibernia),x, ,
 EMEA,Northern Ireland,Strabane,"47 Derry Rd, Strabane BT82 8DY, UK",GTT (Hibernia),x, ,
-EMEA,Norway,Olso,"��kern Torgvei 13, 0580 Oslo, Norway",Oslo Broadcast Center,,,x
+EMEA,Norway,Olso,"Ì÷kern Torgvei 13, 0580 Oslo, Norway",Oslo Broadcast Center,,,x
 EMEA,Norway,Olso,"Sigurds gate 14, 0650 Oslo, Norway",TeliaSonera,,,x
-EMEA,Norway,Oslo,"��stre Aker Vei 18a, Oslo, 581, Norway",TeliaSonera,,x,x
+EMEA,Norway,Oslo,"Ì÷stre Aker Vei 18a, Oslo, 581, Norway",TeliaSonera,,x,x
 EMEA,Poland,Warsaw,"Aleje Jerozolimskie 65, 00-697 Warszawa, Poland",PLIX DC,,x,
 EMEA,Romania,Bucharest,"8 Dimitrie Pompeiu Blvd, Bucharest, 20337, Romania",NXDATA-1,,x,
 EMEA,Slovakia,Bratislava,"Kopcianska 18, Bratislava, 851 01, Slovakia",SITEL s.r.o.,,x,
@@ -121,33 +121,33 @@ EMEA,Spain,Madrid,"Calle de Albasanz, 71, 28037 Madrid, Spain",Interxion Spain,,
 EMEA,Spain,Madrid,"Calle de Mesena 80, Madrid, 28033, Spain",ESPANIX,,x,
 EMEA,Spain,Madrid,"Sala 105 - Edificio Empresarial Valsoto - c/ Valgrande n 6 - Alcobendas, Madrid, 28100, Spain",Itconic ,,x,
 EMEA,Spain,Madrid,"Yecora 4  Poligono Las Mercedes, Madrid, 28022, Spain",NAP of the Americas Madrid (Terremark),,x,
-EMEA,Sweden,��rebro,"702 27 ��rebro, Sweden",TeliaSonera,,,x
-EMEA,Sweden,��rebro,"��stra Borsv�_gen 30, 711 72 Vedev̴g, Sweden",TeliaSonera,,,x
+EMEA,Sweden,ÌÐrebro,"702 27 ÌÐrebro, Sweden",TeliaSonera,,,x
+EMEA,Sweden,ÌÐrebro,"ÌÐstra BorsvÌ_gen 30, 711 72 VedevÌ´g, Sweden",TeliaSonera,,,x
 EMEA,Sweden,Bjuv,"267 40 Bjuv, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Borl�_nge,"Arkitektgatan 10, 781 70 Borl�_nge, Sweden",TeliaSonera,,,x
-EMEA,Sweden,G�_vle,"Drottninggatan 29, 803 11 G�_vle, Sweden",TeliaSonera,,,x
+EMEA,Sweden,BorlÌ_nge,"Arkitektgatan 10, 781 70 BorlÌ_nge, Sweden",TeliaSonera,,,x
+EMEA,Sweden,GÌ_vle,"Drottninggatan 29, 803 11 GÌ_vle, Sweden",TeliaSonera,,,x
 EMEA,Sweden,Gothenburg,"Rimmaregatan 10, 422 55 Hisings Backa, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Halmstad,"K̦pmansgatan 41, 302 42 Halmstad, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Karlstad,"Telev�_gen 3, 656 31 Karlstad, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Limhamn,"Limhamnsg̴rdens all̩ 18, 216 16 Limhamn, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Link̦ping,"Kungsgatan 20, 582 18 Link̦ping, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Lulea,"Magasinsgatan 10, 972 41 Lule̴, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Lund,"Lund 240, 742 94 ��sthammar, Sweden",TeliaSonera,,,x
-EMEA,Sweden,M̦lnlycke,"435 33 M̦lnlycke, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Norrk̦ping,"602 26 Norrk̦ping, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Ostersund,"832 45 Fr̦șn, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Skellefte̴,"Storgatan, Skellefte̴, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Halmstad,"KÌ¦pmansgatan 41, 302 42 Halmstad, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Karlstad,"TelevÌ_gen 3, 656 31 Karlstad, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Limhamn,"LimhamnsgÌ´rdens allÌ© 18, 216 16 Limhamn, Sweden",TeliaSonera,,,x
+EMEA,Sweden,LinkÌ¦ping,"Kungsgatan 20, 582 18 LinkÌ¦ping, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Lulea,"Magasinsgatan 10, 972 41 LuleÌ´, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Lund,"Lund 240, 742 94 ÌÐsthammar, Sweden",TeliaSonera,,,x
+EMEA,Sweden,MÌ¦lnlycke,"435 33 MÌ¦lnlycke, Sweden",TeliaSonera,,,x
+EMEA,Sweden,NorrkÌ¦ping,"602 26 NorrkÌ¦ping, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Ostersund,"832 45 FrÌ¦sÌ¦n, Sweden",TeliaSonera,,,x
+EMEA,Sweden,SkellefteÌ´,"Storgatan, SkellefteÌ´, Sweden",TeliaSonera,,,x
 EMEA,Sweden,Stockholm,"Hammarbybacken, 121 45 Johanneshov, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Stockholm,"M̦rka Kroken 1, 115 27 Stockholm, Sweden",TeliaSonera,,,x
-EMEA,Sweden,Stockholm,"R̴lambsv�_gen 28, 112 59 Stockholm, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"MÌ¦rka Kroken 1, 115 27 Stockholm, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Stockholm,"RÌ´lambsvÌ_gen 28, 112 59 Stockholm, Sweden",TeliaSonera,,,x
 EMEA,Sweden,Stockholm,"Esbogatan 11, 164 74 Kista, Sweden",InterXion STO1,,x,
-EMEA,Sweden,Stockholm,"Marieh�_llsv�_gen 36, 168 65 Bromma, Sweden",Equinix (Fka Telecity),,x,
+EMEA,Sweden,Stockholm,"MariehÌ_llsvÌ_gen 36, 168 65 Bromma, Sweden",Equinix (Fka Telecity),,x,
 EMEA,Sweden,Stockholm,"Solnavaegen 94 -169 51, Solna, Sweden",TeliaSonera,,x,
-EMEA,Sweden,Sundsvall,"Granloholmsv�_gen 2, 857 30 Sundsvall, Sweden",TeliaSonera,,,x
+EMEA,Sweden,Sundsvall,"GranloholmsvÌ_gen 2, 857 30 Sundsvall, Sweden",TeliaSonera,,,x
 EMEA,Sweden,Umea,"901 79, 815 38 Tierp, Sweden",TeliaSonera,,,x
 EMEA,Switzerland,Zurich,"Hardstrasse 235, Zurich, 8005, Switzerland",Equinix ZH2,,x,
 EMEA,Switzerland,Zurich,"Margarethenstrasse 40, Basel, 4008, Switzerland",Telehouse,,x,
-EMEA,Switzerland,Zurich,"S�_gereistrasse 35, 8152 Opfikon, Switzerland",InterXion ZUR1,,x,
+EMEA,Switzerland,Zurich,"SÌ_gereistrasse 35, 8152 Opfikon, Switzerland",InterXion ZUR1,,x,
 EMEA,UAE,Doha,"Qatar Landing Station, Doha, Qatar",GBI,,x,
 EMEA,UAE,Dubai,"Au Tower, Dubai, United Arab Emirates",GBI,,ICB*,
 EMEA,UAE,Dubai,"Du Cable Landing Station, Corniche Road (includes backhaul to Datamena in Dubai), Fujairah,  United Arab Emirates",GBI,,x,
@@ -180,11 +180,11 @@ North America,Canada,Halifax,"5562 Sackville St, Halifax, NS B3J 1L1, Canada",In
 North America,Canada,Halifax,"7071 Bayers Rd, Halifax, NS B3L 2C2, Canada",GTT (Hibernia),x, ,
 North America,Canada,Moncton,"770 St George Blvd, Moncton, NB E1E 2C2, Canada",Fibre Centre,x, ,
 North America,Canada,Moncton,"115 Albert St, Moncton, NB E1C 1B3, Canada",Bell Canada,x,,
-North America,Canada,Montreal,"1250 Rene Levesque West, Montr̩al, QC H3B 4W8, Canada",Cologix MTL3,x,x,x
-North America,Canada,Montreal,"20, place du Commerce, Ile-des-Soeurs, Montr̩al, QC H3E 1T9, Canada",iWeb,,x,
-North America,Canada,Montreal,"3000 Rene Levesque Blvd. West, Montr̩al, QC, H3E 1T9, Canada",Cologix MTL2,,x,
-North America,Canada,Montreal,"625 Rene Levesque Blvd. West, Montr̩al, QC, H3B 1R2, Canada",Cologix MTL1,,x,
-North America,Canada,Montreal,"875 Rue Saint Antoine O, Montr̩al, QC H3C 1A6, Canada",Metro Optic,x, ,
+North America,Canada,Montreal,"1250 Rene Levesque West, MontrÌ©al, QC H3B 4W8, Canada",Cologix MTL3,x,x,x
+North America,Canada,Montreal,"20, place du Commerce, Ile-des-Soeurs, MontrÌ©al, QC H3E 1T9, Canada",iWeb,,x,
+North America,Canada,Montreal,"3000 Rene Levesque Blvd. West, MontrÌ©al, QC, H3E 1T9, Canada",Cologix MTL2,,x,
+North America,Canada,Montreal,"625 Rene Levesque Blvd. West, MontrÌ©al, QC, H3B 1R2, Canada",Cologix MTL1,,x,
+North America,Canada,Montreal,"875 Rue Saint Antoine O, MontrÌ©al, QC H3C 1A6, Canada",Metro Optic,x, ,
 North America,Canada,Ottawa,"485 Terminal Ave, Ottawa, ON K1G, Canada",Bell Canada,x,,
 North America,Canada,St John,"75 Prince William St, Saint John, NB E2L 2B2, Canada",Cirrus 9,x, ,
 North America,Canada,Toronto,"151 Front Street W, Toronto, ON, M5J 2N1, Canada",Cologix,x,x,x
@@ -192,7 +192,7 @@ North America,Canada,Toronto,"130 King St W, Toronto, ON M5X 1K6, Canada",Exchan
 North America,Canada,Toronto,"100 Wellington St W, Toronto, ON, Canada",Q9 Networks,x, ,
 North America,Canada,Toronto,"3500 Steeles Ave E, Markham, ON L3R, Canada",TD Waterhouse,x, ,
 North America,Canada,Vancouver,"555 West Hastings Street, Vancouver, BC V6B 4N5, Canada",Cologix VAN1,,x,
-North America,Mexico,Mexico City,"Boulevard Benito Ju��rez 20, Colonia San Mateo Cuautepec, Tultitl��n, Estado de M̩xico",KIO Data Center,,x,
+North America,Mexico,Mexico City,"Boulevard Benito JuÌÁrez 20, Colonia San Mateo Cuautepec, TultitlÌÁn, Estado de MÌ©xico",KIO Data Center,,x,
 North America,United States,Albany,"194 Washington Ave, Albany, NY 12210, USA",Level3,x,ICB*,
 North America,United States,Albany,"Home Savings Bank Building, 11 N Pearl St, Albany, NY 12207, USA",Windstream,x,ICB*,
 North America,United States,Ashburn,"21715 Filigree Ct, Ashburn, VA 20147, USA",Equinix DC2,x,x,x
