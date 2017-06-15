@@ -1,250 +1,0 @@
-,"Purpose of listing TeliaSonera IC's Point of Presence in this Excel spreadsheet, is to provide our customers with an overview of possible interconnection points to TeliaSonera IC's network.",,,,,
-,This list is subject to change without prior notice. TeliaSonera IC accepts no responsibility for errors or omissions. Always contact TeliaSonera IC for the latest updated information.,,,,,
-,,,,,,
-,,,,,,
-TeliaSonera IC Points of Presence,,,TeliaSonera IC Products,,,
-,,,,,,
-,,,Yes = Available for sale,,,
-,,,No = Not available for sale,,,
-,,,P = See product guide,,,
-Country,City,PoP address/Partner,Internet Services,Ethernet,Wavelengths,"Standard TSIC SDPFloor/Room"
-"Available Pop Locactionsin the  USA, Europe and Asia",,,"Connectivity to the internet for customers with onw AS Number via BGP4 or for customers without own AS number via static routing.Available Port speeds: 1Gbps, 10Gbps, 100Gbps","1 Mbps - 2500 Mbps (flat rate or flat rate + burst) Certifications: MEF CE 1.0 (MEF 9 for EPL, EVPL - MEF 14 for EVPL)                                                  MEF CE 2.0 (E-LINE, E-LAN, E-ACCESS)","Wavelength Point to point managed bandwidth: 1 Gbps, 2.5 Gbps, 10 Gbps, 40 Gbps, 100 Gbps",
-USA,Ashburn,"21715 Filigree Court, Bld Fc/o Equinix Ground floor, cage 2630Ashburn, VA 20147",Yes,Yes,No,"Ground Floor, Cage 2630"
-USA,Ashburn,"21715 Filigree Court, Bld Fc/o Equinix Ground floor, cage 2276Ashburn, VA 20147",Yes (DF),No,Yes,"Ground Floor, Cage 2276"
-USA,Atlanta,"c/o QTS1033 Jefferson Street NW30318 Atlanta, GA",No,No,Yes,"1st floor, 01 MMR"
-USA,Atlanta,"56, Marietta, 2nd floorAtlanta, GA 30303",Yes,Yes,Yes,"2nd floor, TelX MMR"
-USA,Austin,"Data Foundry, 4100 Smith School Rd, 78744 Austin, Texas",Yes,Yes,Yes,
-USA,Austin,"Cyrus One, 7301  Metropolis Dr, Building 6, 78703 Austin, Texas",Yes,No,Yes,
-USA,Boca Raton,"4680 Conference Way, Equinix - South Suite 150, Boca Raton, FL 33431",Yes,Yes,Yes,"1st floor, Cage 10055"
-USA,Boston,"One Summer Street4th fl. room 44102110 Boston Mass",Yes,Yes,No,4th/CCR
-USA,Buffalo,"350 Main streetSwitch&Data, Suite 1806 Cage M-14Buffalo, NY 14202",Yes,Yes,Yes,cage 18011
-USA,Carrollton,"c/o Cyrus One1649 W Frankford RdCarrollton TX, 75007",No,No,Yes,
-USA,Charlotte,"113 N. Myers3rd Floor, c/o Telx, Cage M03Charlotte, NC  28202 ",Yes,Yes,Yes,TelX MMR
-USA,Charlotte,"731 E Trade St. Charlotte, NC 28202",No,No,Yes,n/a
-USA,Chicago,"350 East Cermak Rdc/o Equinix, 5th floor Cage 580Chicago, IL 60616",Yes,Yes,Yes,cage 580
-USA,Chicago,"c/o Coresite, 427 S. LaSalle, Chicago, IL 60605",Yes,Yes,Yes,MMR
-USA,Cleveland,"1255 Euclid Ave. Sterling Bldg.Switch&Data, Suite 200 Cage AU.2Cleveland, OH 44115",Yes,Yes,Yes,"2nd floor suite 200cage 20038"
-USA,Dallas,"c/o Tel-X, Room 24402323 Bryan St.Dallas TX 75201",Yes,Yes,Yes,
-USA,Dallas,"The infomart, 1950 Stemmons fwy752 07 Dallas TX",Yes,Yes,Yes,
-USA,Dallas,"c/o Databank400 S Akard St.Dallas TX, 75202",No,No,Yes,
-USA,Dallas,"Tierpoint, 3000 Irving blvd, Dallas TX, 75247",No,No,Yes,
-USA,Denver,"910 15th StreetComfluent Suite 751 7th floorDenver, CO 80202",Yes,Yes,Yes,suite 751 
-USA,Detroit,"365 Data Centers, 24660 Lahser Road, Southfield, Detroit MI 48033",Yes,Yes,No,
-USA,El Paso,"Level 3 (ex. Wiltel) 501 W. Overland, El Paso, TX 79901 ",No,No,Yes,
-USA,El Paso,"Transtelco, 500 W. Overland, El Paso, TX 79901",No,No,Yes,
-USA,Houston,"1124 Hardy Street, 2nd floorHouston TX 77020",No,No,Yes,2X
-USA,Houston,"Houston West III, 5150 Westway Park, 77041 Houston Texas",Yes,Yes,Yes,
-USA,Houston,"Data Foundry, 660 Greens Pkwy, Houston, Texas",No,No,Yes,
-USA,Indianapolis,"Lightbound, 731 W Henry St, Indianapolis, IN 46225",Yes,Yes,Yes,"2nd Floor, Cage Telia"
-USA,Jacksonville,"421 W. Church St.Jacksonville, FL 32202",Yes,Yes,Yes,"4th floor, Cologix MMRSuite 400"
-USA,Kansas City,"1102 Grand Blvd, MMR Suite 604,10th  flr, Cage 03Kansas City, MO 64106",Yes,Yes,Yes,"6th floor, MMR"
-USA,Lerado,"VTX Communications, LLC, 520 Matamoros 78040 Laredo, Texas",No,No,Yes,
-USA,Los Angeles,"Grnd Floor, Mezz1,Cage Idc185-06900 N Alameda St90012 Los Angeles, CA",Yes,Yes,Yes,"Ground Floor, MEZZ1 MMR"
-USA,Los Angeles,"One Wilshire Building, 4th floor MMR624 S. Grand AvenueLos Angeles CA 90017",Yes,Yes,Yes,4th floor Core site MMR
-USA,Los Angeles,"600 West 7th street, 6th floor, suite 6005th floor, MMR, Cage C23A 6th floor, c/o Equinix, Cage 30, Rack 517, Los Angeles, CA 90017 ",Yes,Yes,Yes,cage 270
-USA,Manassas,"c/o EvoswitchRoom 2069651 Hornbaker Road20109 Manassas, VA",No,No,Yes,Evoswitch
-USA,Manasquan,"600 Sea Girt AvenueSea Girt, NJ",No,No,Yes,2nd floor MMR
-USA,McAllen,"McAllen Data Center, 200 S 10th St. Suite 700, McAllen, TX 78501",Yes,No,Yes,
-USA,Miami,"50 NE 9th Street, 2nd floor, Cab:AT47c/o NAP of the AmericasMiami, FL 33132",Yes,Yes,Yes,Terremark 2nd floor MMR
-USA,Michigan,"365 Data Centers, 24660 Lahser Rd, Southfield, Michigan 48033",Yes,Yes,No,
-USA,Nashville,"365 Data Centers, 147 Fourth Ave, Nashville, TN 37219",Yes,Yes,No,"8th Floor, Room 11244"
-USA,Nashville,"147 Fourth Ave.c/o 365 MainNashville, TN 3721",No,No,Yes,"8th floor, 365 Main MMR"
-USA,New York,"165 Halsey Streetc/o Equinix; 8th floor, Cage 95Newark, NJ 07102",Yes,Yes,No,"8th floor, cage 95(or 9th floor MMR)"
-USA,New York,"165 Halsey Streetc/o Equinix; 8th floor, Cage 0180Newark, NJ 07102",Yes (DF),No,Yes,"8th floor, cage 180"
-USA,New York,"111 8th Avenue, Suite 818New York, NY 10011",Yes (DF),No,No,n/a
-USA,New York,"111 8th Avenue Suite 810 New York, NY 10011",Yes,No,Yes,"8th floor, Suite 810B&C"
-USA,New York,"111 8th Avenue, Suite 809New York, NY 10011",Yes,Yes,No,"8th floor, Suite 809(or Telx Room 1515, 804, 307 Telx or Sprint Suite 815 or Equinix Suite 518C)"
-USA,New York,"60 Hudson Street, c/o Telx9th floor MMR,NY, NY 10013",Yes,Yes,Yes,9th floor TelX MMR
-USA,New York,"60 Hudson Street, c/o Telx9th floor MMR,NY, NY 10013",Yes,Yes,No,9th floor TelX MMR
-USA,New York,"Telehouse, 85 10th Ave, New York, NY 10011",Yes,No,No,
-USA,Omaha,"NCC Datacenter Omaha, 1623 Farnham St, Omaha NE 68102",Yes,Yes,No,"3rd Floor, Room 300C"
-USA,Palo Alto,"529 Bryant St.c/o EquinixSuite 2, Cage 83140Palo Alto, CA 94301",Yes,Yes,Yes,"8th floor, cage 83140"
-USA,Philadelphia,"2nd Floor, 401 North Broad Street, Philadelphia PA 19121",Yes,Yes,No,"2nd Floor, Suite 210"
-USA,Phoenix,"615 N. 48th Streeti/o Data CentersMMR-P1, Cage 170Phoenix, AZ 85008 ",Yes,Yes,Yes,I/O MMR
-USA,Phoenix,"c/o Phoenix NAP3402 E University Dr.Phoenix AZ 85034",Yes,Yes,Yes,
-USA,Reston,"12100 Sunrise Valley Drivec/o CoresiteReston, VA 20190",No,No,Yes,"Ground Floor, Coresite MMR"
-USA,Richardson,"c/o Databank904 Quality WayRichardson TX, 75801",No,No,Yes,
-USA,Richmond,"QTS Richmond, 6000 Technology Blvd Sandston, Virginia, 23150",No,No,Yes,
-USA,San Antonio,"100 Taylor St, 78205 San Antonio, Texas",Yes,Yes,Yes,
-USA,San Francisco,"200 Paul Streetc/o Telx,  3rd  floorÂ´,San Francisco, CA 94124",Yes,Yes,Yes,"3rd floor suite 303,TelX MMR"
-USA,Seattle,"c/o Equinix, 2001 SIXTH AVENUE, THE WESTIN BUILDING, CAGE 13050, 9812, SEATTLE, United States",Yes,Yes,No,"13th floor (Cage 13050) & only trunk fibers to 19th floor bmmr"
-USA,St Louis,"900 Walnut Street,c/o DRT,c3rd Floor MMR,St. Louis, MO 63102",Yes,Yes,Yes,"3rd floor, suite 320"
-USA,Tampa,"655 N Franklin St.c/o NAP of the AmericasTampa FL 33602",No,No,Yes,"10th Floor, Cage 10076"
-USA,Tuckerton,"17 Cable RoadTuckerton, NJ",No,No,Yes,suite 0103
-USA,Washington DC,"CRG/Coresite1275 K Street NWSuite 105 Cage C0101Washington DC 20005",No,No,Yes,"Ground Floor, Suite105 cage C101"
-USA,Philadelphia,"401 North Broad St3rd Floor, Suite 323Philadelphia, PA 19121",No,No,Yes,"3rd floor, suite 323"
-USA,San Jose,"11 Great Oaks Blvdc/o Equinix, Ground floor, Cage 1910San Jose, CA 95119 ",Yes,Yes,Yes,"Ground Floor,cage 1910 or 1965"
-UKR,Kiev,"Gaydara 50,  2nd floor, room1, 01033, Kiev",Yes,Yes,No,"2nd floor, MMR"
-UKR,Kiev,"Leontovicha str, B.9/3, 2nd floor server room01034 Kiev",Yes,Yes,No,2nd floor Server room 3
-SWE,Gothenburg,"KlockarevÃ_gen 2HisingskÃ_rra, Gothenburg",Yes (TSS),No,Yes,"Ground Floor, Room A16"
-SWE,MalmÃ¶,"LimhamnsgÃ¥rdens AllÃ© 18,  216 16 Limhamn",No,No,No,n/a
-SWE,MalmÃ¶,"MalmÃ¶ Sparven; Storgatan 15211 41 MalmÃ¶ ",No,No,Yes,n/a
-SWE,Stockholm,"Esbogatan 11/Vandagatan 3, 164 94 Akalla",Yes,Yes,Yes,"2nd floor, MMR 34B & 39"
-SWE,Stockholm,"Bergets Sal 315;RÃ¥lambsvÃ_gen 28-30112 59  Stockholm",Yes,No,Yes,ROOM F115
-SWE,Stockholm,"Room 329 A;RÃ¥lambsvÃ_gen 28-30112 59  Stockholm",No,No,No,Room 339 MMR ODF
-SWE,Stockholm,"Room 212, RÃ¥lambsvÃ_gen 28-30112 59  Stockholm",Yes,Yes,No,n/a
-SWE,Stockholm,"Haninge; C/o Telia IT-service,G hall 4th floorRudsjÃ¶terrassen 5, 136 82 Haninge",Yes,No,No,"4th Floor, Room 4427"
-SWE,Stockholm,"Sal 2209 Internationell; Kalmgatans fÃ¶rlÃ_ngning; 121 45  Johanneshov",Yes (DF),No,Yes,ROOM 2209
-SWE,Stockholm,"Building 2, 3:rd Floor, Room 2327; Kalmgatans fÃ¶rlÃ_ngning; 121 45  Johanneshov",Yes (DF),No,No,"3rd floor, Room 2327"
-SWE,Stockholm,"Building 2, 5:th Floor, Room 2525; Kalmgatans fÃ¶rlÃ_ngning; 121 45  Johanneshov",Yes,Yes,No,"5th floor, Room 2525"
-SWE,Stockholm,"Torshamnsgatan 35 C/O MCI Worldcom 1st Floor,  Colo#1, 16440 Kista",Yes (TSS),No,No,Verizon MMR TOR M1
-SWE,Stockholm,"Liljeholmen, TrekantsvÃ_gen 7117 43 Stockholm",Yes,Yes,No,MMR ROOM 1106 & MMR ROOM 1122
-SWE,Stockholm,"SolnavÃ_gen 94169 51  Solna",Yes (TSS),No,No,"Ground Floor,Room 216 MMR"
-SWE,Stockholm,"Ã–stra Vasa;Roslagsgatan 30, plan 4113 55 Stockholm",Yes (TSS),No,No,2ND FLOOR Skanova MMR
-SWE,Stockholm,"TeleCity; MariehÃ_llsvÃ_gen 36168 65 Bromma   ",Yes (TSS),Yes,Yes,Telecity MMR1 & MMR2
-SVK,Bratislava,"Sitel Telehouse, KopÃ¨ianska 20/c, 85101 Bratislava",Yes,Yes,Yes,MMR row 1A 
-SUI,ZÃ_rich,"Hardstrasse 2358005 ZÃ_rich",Yes,Yes,Yes,"Floor 1, Room 1"
-SUI,ZÃ_rich,"JOSEFSTRASSE 2258005 ZÃ_rich",Yes,Yes,No,"Floor 4, Room 4001"
-SIN,Singapore,"Equinix Telehouse, 20 Ayer Rajah Crescent, 139964 Singapore",Yes,Yes,No,"Floor 5B, room 00010"
-SIN,Singapore,"Global Switch, 2 Tai Seng Avenue, 534408 Singapore",Yes,No,No,"5TH floor, Room: MMR3"
-RUS,Kostomuksha,"GORNYAKOV PROSPECT, THE AREA OF INDUSTRIAL PLATFORM JSC1ST FLOOR, SUITE 102186930, KOSTOMUKSHA",No,No,No,1st floor room 102 row 1
-RUS,Moscow,"Sushevskiy val str. 26127 018 Moscow",Yes,No,No,"3d floor, LAZ-ST, 23 row"
-RUS,Moscow,"7 Butlerova Street, 6th floor117 485 Moscow",No,No,No,"6th floor, romm 38, row 5"
-RUS,Moscow,"7 Butlerova Street, 2nd floor117 485 Moscow",Yes,Yes,Yes,"2nd foor, 34 room"
-RUS,Moscow,"Oktyabrskaya str. 1127 018 Moscow",Yes,Yes,Yes,"1 st floor, room 1"
-RUS,Moscow,"Oktyabrskaya str. 1127 018 Moscow",Yes,No,Yes,"1st floor, room 3"
-RUS,Novgorod,"Bazoviy per. 2173000 Novgorod",No,No,Yes,"1st floor, room 105, row 2A"
-RUS,St Petersburg,"57, Borovaya Str, floor 3, room 306192007 S:t Petersburg",Yes,Yes,No,"3rd floor,  room 306"
-RUS,St Petersburg,"57, Borovaya Str, floor 3, room 332192007 S:t Petersburg",Yes (DF),No,No,"3 d floor,  room 332"
-RUS,St Petersburg,"BOLSHAYA MORSKAYA 18Floor 1, Room 124191186 St. Petersburg",Yes (DF),No,No,"1st floor, room 124"
-RUS,St Petersburg,"57, Borovaya Str, floor 6, room 600192007 S:t Petersburg",Yes (DF),No,Yes,"6th floor, room 600"
-RUS,St Petersburg,"Mayakovskogo str 22-2191104 S:t Petersburg",Yes,Yes,No,"2nd floor, room 219"
-RUS,St Petersburg,"Mayakovskogo str 22-2191104 S:t Petersburg",Yes (DF),No,No,"2nd floor, room 213"
-RUS,St Petersburg,"Mayakovskogo str 22-2191104 S:t Petersburg",Yes,Yes,Yes,"1st floor, room 106"
-RUS,Tver,"7 VAGZHANOVA, 6th Floor, Room Ventzal, 170100 Tver, Russia",Yes,Yes,No,"6 th floor, room 1"
-RUS,Viborg,"Moscovskiy ave. 24188800 Viborg",No,No,No,"2nd floor, S-LAZ"
-ROU,Bucharest,"Dimitrie Pompei Nr. 6-A, Sector 2, Bucharest, RO-02033, Romanina",Yes,Yes,No,"NXDATA2 1st floor MMR row 1A"
-QAT,Doha,"Al-Waab, Ground Floor Room Alwaab-IGW-SWITCH, PO Box 217, Doha",Yes,No,No,
-POL,Poznan,"St. Taczaka 10, 2nd Floor, Room 20561-818 Poznan",Yes,Yes,Yes,2nd floor room 205 row DA
-POL,Warsaw,"Ul. Jutrzenki 17702-231 Warzaw",Yes,Yes,Yes,"Ground floor, Room1 "
-POL,Warsaw,"Al. Jerozolimskie 65-79, floor 1300-697 Warsaw",Yes,Yes,Yes,13th floor room 1305
-OMA,Muscat,"Bab Al-Mathaib Street, Way #607, WCS Room TRSM 222, Muscat",Yes,No,No,
-NOR,Oslo,"Ã–st SentralSigurdsgate 14 Oslo",Yes,Yes,Yes,"1st floor, Room 1T1"
-NOR,Oslo,"Etage 3; Ã–stre Akers vei 18A0581 Oslo ",Yes,Yes,Yes,"TSIC MMR, 3rd floor, room B31"
-NED,Amsterdam,"c/o EquinixScience Park 6101098 XH Amsterdam",No,No,Yes,MMR
-NED,Amsterdam,"c/o InterxionCessnallan 1-33 (AMS3)Room AMS3 503.B119NJ Schipol Rijk",Yes,Yes,No,
-NED,Amsterdam,"Evoswitch, J.W Lucasweg 35, 2031 BE Haarlem ",Yes,Yes,Yes,MMR
-NED,Amsterdam,"c/o Equinix Luttenbergweg 41101 EC Amsterdam",No,No,No,MMR
-NED,Amsterdam,"Global Switch, Johan Huizingalaan 759, 1066 VH, Amsterdam",No,No,Yes,
-NED,Amsterdam,"c/o Interxion AMS1/AMS4Gyroscoopweg 60Ground fl. Room AMS1 .1091042 AC Amsterdam",Yes,Yes,No,
-NED,Amsterdam,"c/o Interxion Europe IX5TUPOLEVLAAN 101, Room 130A1119 PA SCHIPHOL-RIJKNETHERLANDS",Yes,Yes,Yes,MMR
-NED,Amsterdam,"Joop Geesinkweg 401-404NL-1096 Ax Amsterdam",No,No,Yes,MMR
-NED,Amsterdam,"VANCIS (SARA), Science Park 121,Room S150, 1st fl. rack K68-701098 XG Amsterdam",Yes,Yes,Yes,"1st floor, Room S150"
-NED,Amsterdam,"TELECITY AMS5SCHEPENBERGWEG 421105 Amsterdam",No,No,Yes,MMR
-NED,Amsterdam,"Telecity S/E, Room 1Kuiperbergweg 13; 1101 AE Amsterdam",Yes,Yes,Yes,MMR
-NED,Amsterdam,"Telecity S/E, Room 2Kuiperbergweg 13; 1101 AE Amsterdam",Yes,Yes,Yes,Colo Room
-NED,Amsterdam,"c/o Telecity 4, HJE Wenckebachweg 127, 1096 AM Amsterdam",Yes (DF),Yes,No,
-LUX,Bettembourg,"LuxConnect, 4 Rue rue A.Graham Bell, 3235  Bettembourg",No,No,Yes,
-LTU,Sventoji,"Mokyklos 2, 00303 Sventoji, Lithuania",No,No,Yes,"1st Floor, Room 1"
-LTU,Vilnius,"Sevcenkos St. 25Floor 2A, Room 20203001 Vilnius",Yes,No,No,#N/A
-LAT,Liepaja,"Lozmetejnieku str.12A, Liepaja",No,No,Yes,"Ground Floor, Room 1"
-LAT,Riga,"TV tower, RigaZakusalas Krastmala 1, 107mLV-1050 Riga",No,No,No,"Floor 107m, room 1"
-LAT,Riga,"c/o Riga TV Tower2nd floor, Room 247, Zakusalas krastmala 1, LV-1050 Riga",Yes,Yes,No,"Floor 2, room 247"
-LAT,Riga,"c/o Telia LatviaGround Floor, Data RoomLielvardes iela 8a, LV-1006 Riga",Yes,Yes,No,"Ground Floor, Data Room"
-ITA,Milan,"Via Caldera 21; Building E, left wing - Camelot aisle, ground floor, 20153 Milan",Yes,Yes,Yes,MMR
-IRL,Dublin,"DNL Telecity, Unit 4027Kingswood Rd, City West Business Campus Saggart, Dublin D24, Ireland",Yes,Yes,No,MMR
-IRL,Dublin,"C/O DATA ELECTRONIX SERVICES,7 KILCARBERY PARK, NANGOR ROAD, Dublin D22, Ireland",Yes,Yes,No,MMR
-HUN,Budapest,"Asztalos SÃ¡ndor U. 13. 1/1B125, H-1087, Budapest",Yes (TSS),No,Yes,"MMR1: Floor 1, 1F151 or MMR2: Floor 2, 2F250"
-HUN,Budapest,"c/o Budapest Internet ExchangeVictor Hugo u. 18-22, H-1132 Budapest",Yes,Yes,Yes,"Floor 1, Room ITAK"
-GER,Berlin,"Lorenzweg 5120 99 Berlin",Yes,Yes,Yes,"4th floor, Room 4-1"
-GER,Cologne,"c/o Netcologne GMBHGround fl. Room EUP-EG1X-DC4Eupener Str. 13750993 Cologne",Yes,Yes,Yes,Telia Room
-GER,Dresden,"Overbeckstr. 41a01139 Dresden",Yes (TSS),No,Yes,Based on request
-GER,DÃ_sseldorf,"In der Steele 43405 99 DÃ_sseldorf",Yes,Yes,Yes,Telia Room
-GER,DÃ_sseldorf,"In der Steele 43405 99 DÃ_sseldorf",Yes (DF),No,No,Telia Room
-GER,DÃ_sseldorf,"In der Steele 27405 99 DÃ_sseldorf",Yes,Yes,No,MMR
-GER,Frankfurt,"RebstÃ¶ckerstrasse 55603 26 Frankfurt",Yes,Yes,Yes,Telia Room
-GER,Frankfurt,"Kleyerstrasse 90603 26 Frankfurt",No,Yes,No,MMR
-GER,Frankfurt,"AIXT, _x000D_Strahlenbergerstrasse 14_x000D_Floor 6, Room: Noc-Room_x000D_63067 Offenbach",Yes,Yes,No,Telia Room
-GER,Frankfurt,"RebstÃ¶ckerstrasse 55603 26 Frankfurt",Yes,No,Yes,Telia Room
-GER,Frankfurt,"C/o interxion; Hanauer Landstrasse 304aBuild FRA2 Gr. Floor room 3.1603 14 Frankfurt",Yes,Yes,Yes,"FRA2, Grnd Floor, MMR"
-GER,Frankfurt,"c/o Interxion Building FRA3 WeissmÃ_llerstrasse 23 room 3.1 rack B4 603 14 Frankfurt",Yes,Yes,No,"FRA3, MMR/CPR"
-GER,Frankfurt,"c/o Interxion FrankfurtHanauer Landstrasse 308ABuilding FRA560314 Frankfurt",Yes,Yes,No,"FRA5, 1st Floor, MMR"
-GER,Frankfurt,"RebstÃ¶ckerstrasse 25-31603 26 Frankfurt",Yes (DF),No,No,"Ground Floor,Room BE16"
-GER,Frankfurt,"Kleyerstrasse 88603 26 Frankfurt",Yes (DF),No,No,Telia Room
-GER,Frankfurt,"Kleyerstrasse 88603 26 Frankfurt",Yes,Yes,Yes,Telia Room
-GER,Frankfurt,"Kleyerstrasse 79603 26 Frankfurt",No,No,No,Based on request
-GER,Frankfurt,C/o Redbus Lyoner Strasse 28                                                     605 28 Frankfurt,Yes,Yes,No,Based on request
-GER,Frankfurt,"Kleyerstrasse 79603 26 Frankfurt",No,No,No,KG13
-GER,Frankfurt,"c/o EquinixTaubenstrasse 7-960313 Frankfurt",Yes,Yes,No,
-GER,Frankfurt,"Telecity, Gutleutstrasse 310, Building J/K, Room: Zone 1, 603 27 Frankfurt",Yes,Yes,Yes,Zone 1
-GER,Frankfurt,"c/o Equinix, Kruppstrasse 121-127, Friesstrasse 26  ROOM 1A3, 60 388 Frankfurt",Yes,Yes,No,MMR 1
-GER,Hamburg,"Langenhorner Chaussee 44223 35 Hamburg   ",Yes,Yes,No,Telia Room
-GER,Hamburg,"Langenhorner Chaussee 42223 35 Hamburg   ",Yes (DF),No,Yes,Telia Room
-GER,Hamburg,"Flughafenstrasse 54 A223 35 Hamburg",Yes,Yes,Yes,Telia Room
-GER,Hamburg,"C/O E-SHELTER, 1st floor Room H-E-31Langenhorner Chaussee 44223 35 Hamburg  ",Yes,Yes,No,"Ground Floor, Room H-E-31"
-GER,Hamburg,"c/o Incolocate GmbH, 3rd floor room1Wendenstrasse 379225 37 Hamburg",No,No,Yes,Floor 3
-GER,Hannover,"Beiersdorfstrasse 530 165 Hannover",Yes (TSS),No,Yes,Telia Room
-GER,Munich,"Stuttgarter Strasse 280807 Munich",Yes (TSS),No,Yes,Telia Room
-GER,Munich,"c/o MNET Data centerDomagkstrasse 1780807 Munich",Yes,Yes,No,
-GER,Munich,"c/o Cable & WirelessLandsberger Strasse 15580687 Munich",Yes,Yes,No,
-GER,Munich,"c/o EquinixAM Mossfeld 3781829 Munich",Yes,Yes,No,
-GER,Munich,"Equinix, SeidlstraÃŸe 3, 80335 Munich ",Yes,Yes,Yes,2nd floor
-GER,Nuremberg,"Deutscherrnstrasse 15-1990429 Nuremberg",No,No,Yes,Ground Floor
-GER,Stuttgart,"Zettachring 1270567 Stuttgart ",Yes,Yes,Yes,Based on request
-GBR,London,"240 East India Dock RoadLondon E14",No,Yes,No,Ground Floor Interoute Suite
-GBR,London,"c/o Interxion EuropÃ©2nd Floor, South carrier room11 HANBURY STREETE1 6QR London",Yes,Yes,Yes,"2nd Floor 205E(+MMR/CARR rooms)"
-GBR,London,"1 Harbour Exchange SquareLondon E14 9GE",Yes,Yes,Yes,2nd Floor Handoff Supplier/Cust Rack 
-GBR,London,"1 Harbour Exchange Square2nd floor, Room 2.01London E14 9GE",No,No,No,2nd Floor Handoff Cust Rack 
-GBR,London,"Leapfield House; Unit 1 & 2 Lanrick Road,E14 OJF London",No,No,No,Ground Floor MMR
-GBR,London,"Virtus - London 2, Western International Park, Hayes UB2 5XU",No,No,Yes,
-GBR,Reading,"UNIT 12, Nimrod Industrial Estate Nimrod wayRG2 0EB Reading",No,No,No,Ground Floor Room 1
-GBR,London,"8th Floor; 6/7 Harbour exchangeLondon E14 9GE",Yes,Yes,No,7th Floor MMR
-GBR,Slough,"8 Buckingham AvenueSL 14AX Slough",Yes,Yes,Yes,"1st Floor, Room 0601.MC3.21,TSIC Cage"
-GBR,London,"8/9 Harbour Exchange Square, 2nd floorLondon E14 9HF",Yes,Yes,No,MMR
-GBR,London,"Bonnington House, 1st Floor47 Mill Harbour; London E14 9TR",No,No,No,MMR
-GBR,London,"c/o Telecity UK227 MARSH WALLE14 9SD London",No,No,Yes,MMR
-GBR,London,"Telehouse East, 2 floor1 Corriander Avenue, London E14 2AA",Yes,Yes,No,2nd Floor Room DFM50 Suite M/N8
-GBR,London,"Telehouse Metro65 Clifton StreetLondon EC2A 4JE",No,No,No,1st Floor Room CFM2
-GBR,London,"Telehouse North2nd floor, room TFM 16, 1 Coriander Ave.E14 2AA London",Yes,Yes,Yes,2nd Floor Suite DFM16 
-GBR,London,"Telehouse West1 Coriander Ave.E14 2AA London",No,No,Yes,"Ground Floor MMRA or MMRB"
-FRA,Lyon,"8 Rue Georges Marrane, 69200 Venissieux",No,No,Yes,"2nd floor, MMR"
-FRA,Marseille,"40 Avenue Roger Salengro, 130 03 Marseille ",Yes,Yes,Yes,"1st floor, MMR"
-FRA,Paris,"BÃ¢timent 237; 20-22 Rue des Gardinoux955 34 Aubervilliers",No,No,Yes,MMR
-FRA,Paris,"c/o INTERXION 45av Victor Hugo 95534 Aubervilliers",Yes,Yes,No,MMR
-FRA,Paris,"c/o Telecity, Ground FloorZone 1 Bld 245, 45 Av Victor Hugo95534 Paris",Yes,Yes,No,MMR
-FRA,Paris,"124, Boulevard de Verdun92 400 Courbevoie",Yes,Yes,Yes,MMR
-FRA,Paris,"124, Boulevard de Verdun92 400 Courbevoie",Yes,Yes,No,MMR
-FRA,Paris,"110 Bis, Avenue du GÃ©nÃ©ral Leclerc, 93500 Pantin, Paris",No,No,Yes,
-FRA,Paris,"22 Avenue des Nations Parc Silic. Building ""Le Ronsard"", 93420 VILLEPINTE",Yes,Yes,Yes,"Ground Floor, LEFT Room"
-FRA,Paris,"PARIS INTERXION PAR5Room 104-C11-13 AVENUE DES ARTS ET METIERS93200 SAINT DENIS",No,No,Yes,MMR
-FRA,Paris,"114 Rue Ambroise Croizat93200 Saint-Denis, Paris",Yes,Yes,Yes,"Ground floor, Room 120GC01 MMR"
-FRA,Paris,"c/o Equinix FranceGround fl., Room 140GS54 114 RUE AMBROISE CROIZAT93200 Saint Denis, Paris",Yes,Yes,Yes,"Ground Floor,Room 140GS54"
-FRA,Paris,"c/o Iliad Datacenter61 Rue Julian Grimau94400 Vitry Sur Seine",No,No,Yes,MMR1/MMR2
-FRA,Paris,"Telehouse 2; 137 Boulevard Voltaire1 Ã©tage-salle 1108; 75 011 Paris",Yes,Yes,Yes,"1st floor, Room 11.08"
-FRA,Strasbourg,"1 Rue du Havre, Port Autonome, 6700 Strasbourg, France",No,No,Yes,"Ground Floor, MMR ODF A"
-FIN,Helsinki,"Iso-Roobertinkatu 21-25FIN-00120 Helsinki",Yes,Yes,Yes,"Basement -2, room 2"
-FIN,Helsinki,"Kansakoulukuja 3FIN-00100 Helsinki",Yes,Yes,Yes,"Basement, Sonera Switch room"
-FIN,Helsinki,"Telecity Suvilahti, Parrukatu 2, 00570 HelsinkiFIN-00100 Helsinki",No,No,Yes,
-FIN,Helsinki,"Telecity ViikinmÃ_ki, Sahamyllyntie 4, 00560 HelsinkiFIN-00100 Helsinki",No,No,Yes,
-FIN,Helsinki,"Nebula, Kiviaidankatu 2F, 00210 Helsinki",No,No,Yes,
-EST,Karksi-Nuia,"Karksi-Nuia, PÃ_rnu Mnt 6 A, 69103",No,No,Yes,"1st Floor, Rm DLU 4"
-EST,Narva,"Narva,  Hariduse 18, 20303",No,No,Yes,"2nd Floor, Rm 025"
-EST,Tallinn,"c/o Elion International Datacentre2nd floor, Room A210SÃ¶le 14, EE-10611 Tallin",Yes,Yes,Yes,Floor 2 room A210
-EST,Tallinn,"c/o ElionSÃ–PRUSE 1931st floor, Room SR-3MEE-13415 Tallin",Yes,Yes,No,"1st floor, room SR-M3"
-EST,Tallinn,"Tallin, Kuuse 4,11621, Tallin",Yes,Yes,Yes,"2nd Floor, Room U21, U213"
-EST,Valga,"Valga, VÃ¶ru 116 A, 68205",No,No,Yes,"2nd Floor, RAS-1000"
-ESP,Barcelona,"Telvent, Carrer de L'Acer, 30-32,  Zona Franca, 08038 BARCELONA2nd floor + cage GRND/207 + Cage4 Sala 001",Yes,Yes,Yes,MMR
-ESP,Madrid,"c/o Carrier House 2; C/ Valgrande, 6Alcobendas 28100 Madrid",Yes,Yes,Yes,MMR
-ESP,Madrid,"Interxion, Calle Albasanz 71Room MAD1.40628037 Madrid",Yes,Yes,Yes,MMR
-ESP,Valencia,"Cale Villa De Madrid44, 46988 Paterna Valencia",Yes,Yes,Yes,MMR
-DEN,Copenhagen,"Ejby Industrivej 1352600 Glostrup",Yes,Yes,Yes,TSIC room BK106
-DEN,Copenhagen,"Ejby Industrivej 1352600 Glostrup",Yes (DF),No,No,n/a
-DEN,Copenhagen,"Sydvestvej 1002600 Glostrup",No,No,Yes,"Telia Denmark siteroom EQR03"
-DEN,Copenhagen,"Horskaetten 32630 Hoje Taastrup",Yes,No,No,"Global Connect MMR, Room 1"
-DEN,Copenhagen,"Metrovej 1,, Bldg 1DK-2300, KÃ¶penhamn S",Yes,Yes,No,"Ground floor, room 8"
-DEN,Copenhagen,"Metrovej 1,, Bldg 2DK-2300, KÃ¶penhamn S",Yes (DF),No,Yes,"Ground floor, room 8"
-DEN,Copenhagen,"Metrovej 1,, Bldg 2DK-2300, KÃ¶penhamn S",Yes (DF),No,No,"Ground floor, room 8"
-DEN,Noerre Nebel,"BlÃ¥bjerg/K, rum K; Industrivej 156830 Noerre Nebel",No,No,Yes,TAT-14 MMR Room K
-DEN,Noerre Nebel,"BlÃ¥bjerg/N, rum N; Industrivej 156830  Noerre Nebel",No,No,No,TAT-14 MMR Room N 
-CZE,Prague,"Sitel Telehouse, Telia room 141A, 1st floorNad Elektrarnou 411; 106 00 Praha",Yes,Yes,No,"1st floor, room 117 MMR2"
-CZE,Prague,"Sitel Telehouse, Telia room 127, 1st floorNad Elektrarnou 411; 106 00 Praha",Yes,No,Yes,1st floor room 123 MMR1
-CZE,Modrice ,Chrlicka 664 42 Modrice ,No,No,Yes,MMR
-CHN,Hong Kong,"399 Chai Wan Road, meet-me room IIChai Wan Hong Kong",Yes,Yes,No,10th Floor MMR
-CAN,Toronto,"c/o CologixRoom 809151 Front StreetM5J2N1, Toronto, Ontario",Yes,Yes,No,BMMR1 or BMMR2
-BUL,Sofia,"c/o Telepoint DataCentre, 2nd floor, TSIC Cage122, OVCHE POLE STR.BG-1303, Sofia",Yes,Yes,Yes,"3d floor, MMR Brow BM103"
-BEL,Brussels,"Level 3, Chaussee de LouvainAv. Leon Grosjean No 2; 1140 Evere",Yes,Yes,Yes,MMR
-BEL,Brussels,"Interxion BelgiumWezembecckstraat 2 bus 11930 Zaventem, Belgium",Yes,Yes,Yes,MMR
-AUT,Vienna,"Talpagasse 6A1230 Vienna",Yes,Yes,Yes,Telia Room
-AUT,Vienna,"Talpagasse 6A1230 Vienna",Yes,No,Yes,Telia Room
-AUT,Vienna,"InterxionLOUIS HÃ„FLINGER GASSE 101210 Wien",Yes,Yes,Yes,"Gnd Floor, Obj. 50 MMR"
-AUT,Vienna,"InterxionLOUIS HÃ„FLINGER GASSE 101210 Wien",Yes,Yes,No,"Gnd Floor, Obj. 50 MMR"
