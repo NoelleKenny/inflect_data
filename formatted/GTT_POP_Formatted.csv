@@ -1,0 +1,308 @@
+peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,name,DC Code,address1,address2,campus,notes,city,zipcode,state,country,npanxx,peeringDB owner_id,clli,Future Planned DC,rencode,Retired DC,Not Found,Data Source URL,Colo Provider,Colo provider DC code,Optical Transport,IP and EtherCloud,Video
+,,,,GTT,,,,639 Gardeners Road,,,,Sydney,2020,,AU,,,,,,,,,Equinix,SY1,,x,
+,,,,GTT,,,,168 Yeung Uk Rd,,,,Hong Kong,,,CN,,,,,,,,,Equinix,HK1,,x,
+,,,,GTT,,,,399 Chai Wan Rd,Chai Wan,,,Hong Kong,,,CN,,,,,,,,,iAdvantage (Mega-I) 8th Floor,,,x,x
+,,,,GTT,,,,3 Shing Yiu St,Tsuen Wan Kowloon,,Kerry Warehouse,Hong Kong,,,CN,,,,,,,,,Equinix,HK2,,x,
+,,,,GTT,,,,1 Chome-9-20 Edagawa,KÅçtÅç-ku,,,TÅçkyÅç-to,135-0051,,JP,,,,,,,,,Equinix,TY3,,ICB*,
+,,,,GTT,,,,3-8-21 Higashi-Shinagawa,Shinagawa-ku,,,Tokyo,140-0002,,JP,,,,,,,,,Equinix,TY2,,x,x
+,,,,GTT,,,,2 Tai Seng Ave,,,,Singapore,534408,,SG,,,,,,,,,Global Switch ,,,ICB*,
+,,,,GTT,,,,20 Ayer Rajah Crescent #05-05/08,,,,Singapore,139964,,SG,,,,,,,,,Equinix,SG1,,x,
+,,,,GTT,,,,Louis-HÌ_fliger-Gasse 10,,,,Vienna,1210,,AT,,,,,,,,,InterXion,,,x,x
+,,,,GTT,,,,North Trade Building,Noorderlaan 137,,,Antwerpen,B-2030,,BE,,,,,,,,,LCL Belgium NV,,,x,
+,,,,GTT,,,,Kouterveldstraat 13-15,,,,Brussels,,,BE,,,,,,,,,LCL Belgium NV,,,x,
+,,,,GTT,,,,Tollaan 99,1200 Sint-Lambrechts-Woluwe,,,,,,BE,,,,,,,,,euNetworks,,x, ,x
+,,,,GTT,,,,Wezembeekstraat 2,,,,Brussels,1930,,Belgium,,,,,,,,,InterXion,BRU1,x,x,
+,,,,GTT,,,,26a Andrey Saharov Blvd,,,,Sofia,1784,,Bulgaria,,,,,,,,,Neterra Communications,,,x,
+,,,,GTT,,,,Ovche pole St. 122,,,,Sofia,1303,,Bulgaria,,,,,,,,,Telepoint OOD,,,x,
+,,,,GTT,,,,Nad Elektrarnou 411,,,,Prague,10600,,Czech Republic,,,,,,,,,"CE Colo, SITEL (ICB)",,,x,
+,,,,GTT,,,,Dtu Building 304,,,,Lyngby,2800,,Denmark,,,,,,,,,Technical University of Denmark,,,x,
+,,,,GTT,,,,HÌürskÌ_tten 3-5,"Hall 2, Taastrup",,,Copenhagen,2630,,Denmark,,,,,,,,,GlobalConnect,,,x,x
+,,,,GTT,,,,Industriparken 20,,,,Ballerup,2750,,Denmark,,,,,,,,,InterXion CPH1,,,ICB*,x
+,,,,GTT,,,,Metrovej,2300 KÌübenhavn S,,,Copenhagen,,,Denmark,,,,,,,,,TSIC POP1,,,ICB*,x
+,,,,GTT,,,,Ejby Industrivej 135,,,,Glostrup,2600,,Denmark,,,,,,,,,TeliaSonera Data Center #3,,,,x
+,,,,GTT,,,,Fr. R. Kreutzwaldi,,,,Tallinn,,,Estonia,,,,,,,,,Elion ,,,,x
+,,,,GTT,,,,Iso Roobertinkatu 21,,,,Helsinki,120,,Finland,,,,,,,,,TSIC POP 1,,,,x
+,,,,GTT,,,,Kansakoulukuja 3,,,,Helsinki,101,,Finland,,,,,,,,,TSIC POP 2,,,,x
+,,,,GTT,,,,Uutiskatu 5,,,,Helsinki,240,,Finland,,,,,,,,,Digita Networks Oy,,,,x
+,,,,GTT,,,,40 Avenue Roger Salengro,,,,Marseille,13003,,France,,,,,,,,,InterXion,MRS 1,,x,
+,,,,GTT,,,,114 Rue Ambroise Croizat,,,,Paris,93200,,France,,,,,,,,,Equinix,PA3,,x,
+,,,,GTT,,,,124 Boulevard De Verdun,,,,Courbevoie,92400,,France,,,,,,,,,SFR Group,,,x,x
+,,,,GTT,,,,137 Boulevard Voltaire,,,,Paris,75011,,France,,,,,,,,,Telehouse 2 (Paris Voltaire),,x,x,x
+,,,,GTT,,,,20 Rue Des Gardinoux,,,,Aubervilliers,93534,,France,,,,,,,,,InterXion,PAR2,,x,
+,,,,GTT,,,,22 Avenue des Nations,,,,Villepinte,93420,,France,,,,,,,,,TeliaSonera Paris DataCenter #2,,,,x
+,,,,GTT,,,,38 Rue des Jeuneurs,,,,Paris,75002,,France,,,,,,,,,Telehouse 1 (Paris Jeuneurs),,,x,
+,,,,GTT,,,,45 Avenue Victor Hugo,,,,Aubervilliers,93300,,France,,,,,,,,,InterXion,PAR1,,x,
+,,,,GTT,,,,61 Rue Julian Grimau,Vitry-sur-Seine,,,Paris,75008,,France,,,,,,,,,Iliad Datacentre,,,x,
+,,,,GTT,,,,9 Energy Park 130-136 Blvd de Verdun,Courbevoi cedex,,,Paris,92413,,France,,,,,,,,,TelecityGroup Paris (Courbevoie Cedex),,,x,
+,,,,GTT,,,,E.M.G.P. Bat. 2545 Avenue Victor Hugo,,,,Aubervilliers,93534,,France,,,,,,,,,TelecityGroup Paris (Aubervilliers),,,x,
+,,,,GTT,,,,5 Rue du Havre,,,,Strasbourg,67100,,France,,,,,,,,,euNetworks,,x,,
+,,,,GTT,,,,Alboinstrasse 36,,,,Berlin,12103,,Germany,,,,,,,,,Speedbone,,,ICB*,
+,,,,GTT,,,,In der Steele 29,,,,DÌ_sseldorf,40599,,Germany,,,,,,,,,InterXion,DUS1,x,,
+,,,,GTT,,,,In der Steele 35,,,,DÌ_sseldorf,40599,,Germany,,,,,,,,,euNetworks,,x,,
+,,,,GTT,,,,25-31 Rebstockerstrasse,,,,Frankfurt,60314,,Germany,,,,,,,,,Itenos,,,x,
+,,,,GTT,,,,Friesstrasse 26,,,,Frankfurt,60388,,Germany,,,,,,,,,Equinix,FR2,x, ,
+,,,,GTT,,,,Gutleutstrasse 310,,,,Frankfurt,60327,,Germany,,,,,,,,,TelecityGroup Frankfurt (Gutleutstrasse),,,x,
+,,,,GTT,,,,Hanauer Landstrasse 302,,,,Frankfurt,60314,,Germany,,,,,,,,,InterXion,FRA1,x,x,
+,,,,GTT,,,,Kleyerstrasse 26,,,,Frankfurt,60326,,Germany,,,,,,,,,,,,,x
+,,,,GTT,,,,Kleyerstrasse 88,,,,Frankfurt,60326,,Germany,,,,,,,,,Ancotel,,,x,
+,,,,GTT,,,,Kleyerstrasse 90,,,,Frankfurt,60326,,Germany,,,,,,,,,Equinix,FR5,x,ICB*,x
+,,,,GTT,,,,RebstÌ_cker Str. 55,,,,Frankfurt,60326,,Germany,,,,,,,,,TSIC PoP 1,,,,x
+,,,,GTT,,,,LÌ_rchenstrasse 110,,,,Frankfurt,65933,,Germany,,,,,,,,,Equinix,FR4,x, ,
+,,,,GTT,,,,Lyonerstrasse 28,,,,Frankfurt,D 60528,,Germany,,,,,,,,,Telecity,,,x,
+,,,,GTT,,,,Taubenstrasse 7-9,,,,Frankfurt,60313,,Germany,,,,,,,,,Equinix,FR1,,x,
+,,,,GTT,,,,Langenhorner Chaussee 44,,,,Hamburg,22335,,Germany,,,,,,,,,E-Shelter Colocation,,,x,
+,,,,GTT,,,,Wendenstrasse 408,,,,Hamburg,20537,,Germany,,,,,,,,,IPHH,,,ICB*,
+,,,,GTT,,,,Hans-Thoma-Strasse 17,,,,Mannheim,68163,,Germany,,,,,,,,,Itenos,,x,,
+,,,,GTT,,,,MÌ_nchener Str. 101B,,,,Ismaning,85737,,Germany,,,,,,,,,Home Shopping Europe,,,,x
+,,,,GTT,,,,Seidlstrasse 3,,,,Munich,80335,,Germany,,,,,,,,,Equinix,MU1,,x,
+,,,,GTT,,,,Victor Hugo u. 18,,,,Budapest,1132,,Hungary,,,,,,,,,Interware,,,ICB*,
+,,,,GTT,,,,Garrettstown,,,,Co. Cork,,,Ireland,,,,,,,,,GTT (Hibernia),,x,,
+,,,,GTT,,,,Hollyhill Industrial Estate,,,,Cork,,,Ireland,,,,,,,,,Cork Internet eXchange,,x,,
+,,,,GTT,,,,Drogheda,,,,Co. Louth,,,Ireland,,,,,,,,,E-Net,,x, ,
+,,,,GTT,,,,15 Ballycoolin Rd,,,,Ballycoolin,,,Ireland,,,,,,,,,Dataplex,B10,x, ,
+,,,,GTT,,,,4027 Kingswood Rd,Cheeverstown,,,Dublin,,,Ireland,,,,,,,,,Equinix (Fka Telecity),,x, ,
+,,,,GTT,,,,55 N11,,,,Dublin,,,Ireland,,,,,,,,,,,,,x
+,,,,GTT,,,,6/7 Kilcarbery Park Nangor Rd,,,,Dublin,22,,Ireland,,,,,,,,,Equinix (Fka Telecity),,x,x,
+,,,,GTT,,,,Hibernia CLS,Clonshaugh Ind Est.,,,Dublin,,,Ireland,,,,,,,,,GTT (Hibernia),,x,ICB*,x
+,,,,GTT,,,,New Nangor Road,,,,Co. Dublin,,,Ireland,,,,,,,,,,,x, ,
+,,,,GTT,,,,Northwest Business Park (Telecity),,,,Dublin,,,Ireland,,,,,,,,,Equinix (Fka Telecity),,x,ICB*,
+,,,,GTT,,,,Unit 24 Hume Avenue,Park West Business Park,,,Dublin,12,,Ireland,,,,,,,,,InterXion,DUB2,,x,
+,,,,GTT,,,,Unit 35 Lavery Avenue,,,,Dublin,12,,Ireland,,,,,,,,,InterXion Dublin Ltd,,,x,
+,,,,GTT,,,,Unit 4027 Kingswood Road,,,,Dublin,D24,,Ireland,,,,,,,,,Equinix (Fka Telecity),,,x,
+,,,,GTT,,,,Rampart Ln,Dundalk,,,Co. Louth,,,Ireland,,,,,,,,,,,x, ,
+,,,,GTT,,,,Justice Walsh Rd,Letterkenny,,,Co. Donegal,,,Ireland,,,,,,,,,,,x, ,
+,,,,GTT,,,,York St,"Conabury, Castleblayney",,,Co. Monaghan,,,Ireland,,,,,,,,,E-Net,,x, ,
+,,,,GTT,,,,North Rd,,,,Monaghan,,,Ireland,,,,,,,,,,,x, ,
+,,,,GTT,,,,Via Caldera 21,,,,Milan,20153,,Italy,,,,,,,,,Tiscali Italia & KPNQwest Italia,,,x,
+,,,,GTT,,,,Via Caldera 25,,,,Milan,20153,,Italy,,,,,,,,,Infracom Network Application SpA,,,x,
+,,,,GTT,,,,Via Cornelia 498,,,,Rome,166,,Italy,,,,,,,,,Interoute SpA ,,,x,
+,,,,GTT,,,,Via dei Tizii 6,,,,Rome,185,,Italy,,,,,,,,,NaMex Internet eXchange,,,x,
+,,,,GTT,,,,Corso Svizzera 185A,,,,Turin,10149,,Italy,,,,,,,,,IT Gate S.p.A. & Tiscaly Italy,,,x,
+,,,,GTT,,,,Za€áusalas krastmala 1,Zemgales priekÅÁpils€Òta,,,R€Çga,LV-1050,,Latvia,,,,,,,,,GTT (Hibernia),,,,x
+,,,,GTT,,,,4 Luttenbergweg,,,,Amsterdam,1101 EC,,Netherlands,,,,,,,,,Equinix,AM2,,x,
+,,,,GTT,,,,Cateringweg 5,1118 AM Schiphol,,,Amsterdam,,,Netherlands,,,,,,,,,Terremark / Verizon,,,x,
+,,,,GTT,,,,Cessnalaan 1,Schiphol Rijk,,,Amsterdam,1119 NJ,,Netherlands,,,,,,,,,InterXion,AMS3,,x,
+,,,,GTT,,,,Gyroscoopweg 2E - 2F,,,,Amsterdam,1042 AB,,Netherlands,,,,,,,,,Equinix,AM8,,x,
+,,,,GTT,,,,J.W. Lucasweg 35,,,,Haarlem,,,Netherlands,,,,,,,,,EvoSwitch,,x,ICB*,
+,,,,GTT,,,,Johan Huizingalaan 759,,,,Amsterdam,1066 VH,,Netherlands,,,,,,,,,Global Switch Amsterdam,,x,x,
+,,,,GTT,,,,Joop Geesinkweg 401,,,,Amsterdam,1096 AX,,Netherlands,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Kruislaan 409,,,,Amsterdam,1098 SH,,Netherlands,,,,,,,,,NIKHEF,,,ICB*,
+,,,,GTT,,,,Kuiperbergweg 13,,,,Amsterdam,1101 AE,,Netherlands,,,,,,,,,Equinix,AM7,x,x,x
+,,,,GTT,,,,Luttenbergweg 4,,,,Amsterdam-Zuidoost,1101 EC,,Netherlands,,,,,,,,,Equinix,AM2,x,ICB*,
+,,,,GTT,,,,Science Park 105,,,,Amsterdam,1098 XG,,Netherlands,,,,,,,,,NIKHEF,,,x,
+,,,,GTT,,,,Science Park 120,,,,Amsterdam,1098 XG,,Netherlands,,,,,,,,,Digital Realty (fka Telecity) AMS01,,,x,
+,,,,GTT,,,,Science Park 121,,,,Amsterdam,1098 XG,,Netherlands,,,,,,,,,Vancis (SARA),,x,x,
+,,,,GTT,,,,Science Park 610,,,,Amsterdam,1098 XH,,Netherlands,,,,,,,,,Equinix,AM3,x,x,
+,,,,GTT,,,,Tupolevlaan 101,,,,Schiphol-Rijk,1119 PA,,Netherlands,,,,,,,,,InterXion,AMS5,,ICB*,
+,,,,GTT,,,,Wenckebachweg 127,,,,Amsterdam,1096 AM,,Netherlands,,,,,,,,,Digital Realty (fka Telecity),,,x,
+,,,,GTT,,,,Paul van Vlissingenstraat 16,,,,Amsterdam,1096 BK,,Netherlands,,,,,,,,,euNetworks,,,ICB*,
+,,,,GTT,,,,Schepenbergweg 42,,,,Amsterdam,1105,,Netherlands,,,,,,,,,Equinix AM5,,,x,
+,,,,GTT,,,,De Linge 26,,,,Dronten,8253 PJ,,Netherlands,,,,,,,,,Serverius,,,ICB*,
+,,,,GTT,,,,Sumatralaan 45,,,,Hilversum,1217,,Netherlands,,,,,,,,,InterXion (TeliaSonera),,, ,x
+,,,,GTT,,,,Schuttevaerweg 48 (R-IX),,,,,,,,,,,,,,,,Rotterdam Internet Exchange,,,ICB*,
+,,,,GTT,,,,Portadown Rd,,,,Armagh,BT61,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Pennybridge Industrial Estate,,,,Ballymena,BT42 3ER,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Belfast,,,Review address,Belfast,BT3 9DT,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Carrickblacker Ave,Portadown,,,Craigavon,BT63 5BB,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Lisburn Rd,Belfast,,,county antrim,BT9 7GU,,UK,,,,,,,,,Eircom,,x,,
+,,,,GTT,,,,Dundooan Rd,,,,Coleraine,BT52 1SF,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Strand Rd,,,,Londonderry,BT48,,UK,,,,,,,,,Telehouse (ILEX),,x, ,
+,,,,GTT,,,,Gortrush Industrial Estate,,,,Omagh,BT78 5EJ,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,47 Derry Rd,,,,Strabane,BT82 8DY,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,Ì÷kern Torgvei 13,,,,Oslo,580,,Norway,,,,,,,,,Oslo Broadcast Center,,,,x
+,,,,GTT,,,,Sigurds gate 14,,,,Oslo,650,,Norway,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Ì÷stre Aker Vei 18a,,,,Oslo,581,,Norway,,,,,,,,,TeliaSonera,,,x,x
+,,,,GTT,,,,Aleje Jerozolimskie 65,,,,Warszawa,00-697,,Poland,,,,,,,,,PLIX DC,,,x,
+,,,,GTT,,,,8 Dimitrie Pompeiu Blvd,,,,Bucharest,20337,,Romania,,,,,,,,,NXDATA-1,,,x,
+,,,,GTT,,,,Kopcianska 18,,,,Bratislava,851 01,,Slovakia,,,,,,,,,SITEL s.r.o.,,,x,
+,,,,GTT,,,,Acero 30-32,,,,Barcelona,8038,,Spain,,,,,,,,,Itconic ,,,x,
+,,,,GTT,,,,Calle de Albasanz 71,,,,Madrid,28037,,Spain,,,,,,,,,Interxion Spain,,,x,x
+,,,,GTT,,,,Calle de Mesena 80,,,,Madrid,28033,,Spain,,,,,,,,,ESPANIX,,,x,
+,,,,GTT,,,,Sala 105 - Edificio Empresarial Valsoto - c/ Valgrande n 6 - Alcobendas,,,,Madrid,28100,,Spain,,,,,,,,,Itconic ,,,x,
+,,,,GTT,,,,Yecora 4 Poligono Las Mercedes,,,,Madrid,28022,,Spain,,,,,,,,,NAP of the Americas Madrid (Terremark),,,x,
+,,,,GTT,,,,267 40 Bjuv,,,,,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Arkitektgatan 10,,,,BorlÌ_nge,781 70,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Drottninggatan 29,,,,GÌ_vle,803 11,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Rimmaregatan 10,,,,Hisings Backa,422 55,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,KÌ_pmansgatan 41,,,,Halmstad,302 42,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,TelevÌ_gen 3,,,,Karlstad,656 31,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,LimhamnsgÌ´rdens allÌ© 18,,,,Limhamn,216 16,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Kungsgatan 20,,,,LinkÌ_ping,582 18,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Magasinsgatan 10,,,,LuleÌ´,972 41,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Lund 240,,,,Ì_sthammar,742 94,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,435 33 MÌ_lnlycke,,,,MÌ_lnlycke,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,602 26 NorrkÌ_ping,,,,NorrkÌ_ping,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,702 27 Ì_rebro,,,,Ì_rebro,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Ì_stra BorsvÌ_gen 30,,,,VedevÌ´g,711 72,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,832 45 FrÌ_sÌ_n,,,,,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Storgatan,,,,SkellefteÌ´,,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Esbogatan 11,,,,Kista,164 74,,Sweden,,,,,,,,,InterXion,STO1,,x,
+,,,,GTT,,,,Hammarbybacken,,,,Johanneshov,121 45,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,MariehÌ_llsvÌ_gen 36,,,,Bromma,168 65,,Sweden,,,,,,,,,Equinix (Fka Telecity),,,x,
+,,,,GTT,,,,MÌ_rka Kroken 1,,,,Stockholm,115 27,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,RÌ´lambsvÌ_gen 28,,,,Stockholm,112 59,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Solnavaegen 94 -169 51,,,,Solna,,,Sweden,,,,,,,,,TeliaSonera,,,x,
+,,,,GTT,,,,GranloholmsvÌ_gen 2,,,,Sundsvall,857 30,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,901 79,,,Review Address,Umea,815 38,,Sweden,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,Hardstrasse 235,,,,Zurich,8005,,Switzerland,,,,,,,,,Equinix ZH2,,,x,
+,,,,GTT,,,,Margarethenstrasse 40,,,,Basel,4008,,Switzerland,,,,,,,,,Telehouse,,,x,
+,,,,GTT,,,,SÌ_gereistrasse 35,,,,Opfikon,8152,,Switzerland,,,,,,,,,InterXion,ZUR1,,x,
+,,,,GTT,,,,Qatar Landing Station,,,,Doha,,,Qatar,,,,,,,,,GBI,,,x,
+,,,,GTT,,,,Au Tower,,,,Dubai,,,United Arab Emirates,,,,,,,,,GBI,,,ICB*,
+,,,,GTT,,,,Du Cable Landing Station,Corniche Road,,,Fujairah,,,United Arab Emirates,,,,,,,,,GBI,,,x,
+,,,,GTT,,,,Wick Rd,Englefield Green,,,Egham,TW20 0HR,,UK,,,,,,,,,euNetworks,,x,,
+,,,,GTT,,,,1 Earl St,,,,London,EC2A 2AL,,UK,,,,,,,,,London Stock Exchange (LSE),,x, ,
+,,,,GTT,,,,1 Harbour Exchange Square,Isle of Dogs,,,London,E14,,UK,,,,,,,,,TeliaSonera,,,,x
+,,,,GTT,,,,11 Hanbury Street,,,,London,E1 6QR,,UK,,,,,,,,,InterXion,LON1,x,x,x
+,,,,GTT,,,,14 Coriander Ave,Poplar,,,London,E14 2AA,,UK,,,,,,,,,Telehouse North / TeliaSonera,,x,x,x
+,,,,GTT,,,,2 Buckingham Ave,,,,London,SL1 4NB,,UK,,,,,,,,,Equinix,LD4,x,x,
+,,,,GTT,,,,215 Marsh Wall,,,,London,E14 9FJ,,UK,,,,,,,,,TelecityGroup (TIN),,,x,
+,,,,GTT,,,,227 Marsh Wall,,,,London,E14 9SD,,UK,,,,,,,,,TelecityGroup LON3,LON3,x,x,
+,,,,GTT,,,,240 East India Dock Road,,,,London,E14 9YY,,UK,,,,,,,,,Kcom Group,,,x,
+,,,,GTT,,,,6 Greenwich View,Isle of Dogs,,,London,E14 9NN,,UK,,,,,,,,,London Hosting Centre,,x, ,
+,,,,GTT,,,,6/7 Harbour Exchange Square,,,,London,E14 9GE,,UK,,,,,,,,,Equinix LD8,,,x,
+,,,,GTT,,,,64 Newman St,Fitzrovia,,,London,W1T 3EF,,UK,,,,,,,,,Travel Channel International,,,,x
+,,,,GTT,,,,8 Buckingham Av,Slough,,,London,SL1 4AX,,UK,,,,,,,,,Equinix,LD5,,x,
+,,,,GTT,,,,8/9 Harbour Exchange Square,,,,London,E14 9GE,,UK,,,,,,,,,Equinix,LD8,x,x,
+,,,,GTT,,,,80 Clifton Street,,,,London,EC2A 4HB,,UK,,,,,,,,,City LifeLine ,,,x,
+,,,,GTT,,,,Harlequin Ave,,,,Brentford,TW8 9EW,,UK,,,,,,,,,Sky Studio,,,,x
+,,,,GTT,,,,Isleworth,,,,London,TW7 5QD,,UK,,,,,,,,,Sky Broadcasting,,,,x
+,,,,GTT,,,,Longwalk Rd,Hayes,,,Uxbridge,UB11 1FE,,UK,,,,,,,,,IMG Studio,,,,x
+,,,,GTT,,,,Unit 1 Airport Gate Bath Road Harmondsworth,,,,London,UB7 0NA,,UK,,,,,,,,,Equinix,LD2,,x,
+,,,,GTT,,,,"Unit 11 Matrix, 900 Coronation Road",,,,London,NW10 7PH,,UK,,,,,,,,,Equinix,LD3,,x,
+,,,,GTT,,,,Kilburn House,,,,Manchester,M15 6SE,,UK,,,,,,,,,Equinix,MA1,,x,
+,,,,GTT,,,,Williams House Manchester Science Park Lloyd St N,,,,Manchester,M15 6SE,,UK,,,,,,,,,Equinix,MA1,x,x,
+,,,,GTT,,,,Nimrod Way,,,,Reading,RG2,,UK,,,,,,,,,Easynet,,x,,
+,,,,GTT,,,,Southport Business Park,Wight Moss Way,,,Southport,PR8 4HQ,,UK,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,132 Ketch Harbour Rd,,,,Herring Cove,B3V 1J4,NS,Canada,,,,,,,,,GTT (Hibernia),,x,ICB*,
+,,,,GTT,,,,5562 Sackville St,,,,Halifax,B3J 1L1,NS,Canada,,,,,,,,,Interworking Atlantic,,x, ,
+,,,,GTT,,,,7071 Bayers Rd,,,,Halifax,B3L 2C2,NS,Canada,,,,,,,,,GTT (Hibernia),,x, ,
+,,,,GTT,,,,115 Albert St,,,,Moncton,E1C 1B3,NB,Canada,,,,,,,,,Bell Canada,,x,,
+,,,,GTT,,,,770 St George Blvd,,,,Moncton,E1E 2C2,NB,Canada,,,,,,,,,Fibre Centre,,x, ,
+,,,,GTT,,,,1250 Rene Levesque West,,,,MontrÌ©al,H3B 4W8,QC,Canada,,,,,,,,,Cologix,MTL3,x,x,x
+,,,,GTT,,,,20 place du Commerce,Ile-des-Soeurs,,,MontrÌ©al,H3E 1T9,QC,Canada,,,,,,,,,iWeb,,,x,
+,,,,GTT,,,,3000 Rene Levesque Blvd. West,,,,MontrÌ©al,H3E 1T9,QC,Canada,,,,,,,,,Cologix,MTL2,,x,
+,,,,GTT,,,,625 Rene Levesque Blvd. West,,,,MontrÌ©al,H3B 1R2,QC,Canada,,,,,,,,,Cologix,MTL1,,x,
+,,,,GTT,,,,875 Rue Saint Antoine O,,,,MontrÌ©al,H3C 1A6,QC,Canada,,,,,,,,,Metro Optic,,x, ,
+,,,,GTT,,,,485 Terminal Ave,,,,Ottawa,K1G,ON,Canada,,,,,,,,,Bell Canada,,x,,
+,,,,GTT,,,,75 Prince William St,,,,Saint John,E2L 2B2,NB,Canada,,,,,,,,,Cirrus 9,,x, ,
+,,,,GTT,,,,100 Wellington St W,,,,Toronto,,ON,Canada,,,,,,,,,Q9 Networks,,x, ,
+,,,,GTT,,,,130 King St W,,,,Toronto,M5X 1K6,ON,Canada,,,,,,,,,Exchange Tower,,,x,
+,,,,GTT,,,,151 Front Street W,,,,Toronto,M5J 2N1,ON,Canada,,,,,,,,,Cologix,,x,x,x
+,,,,GTT,,,,3500 Steeles Ave E,,,,Markham,L3R,ON,Canada,,,,,,,,,TD Waterhouse,,x, ,
+,,,,GTT,,,,555 West Hastings Street,,,,Vancouver,V6B 4N5,BC,Canada,,,,,,,,,Cologix,VAN1,,x,
+,,,,GTT,,,,194 Washington Ave,,,,Albany,12210,NY,USA,,,,,,,,,Level3,,x,ICB*,
+,,,,GTT,,,,Home Savings Bank Building,11 N Pearl St,,,Albany,12207,NY,USA,,,,,,,,,Windstream,,x,ICB*,
+,,,,GTT,,,,12100 Sunrise Valley Drive,,,,Reston,20191,VA,USA,,,,,,,,,CoreSite,VA1,,x,
+,,,,GTT,,,,21715 Filigree Ct,,,,Ashburn,20147,VA,USA,,,,,,,,,Equinix,DC2,x,x,x
+,,,,GTT,,,,44480 Hastings Dr,,,,Ashburn,20147,VA,USA,,,,,,,,,Dupont Fabros ACC4,ACC4,,x,
+,,,,GTT,,,,45580 Terminal Dr,,,,Sterling,20166,VA,USA,,,,,,,,,Discovery Communications,,,,x
+,,,,GTT,,,,34 Peachtree St NW,,,,Atlanta,30303,GA,USA,,,,,,,,,Total Server Solutions,,,x,
+,,,,GTT,,,,3845 Pleasantdale Rd,,,,Atlanta,30340,GA,USA,,,,,,,,,Encompass Digital Media,,,,x
+,,,,GTT,,,,4545 Stonegate Industrial Blvd,,,,Stone Mountain,30083,GA,USA,,,,,,,,,AT&T,,,,x
+,,,,GTT,,,,56 Marietta St,,,,Atlanta,30303,GA,USA,,,,,,,,,TelX ,"AT1, AT2, AT3",,x,x
+,,,,GTT,,,,The Mansion,1050 Techwood Dr NW,,,Atlanta,30318,GA,USA,,,,,,,,,Turner Broadcasting,,,,x
+,,,,GTT,,,,1825 Kramer Lane,,,,Austin,78758,TX,USA,,,,,,,,,Level3,,,x,
+,,,,GTT,,,,111 Market Pl,,,,Baltimore,21202,MD,USA,,,,,,,,,Zayo (zColo),,,,x
+,,,,GTT,,,,300 West Lexington Street,,,,Baltimore,21201,MD,USA,,,,,,,,,Level3,,,x,
+,,,,GTT,,,,2325 W Market St,,,,Bloomington,61705,IL,USA,,,,,,,,,,,,,x
+,,,,GTT,,,,1 Summer St,,,,Boston,2110,MA,USA,,,,,,,,,Markley,,x,x,x
+,,,,GTT,,,,70 Inner Belt Rd,,,,Somerville,2143,MA,USA,,,,,,,,,CoreSite,,x, ,
+,,,,GTT,,,,91 Commercial St,,,,Lynn,1905,MA,USA,,,,,,,,,GTT (Hibernia),,x, ,x
+,,,,GTT,,,,ESPN Dr,,,,Bristol,6010,CT,USA,,,,,,,,,ESPN,,,,x
+,,,,GTT,,,,350 Main St,,,,Buffalo,14202,NY,USA,,,,,,,,,365 Main Data Center,,x,ICB*,
+,,,,GTT,,,,113 N Myers St,,,,Charlotte,28202,NC,USA,,,,,,,,,TelX CHR1,,,x,
+,,,,GTT,,,,530 Echostar Dr,,,,Cheyenne,82007,WY,USA,,,,,,,,,Echostar,,,,x
+,,,,GTT,,,,111 N Canal St,,,,Chicago,60606,IL,USA,,,,,,,,,Level3,,,x,
+,,,,GTT,,,,1905 Lunt Ave,,,,Chicago,60007,IL,USA,,,,,,,,,Equinix,CH3,,x,
+,,,,GTT,,,,2200 Busse Rd,,,,Chicago,60007,IL,USA,,,,,,,,,Server Central DF-CH1,CH1,,x,
+,,,,GTT,,,,350 E Cermak Rd,,,,Chicago,60616,IL,USA,,,,,,,,,Equinix,CH1 / CH2,x,x,x
+,,,,GTT,,,,427 S La Salle St,,,,Chicago,60605,IL,USA,,,,,,,,,365 Main Data Center,,,x,
+,,,,GTT,,,,601 W Polk St,,,,Chicago,60607,IL,USA,,,,,,,,,Tierpoint,,,x,
+,,,,GTT,,,,717 S Wells St,,,,Chicago,60607,IL,USA,,,,,,,,,Inteliquent,,,x,
+,,,,GTT,,,,Keith Bldg,1621 Euclid Ave,,,Cleveland,44115,OH,USA,,,,,,,,,Level3 7th Flr / GTT(Hibernia) 5th Flr,,, ,x
+,,,,GTT,,,,1221 Coit Rd,,,,Dallas,75075,TX,USA,,,,,,,,,Internap,,,x,
+,,,,GTT,,,,1950 N Stemmons Fwy,,,,Dallas,75207,TX,USA,,,,,,,,,Equinix / Cologix ,DA1 DA2 DA3,,x,
+,,,,GTT,,,,2323 Bryan St,,,,Dallas,75201,TX,USA,,,,,,,,,Equinix,DA4,, ,x
+,,,,GTT,,,,400 S. Akard St,,,,Dallas,75202,TX,USA,,,,,,,,,Databank,,,x,
+,,,,GTT,,,,8345 N Stemmons Fwy,,,,Dallas,75247,TX,USA,,,,,,,,,TelX DAL2,,,x,
+,,,,GTT,,,,527 Main St,,,,Damariscotta,4543,ME,USA,,,,,,,,,MFC,,x,,
+,,,,GTT,,,,1500 Champa St,,,,Denver,80202,CO,USA,,,,,,,,,Morgan Reed,,,x,
+,,,,GTT,,,,1850 Pearl Street,,,,Denver,80203,CO,USA,,,,,,,,,Level3 ,,,x,
+,,,,GTT,,,,4100 E Dry Creek Rd,,,,Centennial,80122,CO,USA,,,,,,,,,NBC Universal / Comcast Media,,,,x
+,,,,GTT,,,,910 15th St,,,,Denver,80202,CO,USA,,,,,,,,,CoreSite,,,x,x
+,,,,GTT,,,,21005 Lahser Rd,,,,Detroit,48033,MI,USA,,,,,,,,,EdgeConnex,,,x,
+,,,,GTT,,,,1001 Texas St,,,,Houston,77002,TX,USA,,,,,,,,,Quasar,,,x,
+,,,,GTT,,,,1301 Fannin St,,,,Houston,77002,TX,USA,,,,,,,,,Internap,,,x,
+,,,,GTT,,,,4201 Southwest Fwy,,,,Houston,77027,TX,USA,,,,,,,,,CyrusOne,,, ,x
+,,,,GTT,,,,800 Water St #202,,,,Jacksonville,32204,FL,USA,,,,,,,,,GoRack,,,ICB*,
+,,,,GTT,,,,1102 Grand Blvd #604,,,,Kansas City,64106,MO,USA,,,,,,,,,1102 Grand LLC,,,x,x
+,,,,GTT,,,,7135 S Decatur Blvd,,,,Las Vegas,89118,NV,USA,,,,,,,,,SuperNap (fka Switch Com),,,x,
+,,,,GTT,,,,7185 Pollock Dr,,,,Las Vegas,89119,NV,USA,,,,,,,,,Zayo (zColo),,,,x
+,,,,GTT,,,,100 Universal Plaza,,,,Los Angeles,91608,CA,USA,,,,,,,,,NBC Universal,,,x,
+,,,,GTT,,,,12800 Culver Blvd,,,,Los Angeles,90066,CA,USA,,,,,,,,,DirecTV Broadcast Center,,,,x
+,,,,GTT,,,,1920 E Maple Street,,,,Los Angeles,90245,CA,USA,,,,,,,,,Equinix LA3,,,x,
+,,,,GTT,,,,3800 Via Oro Ave,,,,Long Beach,90810,CA,USA,,,,,,,,,DirecTV California Broadcast Center,,,,x
+,,,,GTT,,,,4000 Warner Blvd,,,,Burbank,91522,CA,USA,,,,,,,,,Warner Brothers Studio,,,,x
+,,,,GTT,,,,555 Anton Blvd.,,,,Los Angeles,96161,CA,USA,,,,,,,,,,,,,x
+,,,,GTT,,,,600 W 7th St,,,,Los Angeles,90017,CA,USA,,,,,,,,,TelX MMR,,, ,x
+,,,,GTT,,,,624 S Grand Ave,,,,Los Angeles,90017,CA,USA,,,,,,,,,CoreSite,,x,x,x
+,,,,GTT,,,,800 S Hope St,,,,Los Angeles,90017,CA,USA,,,,,,,,,US Colo,,,x,
+,,,,GTT,,,,900 N Alameda St,,,,Los Angeles,90012,CA,USA,,,,,,,,,CoreSite,LA2,,x,
+,,,,GTT,,,,200 South 10th St.,,,,McAllen,78501,TX,USA,,,,,,,,,McAllen Data Center,,,x,
+,,,,GTT,,,,2115 NW 22nd St,,,,Miami,33142,FL,USA,,,,,,,,,CoreSite,MI1,,x,
+,,,,GTT,,,,36 NE 2nd Street,,,,Miami,33132,FL,USA,,,,,,,,,TelX/ColoHouse/Interconnect Miami,,,x,
+,,,,GTT,,,,50 NE 9th St,,,,Miami,33132,FL,USA,,,,,,,,,Terremark / Verizon,,,x,x
+,,,,GTT,,,,511 11th Ave S,,,,Minneapolis,55415,MN,USA,,,,,,,,,511 Building,,,x,
+,,,,GTT,,,,100 William St,,,,New York,10038,NY,USA,,,,,,,,,New York Internet,,,x,
+,,,,GTT,,,,111 8th Ave,,,,New York,10011,NY,USA,,,,,,,,,TelX/Equinix/Level3/XO/Zayo/Telia,,x,x,x
+,,,,GTT,,,,111 Town Square Place,,,,Jersey City,7310,NJ,USA,,,,,,,,,Hidalgo Communications,,,x,
+,,,,GTT,,,,1350 Washington Blvd,,,,Stamford,6902,CT,USA,,,,,,,,,Lightower (Fka Fibertech),,x,,
+,,,,GTT,,,,1351 Washington Blvd,,,,Stamford,6902,CT,USA,,,,,,,,,Lightower (Fka Fibertech),,x, ,x
+,,,,GTT,,,,1400 Federal Blvd,,,,Carteret,7008,NJ,USA,,,,,,,,,NASDAQ / Verizon Business,,x, ,
+,,,,GTT,,,,165 Halsey St,,,,Newark,7102,NJ,USA,,,,,,,,,Equinix / Zayo ,NY1,x,x,
+,,,,GTT,,,,2 Emerson Lane,,,,Secaucus,7094,NJ,USA,,,,,,,,,CoreSite,NY2,,x,
+,,,,GTT,,,,250 Harbor Dr,,,,Stamford,6902,CT,USA,,,,,,,,,A&E Television Network,,,,x
+,,,,GTT,,,,275 Hartz Way,,,,Secaucus,7094,NJ,USA,,,,,,,,,Equinix,NY2,,x,
+,,,,GTT,,,,300 J F Kennedy Blvd E,,,,Weehawken,7086,NJ,USA,,,,,,,,,CenturyLink / Digital Realty,,x, ,
+,,,,GTT,,,,32 Ave of the Americas,,,,New York,10013,NY,USA,,,,,,,,,TelX NY3,NY3,x,x,x
+,,,,GTT,,,,360 Hamilton Ave,,,,White Plains,10601,NY,USA,,,,,,,,,Lightower (fka Neon),,x, ,
+,,,,GTT,,,,545 5th Ave #1200,,,,New York,10017,NY,USA,,,,,,,,,,,,,x
+,,,,GTT,,,,5851 West Side Ave,,,,North Bergen,7047,NJ,USA,,,,,,,,,Equinix NY7,,x, ,
+,,,,GTT,,,,60 Hudson St,,,,New York,10013,NY,USA,,,,,,,,,TelX/Zayo/Telia/Sirius,,x,x,x
+,,,,GTT,,,,601 West 26th St,,,,New York,10001,NY,USA,,,,,,,,,Broadview Networks,,,x,
+,,,,GTT,,,,620 Hicksville Rd,,,,Bethpage,11714,NY,USA,,,,,,,,,AMC Networks Broadcasting,,,,x
+,,,,GTT,,,,755 Secaucus Rd,,,,Secaucus,7094,NJ,USA,,,,,,,,,Equinix,NY4,x, ,
+,,,,GTT,,,,85 10th Ave,,,,New York,10011,NY,USA,,,,,,,,,Telehouse,,,x,
+,,,,GTT,,,,380 S Lake Destiny Rd,,,,Orlando,32801,FL,USA,,,,,,,,,Level3,,,x,
+,,,,GTT,,,,2401 Locust St,,,,Philadelphia,19103,PA,USA,,,,,,,,,Zayo (zColo),,x,,
+,,,,GTT,,,,401 N Broad St,,,,Philadelphia,19108,PA,USA,,,,,,,,,Lightower,,x,x,x
+,,,,GTT,,,,120 Van Buren St,,,,Phoenix,85004,AZ,USA,,,,,,,,,TelX,,,x,x
+,,,,GTT,,,,211 W Monroe St,,,,Phoenix,85003,AZ,USA,,,,,,,,,CenturyLink,,,x,
+,,,,GTT,,,,2335 S. Ellis Street,,,,Phoenix,85286,AZ,USA,,,,,,,,,CyrusOne,,,x,
+,,,,GTT,,,,3402 E University Dr,,,,Phoenix,85034,AZ,USA,,,,,,,,,Phoenix NAP,,,x,
+,,,,GTT,,,,615 North 48th St,,,,Phoenix,85008,AZ,USA,,,,,,,,,IO Data Center,,,x,
+,,,,GTT,,,,801 N Dish Dr,,,,Gilbert,85233,AZ,USA,,,,,,,,,Echo Star Communications,,,,x
+,,,,GTT,,,,8521 E Princess Dr,,,,Phoenix,85255,AZ,USA,,,,,,,,,IO Data Center,,,x,
+,,,,GTT,,,,201 Browntown Rd,,,,New Kensington,15068,PA,USA,,,,,,,,,Pittsburgh Teleport,,,,x
+,,,,GTT,,,,179 Social Hall Ave,,,,Salt Lake City,84111,UT,USA,,,,,,,,,C7 Data Centers,,,x,
+,,,,GTT,,,,4216 University Ave,,,,San Diego,92105,CA,USA,,,,,,,,,,,,,x
+,,,,GTT,,,,5761 Copley Dr,,,,San Diego,92111,CA,USA,,,,,,,,,EdgeConnex,,,x,
+,,,,GTT,,,,200 Paul Ave,,,,San Francisco,94124,CA,USA,,,,,,,,,TelX,,,x,x
+,,,,GTT,,,,365 Main St,,,,San Francisco,94105,CA,USA,,,,,,,,,Digital Realty,,,x,
+,,,,GTT,,,,11 Great Oaks Blvd,,,,San Jose,95119,CA,USA,,,,,,,,,Equinix,SV1,x,x,
+,,,,GTT,,,,1380 Kifer Road,,,,San Jose,94086,CA,USA,,,,,,,,,Level3,,,x,
+,,,,GTT,,,,1735 Lundy Ave,,,,San Jose,95131,CA,USA,,,,,,,,,Equinix,SV3,,x,
+,,,,GTT,,,,2972 Stender Way,,,,San Jose,95054,CA,USA,,,,,,,,,CoreSite,,,x,
+,,,,GTT,,,,529 Bryant St,,,,San Jose,94301,CA,USA,,,,,,,,,Equinix,SV8,,x,
+,,,,GTT,,,,55 S Market St,,,,San Jose,95113,CA,USA,,,,,,,,,CoreSite,SV1,,x,
+,,,,GTT,,,,2001 6th Ave,,,,Seattle,98121,WA,USA,,,,,,,,,Equinix,SE2,x,x,x
+,,,,GTT,,,,4949 Randolph Road NE,,,,Seattle,98837,WA,USA,,,,,,,,,Digital Fortress,,,x,
+,,,,GTT,,,,1000 Town Center,,,,Southfield,48075,MI,USA,,,,,,,,,EdgeConnex,,,,x
+,,,,GTT,,,,5908 Hampton Oaks Pkwy,,,,Tampa,33610,FL,USA,,,,,,,,,CenturyLink,,,,x
+,,,,GTT,,,,655 N Franklin,,,,Tampa,33602,FL,USA,,,,,,,,,365 Main Data Center,,,x,
+,,,,GTT,,,,1010 Wayne Ave.,,,,Silver Spring,20910,MD,USA,,,,,,,,,Atlantech Online,,,x,
+,,,,GTT,,,,1275 K Street NW,,,,Washington,20005,DC,USA,,,,,,,,,CoreSite,DC1,x,x,x
+,,,,GTT,,,,1755 Old Meadow Dr,,,,McLean,22102,VA,USA,,,,,,,,,Global Capacity,,,x,
+,,,,GTT,,,,2000 M St NW,,,,Washington,20036,DC,USA,,,,,,,,,DCI Teleport,,,,x
+,,,,GTT,,,,Boulevard Benito JuÌÁrez 20,Colonia San Mateo Cuautepec,,,TultitlÌÁn,,,Mexico ,,,,,,,,,KIO Data Center,,,x,
