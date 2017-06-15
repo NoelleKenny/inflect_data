@@ -1,0 +1,18 @@
+peering DB id,PP Count,IX Count,Inflect IDs,Data Center Owner,Marketing Name,name,DC Code,address1,address2,campus,notes,city,zipcode,state,country,npanxx,peeringDB owner_id,clli,Future Planned DC,rencode,Retired DC,Not Found,Data Source URL,DC Parent ,SSAE16 Compliant (Type I),SSAE16 Audited (Type II),ISO Certified,PCI-DSS Compliant,HIPAA Compliant,SOC2 Compliant (Type I),SOC2 Audited (Type II),SOC3 Compliant,FedRAMP/FISMA,Uptime Certified Design Documents
+,,,,Cologix ,,,COL2,555 Scherers Court,,,,Columbus,43085,OH,USA,,,,,,,,,Cologix ,,,,x,x,x,x,,,
+,,,,Cologix ,,,Dal1,1950 N. Stemmons,,,,Dallas ,75207,TX,USA ,,,,,,,,,Infomart,,x,,,,,,,,
+,,,,Cologix ,,,Dal2,1950 N. Stemmons,,,,Dallas ,75207,TX,USA ,,,,,,,,,Infomart,x,,,,,,,,,
+,,,,Cologix ,,,MIN3,511 11th Ave South,,,,Minneapolis,55415,MN,USA,,,,,,,,,Private Building Owner,,,,,,,,,,x
+,,,,Cologix ,,,JAX1,421 West Church Street,,,,Jacksonville ,32202,FL,USA,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,JAX2,4800 Spring Park Road,,,,Jacksonville ,32207,FL,USA,,,,,,,,,Cologix ,,,,,,,,,,
+,,,,Cologix ,,,LAK1,2850 Interstate Drive,,,,Lakeland ,33805,FL,USA,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,NJ1,"1719 NJ Route 10, Parsippany",,,,Parsippany ,7054,NJ,USA,,,,,,,,,Private Building Owner,x,,,x,x,,,,,
+,,,,Cologix ,,,NJ2,"9 Wing Drive, Cedar Knolls",,,,Cedar Knolls ,7927,NJ,USA,,,,,,,,,Private Building Owner,x,,,x,x,,,,,
+,,,,Cologix ,,,NJ3,"200 Webro Road, Parsippany",,,,Parsippany ,7054,NJ,USA,,,,,,,,,Private Building Owner,x,,,x,x,,,,,
+,,,,Cologix ,,,MTL3,1250 Rene Levesque,,,,Montreal ,,Quebec ,CAN,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,MTL4,7171 Jean Talon East,,,,Montreal ,,Quebec ,CAN,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,MTL7,1155 University Street,,,,Montreal ,,Quebec ,CAN,,,,,,,,,Private Building Owner,,x,,,,x,,,,
+,,,,Cologix ,,,VAN1,555 West Hastings,,,,Vancouver ,V6B 4N6,British Columbia ,CAN,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,VAN2,1050 West Pender st,,,,Vancouver ,V6E 3S7,British Columbia ,CAN,,,,,,,,,Private Building Owner,,,,,,x,x,,,
+,,,,Cologix ,,,TOR1,151 Front Street,,,,Toronto ,M5J 2Z1,Ontario ,CAN,,,,,,,,,Private Building Owner,,,,,,,,,,
+,,,,Cologix ,,,TOR2,905 King Street West ,,,,Toronto ,M6K 3G9,Ontario ,CAN,,,,,,,,,Private Building Owner,x,x,,,,,,,,
