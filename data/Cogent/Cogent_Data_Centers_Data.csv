@@ -57,7 +57,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15510-2,Cleveland,1,1255 Euclid Ave,BlueBridge,Cleveland,OH,44115,2/10/16,Lit,Carrier Neutral Data Center
 15515-0,Amsterdam,1,Science Park 105,NIKHEF,Amsterdam,NL,1098 XG,4/15/13,Lit,Carrier Neutral Data Center
 15517-1,London,1,14 Coriander Avenue,COI Hub - LON01 - Telehouse North,London,UK,E14 2AA,1/19/04,Lit,Carrier Neutral Data Center
-15525-0,Paris,1,77 boulevard de la R̩publique,COI Hub - PAR01 - PZU,La Garenne Colombes,FR,92250,5/10/04,Lit,Cogent Data Center
+15525-0,Paris,1,77 boulevard de la RÌ©publique,COI Hub - PAR01 - PZU,La Garenne Colombes,FR,92250,5/10/04,Lit,Cogent Data Center
 15526-1,Paris,1,124 boulevard de Verdun,Netcenter,Courbevoie,FR,92400,1/19/04,Lit,Carrier Neutral Data Center
 15527-1,Paris,1,137 Boulevard Voltaire,COI Pop - PAR04 - Telehouse 2,Paris,FR,75011,1/19/04,Lit,Carrier Neutral Data Center
 15528-1,London,1,18 Coriander Avenue,COI Pop - LON02 - Telehouse East,London,UK,E14 2AA,1/19/04,Lit,Carrier Neutral Data Center
@@ -71,7 +71,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15536-1,Madrid,1,Mesena 80,Espanix,Madrid,ES,28230,1/19/04,Lit,Carrier Neutral Data Center
 15537-1,Madrid,1,Valgrande 6,Telvent Carrier House 2,Alcobendas,ES,28108,1/19/04,Lit,Carrier Neutral Data Center
 15538-1,Madrid,1,Isabel Colbrand 6-8,Carrier House 1,Madrid,ES,28050,1/19/04,Lit,Carrier Neutral Data Center
-15544-0,Bordeaux,1,B̢t. G2 - Bassin �� flots,COI Hub - BOD01,Bordeaux,FR,33000,5/10/04,Lit,Cogent Data Center
+15544-0,Bordeaux,1,BÌ¢t. G2 - Bassin ÌÊ flots,COI Hub - BOD01,Bordeaux,FR,33000,5/10/04,Lit,Cogent Data Center
 15546-0,Caen,1,Rue de la Cotonniere,COI Hub - CFR01 - Caen,Caen,FR,14000,5/10/04,Lit,Carrier Neutral Data Center
 15547-0,Dijon,1,41 Quai Gauthey,COI Pop - DIJ01,Dijon,FR,21000,1/19/04,Lit,Cogent Data Center
 15548-0,Grenoble,1,33 rue Joseph Chanrion,COI Hub - GNB01,Grenoble,FR,38000,5/10/04,Lit,Cogent Data Center
@@ -87,12 +87,12 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15577-0,Strasbourg,1,46 route de Bischwiller,COI Hub - SXB01,Schiltigheim,FR,67300,5/10/04,Lit,Cogent Data Center
 15578-0,Toulouse,1,125bis ch du Sang de Serp,COI Hub - TLS01 - Toulouse,Toulouse,FR,31000,5/10/04,Lit,Cogent Data Center
 15579-0,Tours,1,171 rue des Douets,COI Hub - TUF01 - Tours,Tours,FR,37000,1/19/04,Lit,Cogent Data Center
-15580-0,Rouen,1,20 rue Alexandre Barrab̩,COI Hub - URO01 - Rouen,Rouen,FR,76000,1/19/04,Lit,Cogent Data Center
+15580-0,Rouen,1,20 rue Alexandre BarrabÌ©,COI Hub - URO01 - Rouen,Rouen,FR,76000,1/19/04,Lit,Cogent Data Center
 15581-1,Amsterdam,1,Gyroscoopweg 2E & 2F,Telecity,Amsterdam,NL,1042 AB,1/19/04,Lit,Carrier Neutral Data Center
 15582-1,Amsterdam,1,Science Park 121 (fka Krusilaan 415),COI Pop - AMS04 - SARA,Amsterdam,NL,1098 XG,1/19/04,Lit,Carrier Neutral Data Center
 15583-1,Amsterdam,1,Science Park 120,COI Pop - AMS05 - Telecity 1,Amsterdam,NL,1098 XG,1/19/04,Lit,Carrier Neutral Data Center
 15584-1,Amsterdam,1,Kuiperbergweg 13,COI Hub - AMS03 - Telecity 2,Amsterdam,NL,1101 AE,1/19/04,Lit,Carrier Neutral Data Center
-15585-1,Lisbon,1,Rua Severiano Falc̣o 14,COI Hub - LIS01 - TELVENT,Lisbon,PT,2685,1/19/04,Lit,Carrier Neutral Data Center
+15585-1,Lisbon,1,Rua Severiano FalcÌ£o 14,COI Hub - LIS01 - TELVENT,Lisbon,PT,2685,1/19/04,Lit,Carrier Neutral Data Center
 15586-1,Barcelona,1,Acero 30-32,COI Hub - BCN01 - Carrier House,Barcelona,ES,8014,1/19/04,Lit,Carrier Neutral Data Center
 15587-1,Brussels,1,Wezembeekstraat 2,COI Hub - BRU01 - Interxion,Zaventem,BE,1930,1/19/04,Lit,Carrier Neutral Data Center
 15588-1,London,1,101 Finsbury Pavement,COI Pop - LON19 - Equinix London City (LD1),London,UK,EC2A1RS,5/28/04,Lit,Carrier Neutral Data Center
@@ -119,30 +119,30 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15701-1,Logrono,2,C/ Chile #54,ARSYS,Logrono,ES,26003,1/5/15,Un Lit,Carrier Neutral Data Center
 15708-0,Bilbao,2,C/Particular del Norte,Decom COI Hub - BIO01 - Renfe Hut,Bilbao,ES,48002,1/5/15,Un Lit,Carrier Neutral Data Center
 15709-0,Tarragona,2,C/Passieg de Espanya,Renfe Hut,Tarragona,ES,43001,10/2/11,Un Lit,Carrier Neutral Data Center
-15712-0,Valencia,2,C/X��tiva,Decom COI Pop - VLC01 - Renfe Hut,Valencia,ES,46007,12/19/14,Un Lit,Carrier Neutral Data Center
+15712-0,Valencia,2,C/XÌÁtiva,Decom COI Pop - VLC01 - Renfe Hut,Valencia,ES,46007,12/19/14,Un Lit,Carrier Neutral Data Center
 15713-0,San Sebastian,2,Paseo de Francia,Decom Renfe Hut - San Sebastian,San Sebastian,ES,20012,12/30/10,Un Lit,Carrier Neutral Data Center
-15715-0,Pamplona,2,Plaza de la Estaci�_n,Former COI NAP - Renfe Hut,Pamplona,ES,31012,9/10/11,Un Lit,Carrier Neutral Data Center
+15715-0,Pamplona,2,Plaza de la EstaciÌ_n,Former COI NAP - Renfe Hut,Pamplona,ES,31012,9/10/11,Un Lit,Carrier Neutral Data Center
 15722-0,Mannheim,1,Hans Thoma Str. 15-17,COI Pop - MHG01 - MTI/GLH,Mannheim,GM,68163,5/10/04,Lit,Carrier Neutral Data Center
 15723-0,Bremen,1,Hermann-Ritter-Str. 104,COI Hub - BRE01 - MTI/GLH,Bremen,GM,28359,5/10/04,Lit,Carrier Neutral Data Center
 15724-0,Dusseldorf,1,In der Steele 37,COI Pop - DUS02 - MTI/GLH,Dusseldorf,GM,40599,5/10/04,Lit,Carrier Neutral Data Center
 15725-0,Nuremberg,1,Lina Ammon Str. 22,COI Hub - NUE01 -MTI/GLH,Nuremberg,GM,90459,5/11/04,Lit,Carrier Neutral Data Center
-15726-2,Berlin,1,L�_tzowstr. 105/106,COI Pop - BER02 -IPB,Berlin,GM,10785,3/19/07,Lit,Carrier Neutral Data Center
+15726-2,Berlin,1,LÌ_tzowstr. 105/106,COI Pop - BER02 -IPB,Berlin,GM,10785,3/19/07,Lit,Carrier Neutral Data Center
 15727-0,Dresden,1,Marie Curie Str. 7,COI Hub - DRS01 - MTI/GLH,Dresden,GM,1139,5/11/04,Lit,Carrier Neutral Data Center
 15730-0,Stuttgart,1,Ruppmannstr. 33,COI Hub - STR01 - MTI/GLH,Stuttgart,GM,70765,5/11/04,Lit,Carrier Neutral Data Center
 15731-0,Essen,1,Teilungsweg 28,COI Pop - ESS01 - MTI/GLH,Essen,GM,45329,5/11/04,Lit,Carrier Neutral Data Center
 15734-0,Hamburg,1,Wendenstr. 408 -4th Floor MTI/GLH Room,COI Hub - HAM01 - MTI/GLH,Hamburg,GM,20537,5/11/04,Lit,Carrier Neutral Data Center
 15735-0,Berlin,1,Wilhelm-von-Siemensstr. 23,COI Hub - BER01 - New MTI POP,Berlin,GM,12227,10/10/07,Lit,Carrier Neutral Data Center
-15739-1,Nuremberg,1,Deutschherrnstra��e 15-19,KPN Eurorings,Nuremberg,GM,96429,4/14/05,Lit,Carrier Neutral Data Center
+15739-1,Nuremberg,1,DeutschherrnstraÌÙe 15-19,KPN Eurorings,Nuremberg,GM,96429,4/14/05,Lit,Carrier Neutral Data Center
 15742-1,Frankfurt,1,Eschborner Landstrasse 110,Global Switch,Frankfurt,GM,60489,3/14/11,Lit,Carrier Neutral Data Center
 15749-1,Frankfurt,1,Gutleutstrasse 310,Telecity,Frankfurt,GM,60327,12/10/04,Lit,Carrier Neutral Data Center
 15752-1,Frankfurt,1,Hanauer Landstr. 320,e-Shelter (former Telehouse),Frankfurt,GM,60314,7/27/05,Lit,Carrier Neutral Data Center
 15753-1,Frankfurt,1,Hanauer Landstr. 302,Interxion FRA1,Frankfurt,GM,60314,10/21/04,Lit,Carrier Neutral Data Center
 15757-1,Dusseldorf,1,In der Steele 29,COI Hub - DUS01 - Interxion Telecom GmbH,Dusseldorf,GM,40599,7/23/04,Lit,Carrier Neutral Data Center
 15758-1,Copenhagen,1,Industriparken 20,InterXion,Ballerup,DK,2750,11/18/05,Lit,Carrier Neutral Data Center
-15759-0,Frankfurt,1,Kleyerstra��e 79 -89,Telehouse Frankfurt,Frankfurt,GM,60326,8/30/12,Lit,Carrier Neutral Data Center
-15760-1,Frankfurt,1,Kleyerstra��e 90,COI Pop - FRA06 - Equinix FR5 (former Ancotel),Frankfurt,GM,60326,7/16/04,Lit,Carrier Neutral Data Center
-15761-1,Frankfurt,1,Rebsțckerstr. 25-31,ITENOS GmbH,Frankfurt,GM,60326,7/16/04,Lit,Carrier Neutral Data Center
-15761-2,Frankfurt,1,Rebsțckerstrasse 25-31,New Telco,Frankfurt,GM,60326,2/19/10,Lit,Carrier Neutral Data Center
+15759-0,Frankfurt,1,KleyerstraÌÙe 79 -89,Telehouse Frankfurt,Frankfurt,GM,60326,8/30/12,Lit,Carrier Neutral Data Center
+15760-1,Frankfurt,1,KleyerstraÌÙe 90,COI Pop - FRA06 - Equinix FR5 (former Ancotel),Frankfurt,GM,60326,7/16/04,Lit,Carrier Neutral Data Center
+15761-1,Frankfurt,1,RebstÌ¦ckerstr. 25-31,ITENOS GmbH,Frankfurt,GM,60326,7/16/04,Lit,Carrier Neutral Data Center
+15761-2,Frankfurt,1,RebstÌ¦ckerstrasse 25-31,New Telco,Frankfurt,GM,60326,2/19/10,Lit,Carrier Neutral Data Center
 15763-1,Hamburg,1,Langenhorner Chaussee 44,ESHELTER,Hamburg,GM,22335,6/3/05,Lit,Carrier Neutral Data Center
 15767-1,Frankfurt,1,Lyoner Strasse 28,Telecity - Frankfurt,Frankfurt,GM,60528,11/26/04,Lit,Carrier Neutral Data Center
 15770-1,Dusseldorf,1,Am Gatherhof 44,Myloc,Dusseldorf,GM,40599,4/1/05,Lit,Carrier Neutral Data Center
@@ -150,7 +150,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15775-1,Stockholm,1,"Vanda 3, Esbogatan 11",InterXion Stockholm,Kista,SE,16494,11/29/06,Lit,Carrier Neutral Data Center
 15780-0,Madrid,2,Pintor Velazquez S/N,Pintor Velazquez S/N,Madrid - Alcobendas,ES,0,12/25/20,On Hold - Engineering,Carrier Neutral Data Center
 15788-1,Rouen,1,Rond-point des Vaches,Netcenter LDCOM,Saint Etienne du Rouvray,FR,76 800,1/19/04,Lit,Carrier Neutral Data Center
-15789-1,Rennes,1,Route de Bray,Netcenter Neuf Cegetel,Cesson Sevign̩,FR,35 510,3/30/07,Lit,Carrier Neutral Data Center
+15789-1,Rennes,1,Route de Bray,Netcenter Neuf Cegetel,Cesson SevignÌ©,FR,35 510,3/30/07,Lit,Carrier Neutral Data Center
 15790-1,London,1,215 Marsh Wall,Telecity 2,London,UK,E14 9FJ,6/11/04,Lit,Carrier Neutral Data Center
 15801-1,Frankfurt,1,Taubenstrasse 7-9,Equinix (IX Europe),Frankfurt,GM,60313,10/5/05,Lit,Carrier Neutral Data Center
 15803-1,Bordeaux,1,Technolac Rue Dr G Peri,Netcenter LDCOM,Bordeaux,FR,33700,1/19/04,Lit,Carrier Neutral Data Center
@@ -175,7 +175,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 15964-1,Paris,1,7/9 Rue Petit,Global Switch,Clichy,FR,92110,10/12/05,Lit,Carrier Neutral Data Center
 15969-1,Amsterdam,1,Cessnalaan 1-33,Interxion AMS3,Schiphol-Rijk,NL,1119 NJ,11/14/06,Lit,Carrier Neutral Data Center
 15971-1,Amsterdam,1,Gyroscoopweg 58-62,Interxion AMS1/AMS4,Amsterdam,NL,1042 AC,3/16/05,Lit,Carrier Neutral Data Center
-15974-1,Vienna,1,Louis-H�_fliger-Gasse 10 Bldg. 50,COI Hub - VIE01 - Interxion VIE1 - VIX2,Vienna,AT,1210,11/11/04,Lit,Carrier Neutral Data Center
+15974-1,Vienna,1,Louis-HÌ_fliger-Gasse 10 Bldg. 50,COI Hub - VIE01 - Interxion VIE1 - VIX2,Vienna,AT,1210,11/11/04,Lit,Carrier Neutral Data Center
 15975-1,Vienna,1,Universitaetsstrasse 7,VIX1 (Aconet),Vienna,AT,1010,6/23/05,Lit,Carrier Neutral Data Center
 15984-0,Brussels,1,2 Avenue Leon GrosJean,Level 3,Brussels,BE,1140,12/14/12,Lit,Carrier Neutral Data Center
 15997-1,Berlin,1,Alboinstrasse 36-42,Speedbone,Berlin,GM,12103,9/1/05,Lit,Carrier Neutral Data Center
@@ -197,7 +197,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 16177-1,Paris,1,6 rue Latecoere,ADOXYS,Velizy Villacoublay,FR,78140,2/14/05,Lit,Carrier Neutral Data Center
 16189-0,Paris,1,8 Rue Grange Dame Rose,MGN,Velizy Villacoublay,FR,78142,10/28/11,Lit,Carrier Neutral Data Center
 16190-0,Lyon,1,81 Boulevard du Parc d Artillerie,MGN,Lyon,FR,69007,10/4/05,Lit,Carrier Neutral Data Center
-16199-1,Porto,2,Esta̤ao Ferroviaria,COI NAP - Renfe Hut,Oporto,PT,4300,7/13/05,Un Lit,Carrier Neutral Data Center
+16199-1,Porto,2,EstaÌ¤ao Ferroviaria,COI NAP - Renfe Hut,Oporto,PT,4300,7/13/05,Un Lit,Carrier Neutral Data Center
 16200-1,Copenhagen,1,Horskatten 3 -HAL1,COI Hub - CPH01 - Global Connect,Taastrup,DK,23630,3/15/05,Lit,Carrier Neutral Data Center
 16313-1,Newark,1,200B Meadowlands Pkwy,vXchnge,Secaucus,NJ,7094,11/21/14,Lit,Carrier Neutral Data Center
 16343-1,Cincinnati,1,302 West Third Street,Profitability.net,Cincinnati,OH,45202,6/13/12,Lit,Carrier Neutral Data Center
@@ -207,7 +207,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 1649-3,New York,1,33 Whitehall,New York Hosting Ctr,New York,NY,10004,7/31/02,Lit,Cogent Data Center
 16632-1,Memphis,1,7620 Appling Center Drive 1st floor,zColo,Memphis,TN,38133,7/29/11,Lit,Carrier Neutral Data Center
 16658-0,Antwerp,1,Noorderlaan 133,COI Hub - ANR01 - LCL Belgium,Antwerpen,BE,2030,6/29/10,Lit,Carrier Neutral Data Center
-16761-0,Frankfurt,1,Robert-Bosch-Stra��e 36,COI Pop - FRF01 - ITECON Mainz,Mainz,GM,D-55129,10/27/10,Lit,Carrier Neutral Data Center
+16761-0,Frankfurt,1,Robert-Bosch-StraÌÙe 36,COI Pop - FRF01 - ITECON Mainz,Mainz,GM,D-55129,10/27/10,Lit,Carrier Neutral Data Center
 16833-0,Warsaw,1,Al. Jerozolimskie 65/79,PLIX,Warsaw,PO,00-697 Warsaw,2/11/11,Lit,Carrier Neutral Data Center
 16865-0,Santa Clara,1,2050 Martin Avenue,2050 Martin Avenue,Santa Clara,CA,95050,7/21/10,Lit,Carrier Neutral Data Center
 16992-1,Raleigh,1,213 N Harrington St,COI Hub - RDU01 - DukeNet,Raleigh,NC,27603,9/15/11,Lit,Carrier Neutral Data Center
@@ -240,7 +240,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 19050-1,Copenhagen,1,Sydvestvej 100,TeliaSonera,Glostrup,DK,2600,4/20/06,Lit,Carrier Neutral Data Center
 19052-0,Dallas,1,1001 East Campbell Road,SunGard (former VeriCenter),Richardson,TX,75081,7/21/06,Lit,Carrier Neutral Data Center
 19066-1,Frankfurt,1,Friestrasse 26/Kruppstrasse 121-127,Equinix (former IX Europe),Frankfurt,GM,60388,8/21/08,Lit,Carrier Neutral Data Center
-19078-1,Stockholm,1,Marieh�_llsv�_gen 36,COI Pop - STO01 - Equinix-Stockholm SK1,Bromma,SE,16865,2/24/06,Lit,Carrier Neutral Data Center
+19078-1,Stockholm,1,MariehÌ_llsvÌ_gen 36,COI Pop - STO01 - Equinix-Stockholm SK1,Bromma,SE,16865,2/24/06,Lit,Carrier Neutral Data Center
 19082-1,Montreal,1,625 Blvd Rene-Levesque West,Cologix 1,Montreal,QC,H3B 1R2,5/25/06,Lit,Carrier Neutral Data Center
 19086-1,Montreal,1,3000 Blvd Rene-Levesque,Cologix 2,Montreal,QC,H3E 1T9,5/25/06,Lit,Carrier Neutral Data Center
 19090-1,Amsterdam,1,Capronilaan 2,Easynet,Schiphol-Rijk,NL,1119 NR,11/14/06,Lit,Carrier Neutral Data Center
@@ -339,10 +339,10 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 20778-1,Austin,1,"1122 Colorado St, Suite 110",COI Hub - AUS02 - Bestline NOC,Austin,TX,78701,8/21/08,Lit,Carrier Neutral Data Center
 20818-1,Amsterdam,1,Paul van Vlissingenstraat 16,Eunetworks POP,Amsterdam,NL,1096 BK,5/16/08,Lit,Carrier Neutral Data Center
 20820-1,Amsterdam,1,Wenckebachweg 127,Telecity 4 Datacenter,Amsterdam,NL,1096 AM,7/31/08,Lit,Carrier Neutral Data Center
-20829-1,Ljubljana,1,��martinska 106,Tu��Mobil,Ljubljana,SI,SI-1000,9/23/08,Lit,Carrier Neutral Data Center
-20830-1,Ljubljana,1,Brn̬i̬eva 49,Tu��Mobil,Ljubljana,SI,SI-1231,9/23/08,Lit,Carrier Neutral Data Center
+20829-1,Ljubljana,1,Êmartinska 106,TuÁMobil,Ljubljana,SI,SI-1000,9/23/08,Lit,Carrier Neutral Data Center
+20830-1,Ljubljana,1,BrnÌ¬iÌ¬eva 49,TuÁMobil,Ljubljana,SI,SI-1231,9/23/08,Lit,Carrier Neutral Data Center
 20832-1,Ljubljana,1,Tivolska 50,LIX - Ljubljana Internet Exchange,Ljubljana,SI,SI-1000,10/30/08,Lit,Carrier Neutral Data Center
-20833-1,Ljubljana,1,Beri̬evo 70,COI Hub - LJU01 - Stelkom RTP Beri̬evo,Ljubljana,SI,SI-1262,9/2/08,Lit,Carrier Neutral Data Center
+20833-1,Ljubljana,1,BeriÌ¬evo 70,COI Hub - LJU01 - Stelkom RTP BeriÌ¬evo,Ljubljana,SI,SI-1262,9/2/08,Lit,Carrier Neutral Data Center
 20834-1,Ljubljana,1,Dunajska Cesta 5,Data Center,Ljubljana,SI,SI-1000,10/30/08,Lit,Carrier Neutral Data Center
 20835-1,Zagreb,1,Selska cesta 93,COI Hub - ZAG01 - Altus IT,Zagreb,HR,HR-10000,9/24/08,Lit,Carrier Neutral Data Center
 20857-1,Newark,1,755 Secaucus Rd,Equinix NY4,Secaucus,NJ,7094,1/23/08,Lit,Carrier Neutral Data Center
@@ -367,7 +367,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 21116-0,Indianapolis,1,800 Oliver Ave,COI Hub - IND01 - Global Access Point,Indianapolis,IN,46225,1/20/09,Lit,Carrier Neutral Data Center
 21117-0,Indianapolis,1,733 W Henry Street,Lifeline Data Centers,Indianapolis,IN,46225,3/5/09,Lit,Carrier Neutral Data Center
 21131-2,Minneapolis,1,250 Marquette Avenue,Cogent Data Center,Minneapolis,MN,55401,10/13/10,Lit,Cogent Data Center
-21176-0,Ljubljana,1,Tehnolo��ki park 19,Technology Park Ljubljana,Ljubljana,SI,SI-1000,10/30/08,Lit,Carrier Neutral Data Center
+21176-0,Ljubljana,1,TehnoloÁki park 19,Technology Park Ljubljana,Ljubljana,SI,SI-1000,10/30/08,Lit,Carrier Neutral Data Center
 2125-0,Newark,1,2 Emerson Lane,Coresite NY2,Secaucus,NJ,7094,5/9/14,Lit,Carrier Neutral Data Center
 2133-1,Boston,1,70 Innerbelt Road,CRG West Datacenter,Somerville,MA,2143,11/9/07,Lit,Carrier Neutral Data Center
 21415-1,Columbus,1,226 North Fifth Street,Level (3),Columbus,OH,43215,10/17/08,Lit,Carrier Neutral Data Center
@@ -391,7 +391,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 2176-1,"Washington, DC",1,8502 Tyco Rd,Equinix (Formerly Switch and Data),Vienna,VA,22182,3/12/02,Lit,Carrier Neutral Data Center
 21787-0,Berlin,1,Nonnendammallee 15,E-Shelter,Berlin,GM,13599,9/23/09,Lit,Carrier Neutral Data Center
 21790-0,Florence,1,"Via Lucchese 141, Sesto Fiorentino",Playnet Datacenter,Florence,IT,50019,7/7/10,Lit,Carrier Neutral Data Center
-21793-0,Paris,1,7-9 avenue des Arts et M̩tiers,InterXion 3,Saint Denis,FR,93200,9/13/10,Lit,Carrier Neutral Data Center
+21793-0,Paris,1,7-9 avenue des Arts et MÌ©tiers,InterXion 3,Saint Denis,FR,93200,9/13/10,Lit,Carrier Neutral Data Center
 21801-0,Phoenix,1,8521 E Princess Drive,i/o Data Center Scottsdale,Scottsdale,AZ,85255,2/15/10,Lit,Carrier Neutral Data Center
 21802-1,San Diego,1,9305 Lightwave Ave,American Internet Services,San Diego,CA,92123,9/9/09,Lit,Carrier Neutral Data Center
 21806-0,Laredo,1,520 Matamoros,COI Hub - LRD01 - 520 Matamoros,Laredo,TX,78040,3/31/09,Lit,Carrier Neutral Data Center
@@ -480,7 +480,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 23732-0,Orange County,1,17222 Von Karman,zColo (formerly operated by Latisys),Irvine,CA,92614,11/27/12,Lit,Carrier Neutral Data Center
 23766-0,Houston,1,4201 Southwest Frwy,CyrusOne,Houston,TX,77027,10/19/07,Lit,Carrier Neutral Data Center
 23767-0,Houston,1,4211A Southwest Frwy,CyrusOne,Houston,TX,77027,1/6/11,Lit,Carrier Neutral Data Center
-23776-0,Sevilla,1,"Av. Montesierra (Pol. Ind. Ctra. Amarilla), n�36",COI Hub - SVQ01 - Sevilla Telvent,Sevilla Telvent,ES,Pending,3/31/11,Lit,Carrier Neutral Data Center
+23776-0,Sevilla,1,"Av. Montesierra (Pol. Ind. Ctra. Amarilla), nå¼36",COI Hub - SVQ01 - Sevilla Telvent,Sevilla Telvent,ES,Pending,3/31/11,Lit,Carrier Neutral Data Center
 23785-1,Santa Clara,1,2151 Mission College Boulevard,Internap,Santa Clara,CA,95054,12/6/10,Lit,Carrier Neutral Data Center
 23801-0,"Washington, DC",1,21635 Red Rum Drive,zColo (formerly operated by Latisys),Ashburn,VA,20147,12/10/10,Lit,Carrier Neutral Data Center
 23813-0,Slough-West London,1,8 Buckingham Avenue,Equinix-LD5,Slough Berkshire,UK,SL1 4AX,10/26/10,Lit,Carrier Neutral Data Center
@@ -578,8 +578,8 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 31254-0,Athens,1,"76 Ifestou str, Koropi",Lambda Hellix S.A.,Athens,GR,19400,12/28/11,Lit,Carrier Neutral Data Center
 31258-0,Arezzo,1,Via Gobetti 96,COI POP - QZO03 - Aruba datacenter,Arezzo,IT,52100,8/5/11,Lit,Carrier Neutral Data Center
 31299-0,Thessaloniki,1,8 Iatrou Gogousi Str.,Interworks,Thessaloniki,GR,56429,4/24/12,Lit,Carrier Neutral Data Center
-31413-0,Granada,1,"Urbanizaci�_n Cortijo del Conde, manzana 8, nave 13",COI Hub - GRX01 - Grupo Trevenque,Granada,ES,18015,7/18/12,Lit,Carrier Neutral Data Center
-31416-0,Poznan,1,42 P�_�_wiejska Street,COI Hub - POZ01 - Beyond Centrum Danych,Poznan,PO,60-273,11/11/11,Lit,Carrier Neutral Data Center
+31413-0,Granada,1,"UrbanizaciÌ_n Cortijo del Conde, manzana 8, nave 13",COI Hub - GRX01 - Grupo Trevenque,Granada,ES,18015,7/18/12,Lit,Carrier Neutral Data Center
+31416-0,Poznan,1,42 PÌ_å_wiejska Street,COI Hub - POZ01 - Beyond Centrum Danych,Poznan,PO,60-273,11/11/11,Lit,Carrier Neutral Data Center
 3148-1,Seattle,1,12201 Tukwila International Blvd,Zcolo Data Center,Tukwila,WA,98168,8/27/10,Lit,Carrier Neutral Data Center
 31529-0,"Washington, DC",1,9651 Hornbaker Road,COPT-Powerloft,Manassas,VA,20109,11/30/12,Lit,Carrier Neutral Data Center
 31551-0,Santa Clara,1,2650 Walsh Avenue,Vantage Data Center (V2),Santa Clara,CA,95051,12/2/11,Lit,Carrier Neutral Data Center
@@ -611,12 +611,12 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 34357-0,Paris,1,1 Rue Rateau,Interxion PAR7 - Paris,La Courneuve,0,93120,9/21/12,Lit,Carrier Neutral Data Center
 34382-0,Paris,1,110 bis avenue du General Leclerc,Equinix PA4,Pantin,FR,93500,10/22/12,Lit,Carrier Neutral Data Center
 34561-0,Newark,1,105 Enterprise Avenue South,Equinix NY6,Secaucus,NJ,7904,3/11/16,Lit,Carrier Neutral Data Center
-35173-0,Vilnius,1,Juozapavi̬iaus g.13,COI Hub - VNO01 - Datalogistics Vilnius,Vilnius,LI,LT-09311,5/9/12,Lit,Carrier Neutral Data Center
+35173-0,Vilnius,1,JuozapaviÌ¬iaus g.13,COI Hub - VNO01 - Datalogistics Vilnius,Vilnius,LI,LT-09311,5/9/12,Lit,Carrier Neutral Data Center
 35608-0,Salt Lake City,1,14944 Pony Express,C7 Data Center-GP1,Bluffdale,UT,84065,9/9/15,Lit,Carrier Neutral Data Center
 35859-1,Phoenix,1,3410 E University Drive,Cogent Data Center,Phoenix,AZ,85034,6/21/12,Lit,Cogent Data Center
 359-1,Chicago,1,111 N Canal St - Suite 200,Level 3,Chicago,IL,60606,12/13/01,Lit,Carrier Neutral Data Center
 3597-1,Boston,1,1 Cabot Rd First Floor,Expedient (formerly Safecore),Medford,MA,2155,1/29/02,Lit,Carrier Neutral Data Center
-36125-0,Sevilla,1,"Avda. de Andaluc�_a, s/n. Dolmen de la Pastora",Axion,Valencina de la Concepci�_,ES,41907,4/26/13,Lit,Carrier Neutral Data Center
+36125-0,Sevilla,1,"Avda. de AndalucÌ_a, s/n. Dolmen de la Pastora",Axion,Valencina de la ConcepciÌ_,ES,41907,4/26/13,Lit,Carrier Neutral Data Center
 36127-0,London,1,"Unit 8-10, The Oxgate Business Centre",LDeX,London,0,NW2 7JA,5/6/14,Lit,Carrier Neutral Data Center
 36278-0,West Palm Beach,1,424 Hampton Rd,Cloud South Data Center,West Palm Beach,FL,33405,9/26/13,Lit,Carrier Neutral Data Center
 36483-1,San Diego,1,5775 Kearny Villa Road,Scale Matrix,San Diego,CA,92123,3/28/12,Lit,Carrier Neutral Data Center
@@ -639,7 +639,7 @@ Building Id,Cogent Market,Ranking,Address,Building/Node Name,City,State,Zip Code
 38803-0,"Washington, DC",1,18155 Technology Drive - Pod B,NAP of the Capital Region - Pod B,Culpeper,VA,22701,9/28/12,Lit,Carrier Neutral Data Center
 38804-0,"Washington, DC",1,18155 Technology Drive - Pod C,NAP of the Capital Region - Pod C,Culpeper,VA,22701,9/28/12,Lit,Carrier Neutral Data Center
 38844-0,Luxembourg,1,3 op der poukewiss,DC 2 Roost LuxConnect,Rouscht,0,L 7795,6/27/13,Lit,Carrier Neutral Data Center
-38874-1,Munich,1,Beta-Strass 1,COI HUB - MUC03 - MTI/GLH Unterfoehring,Unterf̦hring,GM,85774,7/22/15,Lit,Carrier Neutral Data Center
+38874-1,Munich,1,Beta-Strass 1,COI HUB - MUC03 - MTI/GLH Unterfoehring,UnterfÌ¦hring,GM,85774,7/22/15,Lit,Carrier Neutral Data Center
 38959-0,South Bend,1,1440 Ignition Drive South,Data Realty,South Bend,IN,46601,3/12/13,Lit,Carrier Neutral Data Center
 38963-0,Luxembourg,1,"12 D, Rue Guillaume J. Kroll",European Data Hub,Luxembourg,0,L-1882,9/26/13,Lit,Carrier Neutral Data Center
 38974-1,Istanbul,1,Kimiz SOK No: 30 Cobancesme Bahcellievler,COI Hub - IST01 - Superonline Yenibosna Data Cente,Istanbul,TR,34194,11/6/12,Lit,Carrier Neutral Data Center
